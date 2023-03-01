@@ -130,7 +130,7 @@ If a Customer elects to replace you as a Solution Partner, you will not have any
 7.	**AMENDMENT OF THE TERMS AND ‘REQUIREMENTS & BENEFITS’**  
 
 7.1.	These Terms and the Requirements & Benefits document might be amended from time to time by VENDOR. 
-In such case we will publish the updated Terms or Requirements & Benefits on the webpages: ...  and ... and will notify you of the change by email.  
+In such case we will publish the updated Terms or Requirements & Benefits on the webpages: https://info.erp.net/partners/partner-program-terms-and-conditions.html and https://info.erp.net/partners/partner-program-requirements-and-benefits.html and will notify you of the change by email.  
 
 7.2.	If you do not agree to be bound by the new Terms or the new Requirements & Benefits and you wish to terminate your partnership with VENDOR, you must inform VENDOR of this in written form within 10 days after we send you notice of the change. 
 If no written notification for this is received from you, you are deemed to have agreed with the new Terms or Requirements & Benefits and you will be bound by them.  
