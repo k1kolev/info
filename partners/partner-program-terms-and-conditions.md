@@ -29,7 +29,7 @@ Non-compliance with specifications or requirements will be considered as Bugs at
 **2.	BECOMING A PARTNER**  
 
 2.1.	**Application**. 
-To become a partner, you have to fill and submit the application form available on the following page: ... .  
+To become a partner, you have to fill and submit the application form available on the following page: https://info.erp.net/partners/apply-for-a-partner.html .  
 VENDOR may accept your application at its discretion but is not obliged to do so. 
 If accepted, VENDOR sends you a “**Confirmation Letter**” by email.  
 
