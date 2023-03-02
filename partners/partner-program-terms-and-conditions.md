@@ -74,7 +74,7 @@ We do not assume any responsibility in regard to fulfilment of your obligations 
 
 5.5.	**Terms of Sales of Resellers**. 
 In order to conclude Sales, Resellers must use VENDOR’s template Subscription Order, available on the following link: ... .  
-Resellers are also obliged to conclude Sales only according to the pricing determined by VENDOR on the following page: ... .  
+Resellers are also obliged to conclude Sales only according to the pricing determined by VENDOR on the following page: https://erp.net/pricing/ .  
 In case we change the template or pricing, we will notify you by email.  
 
 5.6.	**Reporting**. 
@@ -100,7 +100,7 @@ We will inform you, if you have been requested as a Solution Partner by a Custom
 You may either accept or reject this request in 10 days’ time from receiving notice from us.  
 
 6.2.	**Obligations**. 
-If you choose to accept such a request, you will be obliged to receive reports of said Customer about Bugs discovered by them and submit them in our ticketing system through the procedure, described here: ... .  
+If you choose to accept such a request, you will be obliged to receive reports of said Customer about Bugs discovered by them and submit them in our ticketing system through the procedure, described here: https://support.erp.net/ .  
 
 6.3.	**Commission**. 
 You are not allowed to charge the Customer for this service. 
