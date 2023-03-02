@@ -226,4 +226,4 @@ All notices and communications to the Partner shall be sent to the addresses you
 
 14.2.	VENDOR and Partner shall resolve any disputes arising out of the interpretation and performance of the Partnership Agreement by means of understanding and mutual concessions, and where this is not possible, shall submit the dispute to the competent Bulgarian court in Sofia, where Bulgarian law shall be applicable.  
 
-These Terms enter into force on 01 March 2023.  
+These Terms enter into force on 2023-March-01.  
