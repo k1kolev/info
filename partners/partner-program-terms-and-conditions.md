@@ -215,7 +215,7 @@ For this reason, each party undertakes to comply with all requirements and regul
 
 13.	**CORRESPONDENCE**  
 
-13.1.	All notices and communications to VENDOR shall be sent only in writing at the addresses, included on the www.erp.net page. 
+13.1.	All notices and communications to VENDOR shall be sent only in writing at the addresses, included on the https://erp.net/ page. 
 All notices and communications to the Partner shall be sent to the addresses you have filled in the application form.  
 
 13.2.	The written form shall also be deemed to have been fulfilled when the communication is made by electronic mail or other technical means which exclude the possibility of inaccurate reproduction of the statement.  
@@ -226,4 +226,4 @@ All notices and communications to the Partner shall be sent to the addresses you
 
 14.2.	VENDOR and Partner shall resolve any disputes arising out of the interpretation and performance of the Partnership Agreement by means of understanding and mutual concessions, and where this is not possible, shall submit the dispute to the competent Bulgarian court in Sofia, where Bulgarian law shall be applicable.  
 
-These Terms enter into force on [date].  
+These Terms enter into force on 01 March 2023.  
