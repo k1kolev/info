@@ -29,20 +29,17 @@ Companies working with inventories are all around us:
 
 If your company is involved in manufacturing, distribution, field services, retail, e-commerce, or a similar field, then operating an inventory is an **essential daily activity** of yours.  
 
-The purpose of an Inventory Management System is to support **the execution of all activities** related to the **storage** and **movements** of the business's goods **into a store**, **out of it**, and **between different stores**.  
+The purpose of an Inventory Management System is to **track, monitor, and control** the company's inventory along with the flow of items **into a store**, **out of it**, and when transferring **between different stores**.  
 
-**IMS in @@name** is responsible to keep track and provide information about all operations involving stores and stock, such as:  
+Your business can enjoy a set of benefits from using **a comprehensive inventory management solution**:  
 
-* Receipt, issue, and transfer of goods 
-* Stock counting (inventory checking) 
-* Store management
+* Accurate inventory and product flow tracking 
+* Efficient order fulfillment
+* Improved supply chain operations
+* Reduced bottlenecks
+* Profound business intelligence  
 
-Moreover, the system generates reports based on the records for all product storage and movements:  
-
-* Products and quantities at every store 
-* Stock movements  
-
-The all-around view provided by the **Inventory Management of @@name** makes it the **single source of information** about **what**, **where**, and **how much** of everything is or has been available.  
+and many others.  
 
 ## Your inventory's contents
 
@@ -63,6 +60,57 @@ Some examples can be:
 > Examples are countless, like work clothing and PPE for operators and technicians, samples and on-display products, or consumables for product repairs and warranty services.
 > 
 > These are necessary for businesses to run their everyday operations in a smooth and uninterrupted way, and to increase the quality of their services as well.  
+
+## Managing your inventory with @@name platform
+
+**Inventory Management System in @@name** enables you to view and track all your inventory items and their movements through stores and dates.  
+
+The system helps you carry out all operations involving stores and stock, such as:  
+
+* Receipt, issue, and transfer of goods 
+* Inventory check-ups (wall-to-wall) 
+* Cost entry, automated calculating, and automated applying of corrections 
+* Store management  
+
+Moreover, the system generates reports based on the records for all product storage and movements:  
+
+* Current product availability 
+* Products and quantities by date 
+* Stock movements - detailed chronological and summary reports 
+* Lot tracking
+
+Your inventory's operations and reports records are itemized and arranged in a tabular form, presented with the items' relevant parameters. 
+This enables your teams to navigate through and perceive all product availability and movements quickly and easily.  
+
+You can adjust your reporting to display as compact or as detailed as necessary for the current tasks.  
+
+The all-around view provided by the **Inventory Management of @@name** makes it the **single source of information** about **what**, **where**, and **how much** of everything is or has been available.  
+
+
+Inventory management is a core component of @@name, integrated deeply with other system modules and apps. 
+It is the central place where you manage and document your company's product availability and movements between your stores. 
+
+The inventory module communicates with other modules, such as Accounting, Procurement, Production, and CRM, to automate 
+
+
+* Store orders and store transactions 
+* Transfers between stores 
+* Inventory check-ups (wall-to-wall) 
+
+* Current product availability
+* Store movements by date (chronology)
+* Store availability by date
+
+
+
+
+This way you stay in tune with
+
+The products can be ordered, grouped and sorted by 
+throughout a business's stores, itemized by product and 
+
+
+
 
 ## Inventory management's crucial importance in your business
 
@@ -122,39 +170,14 @@ Businesses must stay flexible, try to minimize their costs, deliver on time, and
 
 keeping your business safe from mismatch between data which the customer has provided through various sales channels
 
+## Accounting
 
-
-
-## Your inventory in @@name platform
-
-@@name enables you to view and track all your inventory items and their movements through stores and dates.  
-
-Your inventory is itemized and arranged in a tabular form, presented with the items' relevant parameters. 
-This enables your teams to view and perceive all products availability and movements quickly and easily.  
-
-You can adjust your reporting to display as compact or as detailed as necessary for the current tasks. 
-
-Inventory management is a core component of @@name, integrated deeply with other system modules and apps. 
-It is the central place where you manage and document your company's product availability and movements between your stores. 
-
-The inventory module communicates with other modules, such as Accounting, Procurement, Production, and CRM, to automate 
-
-
-* Store orders and store transactions 
-* Transfers between stores 
-* Inventory check-ups (wall-to-wall) 
-
-* Current product availability
-* Store movements by date (chronology)
-* Store availability by date
+IMS updates the inventory when quantities and costs change, and acts upon the accounting records in the system to apply all updates. 
+In addition, the system is intended to trace the quantities and costs of the goods. 
 
 
 
 
-This way you stay in tune with
-
-The products can be ordered, grouped and sorted by 
-throughout a business's stores, itemized by product and 
 
 
 
