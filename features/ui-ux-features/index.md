@@ -13,5 +13,6 @@ This section will help you get familiar with the UI/UX features, present example
 * **[Roles](roles.md)**
 * **[Layout Management](layout-management.md)**
 * **[Navigators](navigators.md)**
-* **[Multifunctional Switchable Side Panels](side-panels.md)**
+* **[Multifunctional Switchable Side Panel](side-panel.md)**
+* **[Run UI Function](run-ui-function.md)**
 * 
