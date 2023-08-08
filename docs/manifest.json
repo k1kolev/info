@@ -305,10 +305,10 @@
     },
     {
       "type": "Resource",
-      "source_relative_path": "docs/features/general/user-data-attributes.png",
+      "source_relative_path": "docs/features/general/stored-attributes.png",
       "output": {
         "resource": {
-          "relative_path": "docs/features/general/user-data-attributes.png"
+          "relative_path": "docs/features/general/stored-attributes.png"
         }
       },
       "is_incremental": false,
@@ -1467,18 +1467,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/general/custom-attributes.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/general/custom-attributes.html",
-          "hash": "48phQtZCWkSfNoFiJMINnQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/general/document-chain.md",
       "output": {
         ".html": {
@@ -1574,11 +1562,23 @@
       "version": ""
     },
     {
+      "type": "Conceptual",
+      "source_relative_path": "features/general/stored-attributes.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/general/stored-attributes.html",
+          "hash": "/D/Nl9IIWS3BTw25QAeJrA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
-      "source_relative_path": "features/general/user-data-attributes.png",
+      "source_relative_path": "features/general/stored-attributes.png",
       "output": {
         "resource": {
-          "relative_path": "features/general/user-data-attributes.png"
+          "relative_path": "features/general/stored-attributes.png"
         }
       },
       "is_incremental": false,
@@ -1995,7 +1995,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "8hxKBFpZjhrNj8DJtFVInA=="
+          "hash": "Ft55KkSHq2fzmythUv/QmA=="
         }
       },
       "is_incremental": false,
@@ -2091,7 +2091,7 @@
       "output": {
         ".html": {
           "relative_path": "information/faq/hosting-faq.html",
-          "hash": "fyl5TmxkSfSswEEKE3hXzw=="
+          "hash": "aS3EpIak7mdxPtQXUolBSA=="
         }
       },
       "is_incremental": false,
@@ -2988,7 +2988,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "IfjhnAM3L6d55UeotewuhQ=="
+          "hash": "OEmu42LeBghB3zJxWg2n7w=="
         }
       },
       "is_incremental": false,
