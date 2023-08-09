@@ -15,13 +15,18 @@ These customers will always know where to go and who to look for when they want 
 
 To tackle all the challenges of customer service in the modern world of business efficiently, your company and its teams should go in well-prepared with the right technology.  
 
-For that, @@name's CRM module has all the business tools necessary to achieve the highest quality of customer service and put your business on the fast lane to success in a demanding market. 
+For that, @@name's CRM module has all the business tools necessary to achieve the highest quality of customer service and put your business on the fast lane to success in a demanding market.  
 
 ## Unify and centralize customer information
 
 Building healthy customer relationships is easily one of the most crucial factors of success for your business.  
 
+Successful communication helps companies develop a sense of expertise, trust, and value in their customers. 
+Building brand loyalty in customers helps the business win more customer orders, drive more revenue, and achieve a greater reach over the market.  
+
 Knowing the ins and outs of your customers' business, what you have delivered to them in the past, and want they currently have a need for is invaluable data for your sales and management teams.  
+
+
 
 Connecting all various categories of customer data, streaming all this data in a single place, and unifying it in a structured, informative, and easy-to-read way can boost your company's productivity and **competitiveness** - 
 
