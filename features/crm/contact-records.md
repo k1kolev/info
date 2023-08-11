@@ -3,34 +3,33 @@
 ## Overview
 
 We communicate with a lot of people in the course of our daily work. 
-Now, our digital companions allow us to communicate even faster, longer, and more frequently than ever.  
+Now, our digital companions allow us to call, meet, and text anytime, anywhere, as frequently as we desire. 
+Successful communication allows companies to **develop a wider network for business** and **achieve a greater market reach**.  
 
-Whether meeting our contacts in person, having a call over the phone, exchanging emails, texting via chat, or attending an online video call or meeting - we are constantly socializing and putting effort into creating stable relationships with others.  
+With the growth of a business comes **a growing number of contacts**, as well as **a growing number of communication channels**. 
+Interactions with those contacts also tend to **become more sophisticated in nature**, adding in more details over time. 
+So, lots of channels and touchpoints, lots of contacts, with lots of details - that sums up to quite an amount of information that your company has to manage in total.  
 
-Successful communication allows companies to develop a wider network for business and achieve a greater reach over their market.  
-
-With the growth of a business comes a growing number of contacts, as well as a growing number of communication channels. 
-Interactions with those contacts also tend to become more sophisticated in nature. 
-It makes sense for your team members to look for ways to associate every person and organization with as many contact details as they can get their hands on. 
-This way they are able to converse productively and conveniently, making sure they never miss an opportunity ahead.  
-
-So, lots of channels and touchpoints, lots of contacts, with lots of data for them - that sums up to a huge amount of information that your company has to manage in total.  
-
-Keeping track of all the conversations with people and companies that bring value to your business, as well as the various types of details related to them, makes it **crucial to process and store** all this information in a **secure, crystal-clear, well-structured way**.  
-
-Using a solution for integrated, centralized, and comprehensive contact management can go a long way toward successful communication with company teams, leads, customers, suppliers, sub-contractors, and partners.  
+To keep track of all the conversations and details effectively, it is **crucial to process and store** all this information in a **unified, secure, crystal-clear, and well-structured way**.  
 
 **@@name's CRM module** provides an integrated **Contact Management app** designed to help you with managing your contacts base and all their information in a centralized, confirmed, and trusted place. 
 The app provides a full set of intuitive tools for even the most complex contact management tasks.  
 
-**Contact Management of @@name** allows you to **break down the huge chunks of data** about each contact into neatly organized sections, **arrange these data sections** for fast and easy review, and **combine all this information in a complete, single record** of every person or business.  
-
-## Contact Management in @@name
+## What is Contact Management
 
 With so many organizations and teams we interact with, contact management alone brings up many challenges. 
 @@name platform's CRM module provides you with a complete set of business tools for a seamless experience in managing contact information.  
 
+**Contact Management of @@name** allows you to **break down the huge chunks of data** about each contact into neatly organized sections, **arrange these data sections** for fast and easy review, and **combine all this information in a complete, single record** of every person or business.  
+
 Utilizing the CRM module's built-in Contact Management app equips your team with everything it needs to tackle all challenges on time and in scale, ultimately making your business a winner.  
+
+Using a solution for **integrated**, **centralized**, and **comprehensive contact management** can go a long way toward successful communication with company teams, leads, customers, suppliers, sub-contractors, and partners.  
+
+Oftentimes, companies tend to disperse all this data once across various spreadsheets, email lists, and apps, and once more through different departments, teams, and even personal accounts. 
+However, maintaining the integrity, accuracy, privacy, security, and validity of contact data requires a solution that prevents spilling it around.  
+
+## Why is proper contact management important
 
 ### Streaming all contact data into a single space
 
