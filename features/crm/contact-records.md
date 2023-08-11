@@ -12,10 +12,11 @@ So, lots of channels and touchpoints, lots of contacts, with lots of details - t
 
 To keep track of all the conversations and details effectively, it is **crucial to process and store** all this information in a **unified, secure, crystal-clear, and well-structured way**.  
 
-**@@name's CRM module** provides an integrated **Contact Management app** designed to help you with managing your contacts base and all their information in a centralized, confirmed, and trusted place. 
+**@@name's CRM module** comes with a built-in **Contact Management app** designed to help you with managing your contacts base and integrating all their information in a centralized, confirmed, and trusted place. 
 The app provides a full set of intuitive tools for even the most complex contact management tasks.  
 
-## What is Contact Management
+## What exactly is contact management
+
 
 With so many organizations and teams we interact with, contact management alone brings up many challenges. 
 @@name platform's CRM module provides you with a complete set of business tools for a seamless experience in managing contact information.  
