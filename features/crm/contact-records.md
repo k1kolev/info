@@ -10,12 +10,32 @@ With the growth of a business comes **a growing number of contacts**, as well as
 Interactions with those contacts also tend to **become more sophisticated in nature**, adding in more details over time. 
 So, lots of channels and touchpoints, lots of contacts, with lots of details - that sums up to quite an amount of information that your company has to manage in total.  
 
-To keep track of all the conversations and details effectively, it is **crucial to process and store** all this information in a **unified, secure, crystal-clear, and well-structured way**.  
+To keep track of all the conversations and details effectively, it is **crucial to process and store** all this information in a **unified, secure, crystal-clear, and well-structured way**. 
+Further improving the business productivity, it is fundamental to have at hand a solution that allows you to use this contacts throughout your whole business platform, easily transforming contacts to customers, suppliers, partners, dealers, and other stakeholders.  
 
-**@@name's CRM module** comes with a built-in **Contact Management app** designed to help you with managing your contacts base and integrating all their information in a centralized, confirmed, and trusted place. 
-The app provides a full set of intuitive tools for even the most complex contact management tasks.  
+**@@name's CRM module** comes with a built-in **Contact Management app** designed to help you with managing your contacts base in a centralized, confirmed, and trusted place. 
+The app provides a full set of intuitive tools for even the most complex contact management tasks. 
+As a built-in app, Contact Management gives you the unique opportunity to **integrate your contact records with all the ERP platform's functionalities, modules, and apps**.  
 
-## What exactly is contact management
+## Integration with a complete business ecosystem
+
+Oftentimes, companies tend to disperse all this data once across various spreadsheets, email lists, and apps, and once more through different departments, teams, and even personal accounts. 
+However, taking care of contact information properly, such as maintaining the integrity, accuracy, privacy, security, and validity of contact data, requires a specialized solution that prevents spilling it to disparate sources.  
+
+
+
+Collecting and organizing the contact data in a detailed, comprehensive contact records structuring the information in the relevant sections 
+
+
+
+Utilizing a centralized contact management functionality that is integrated into the ERP platform itself offers your business a strong competitive edge.  
+
+Use the already existing contact records throughout the rest of the ERP platform provides many unique opportunities that can bring high value to your company:  
+
+* Turning a contact into a customer, supplier, partner, dealer, or other stakeholder with ease by extending the record's data to other modules 
+* Navigate with speed and ease to the contact's offers, orders, shipment documents, shared activities, and any other documentation 
+* 
+
 
 
 With so many organizations and teams we interact with, contact management alone brings up many challenges. 
@@ -27,8 +47,7 @@ Utilizing the CRM module's built-in Contact Management app equips your team with
 
 Using a solution for **integrated**, **centralized**, and **comprehensive contact management** can go a long way toward successful communication with company teams, leads, customers, suppliers, sub-contractors, and partners.  
 
-Oftentimes, companies tend to disperse all this data once across various spreadsheets, email lists, and apps, and once more through different departments, teams, and even personal accounts. 
-However, maintaining the integrity, accuracy, privacy, security, and validity of contact data requires a solution that prevents spilling it around.  
+
 
 ## Why is proper contact management important
 
@@ -48,7 +67,6 @@ This helps your business stay productive and competitive by bringing valuable be
 
 Over time, people and businesses tend to change many of their details. 
 Thus, if unattended, contact data can rapidly become outdated. 
-In addition, a mix of various departments where experienced and new employees work together can easily lead to duplicate records arising.  
 
 Efficient and useful contact data management requires your teams to keep contact information as detailed and as accurate as possible. 
 
@@ -57,7 +75,6 @@ Using the dedicated contact management app of @@name's CRM module provides the m
 * Eliminate confusion, inconsistency, and delays in communication with people and businesses 
 * Automatically validate the type and formats of contact details - such as phone numbers, email addresses, physical addresses, and others 
 * Maintain accurate contact information and update it the moment you learn about new changes 
-* Identify duplicate data fast and merge it in a clear and unified way  
 
 Your business can benefit by practically terminating the risks of data loss, communication errors, or missed opportunities, and enjoy a seamless communicational experience with teams and stakeholders.  
 
