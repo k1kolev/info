@@ -34,7 +34,19 @@ Use the already existing contact records throughout the rest of the ERP platform
 
 * Turning a contact into a customer, supplier, partner, dealer, or other stakeholder with ease by extending the record's data to other modules 
 * Navigate with speed and ease to the contact's offers, orders, shipment documents, shared activities, and any other documentation 
-* 
+* Assign or add as participant this contact to a huge variety of activities and engagements throughout the system
+
+## Making your customers feel involved with your business
+
+Contact Management in @@name offers your company a great way to make your customers feel a sense of strong connection with your business. 
+The integration capabilities of @@name come to your advantage by allowing you to create external users and relating them with your contacts.  
+
+By doing this, your business provides your customers with the opportunity to visit your B2B portal. 
+There, they can do various activities related to them, such as reviewing orders and payments due, downloading invoices, placing new orders, as well as chat with your teams.  
+
+This can help your customers feel a stronger connection and a sense of appreciation from your brand, boosting their loyalty and your sales in the long term.  
+
+## Accurate and validated contact information
 
 
 
