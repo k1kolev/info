@@ -10,9 +10,14 @@ Having access to information is highly valuable, and having immediate access to 
 
  ## Quick Filter Row
 
-Quick Filter Row allows you to rapidly look for information with minimal efforts and actions on your behalf.  
+**Quick Filter Row** allows you to rapidly look for information with minimal effort and actions on your behalf.  
 
 
 
 
  ## Advanced Filter
+
+For those special cases, where you need to fine-tune your search for information, @@name provides **Advanced Filter**.  
+
+**Advanced Filter** enables you to define a set of individual filters that function in combination to sieve your data with extreme precision.  
+
