@@ -27,5 +27,13 @@ Providing everyone in your business a unified view of the contents of a record e
 
 ## Customizing Panels
 
+Your navigators offer a way to review in bulk the information about a number of records in a quick glance.  
+
+Each role has its own purpose and requirements and is defined with the necessary level of access.  
+
+And for this, @@name allows you to customize exactly the same or an entirely different layout of your panels for every role you use.  
+
+
+
 ## Customizing Views and Menu
 
