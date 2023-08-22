@@ -22,4 +22,4 @@ This section will help you familiarize yourself with the UI and UX features, pre
 * **[Tiles](tiles.md)**
 * **[Favorites](favorites.md)**
 * **[Multi-Column View](multi-column-view.md)**
-* 
+* **[Responsive and Adaptive Layout](responsive-and-adaptive-layout.md)**
