@@ -19,3 +19,4 @@ Learn how the **Run UI function** can empower your business to tackle documentat
 
 ## Preparing documents in a split second
 
+## Connecting records in a meaningful, complete documentation
