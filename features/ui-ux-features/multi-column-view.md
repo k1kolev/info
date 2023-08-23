@@ -9,5 +9,5 @@ To reduce the time you spend scrolling and increase the time you spend performin
 
 ## Arranging your information for higher performance
 
-The Multi-Column View is a UI functionality of @@name that allows you to order your information in sections without overpopulating or wasting space.  
+The Multi-Column View is a UI functionality of @@name that allows you to order your information sections in just the right density without overpopulating your screen or wasting space.  
 
