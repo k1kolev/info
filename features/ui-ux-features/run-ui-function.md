@@ -11,11 +11,11 @@ Utilizing such software in everyday business brings many benefits to it, as the 
 
 A boost in productivity and efficiency, an error-free documentation process, automated going through predefined, well-known, and worked-out routes when fulfilling documents - these are only some of the great advantages such platforms have to offer.  
 
-Adding to automation, having an interactive, visually understandable way of completing documentation-related actions leads to a more intuitive and pleasant experience for everyone in your company.  
+Adding to automation, having an **interactive**, **visually understandable way** of **completing documentation-related actions** leads to a more intuitive and pleasant experience for everyone in your company.  
 
-All this results in faster business operations and ease of making it to the next steps of a document chain.  
+@@name platform provides a modern, specialized UI functionality that results in faster business operations and ease of making it through the next steps of the document chain you're working on.  
 
-To relieve you and your personnel from the
+Learn how the **Run UI function** can empower your business to tackle documentation like a winner.  
 
 ## Preparing documents in a split second
 
