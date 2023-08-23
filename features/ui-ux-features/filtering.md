@@ -19,5 +19,6 @@ Having access to information is highly valuable, and having immediate access to 
 
 For those special cases, where you need to fine-tune your search for information, @@name provides **Advanced Filter**.  
 
-**Advanced Filter** enables you to define a set of individual filters that function in combination to sieve your data with extreme precision.  
+**Advanced Filter** enables you to define a set of individual filters on a single panel. 
+The filters and the conditions you set for them function in combination to sieve your data with extreme precision.  
 
