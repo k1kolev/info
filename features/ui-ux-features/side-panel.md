@@ -20,4 +20,6 @@ As one of the multitools of @@name's web client, Side Panel enables you to switc
 
 The Side Panel along your navigators provides a unique 360-degree view of data, fetched from various locations in your platform.  
 
-You can call up
+The multipurpose essence of the Side Panel offers you a selection between multiple features, related data objects and tables, view modes, widgets, and settings.  
+
+
