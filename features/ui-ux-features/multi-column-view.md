@@ -2,5 +2,10 @@
 
 ## Overview
 
-Utilizing your screen space as efficiently as possible is definitely an important aspect of your daily work.  
+Utilizing your screen space as efficiently as possible is definitely an important aspect of your daily work. 
+Having a consistent and nicely organized view of your information means higher productivity and less repetitive actions for your company.  
+
+To reduce the time you spend scrolling and increase the time you spend performing, @@name offers a Multi-Column View interface for your business platform.  
+
+## Arranging your information for higher performance
 
