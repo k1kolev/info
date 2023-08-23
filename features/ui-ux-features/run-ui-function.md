@@ -19,4 +19,7 @@ Learn how the **Run UI function** can empower your business to tackle documentat
 
 ## Preparing documents in a split second
 
+![Run UI Function](Run-UI-Function-erpnet-image-2023-08-22.png)  
+
 ## Connecting records in a meaningful, complete documentation
+
