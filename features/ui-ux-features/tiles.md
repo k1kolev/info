@@ -15,9 +15,7 @@ Finding strictly what we need - now, fast - is another.
 And the more fast-paced our business environment is, the more the importance of quick and suitable access to data becomes. 
 Having to navigate back and forth to the same types of data time and again, especially under pressure, can be challenging.  
 
-And this is a challenge that @@name enables you to instantly tackle with its built-in application **Tiles**:  
-
-![Tiles](Tiles-erp-net-image-2023-08-24.png)  
+And this is a challenge that @@name enables you to instantly tackle with its built-in application **Tiles**.  
 
 ## Your Data on Focus
 
@@ -26,15 +24,22 @@ Rapidly occurring tasks, speaking with customers and partners, and responding to
 @@name's Tiles application enables your teams to preview and access information about interesting groups of records neatly organized in tiles. 
 Each tile shows a caption and the number of records that will be presented to you when you select it.  
 
+![Tiles](Tiles-erp-net-image-2023-08-24.png)  
+
 > [!TIP]  
-> You can create tiles to bring up specific types of records that you will find most valuable.
-> This allows you to always keep them one touch away.  
+> You and your team can create tiles to bring up specific types of records that you will find more valuable.
+> This offers you an easy solution to always keep important information one touch away.  
+
+## 
 
 Enhancing navigation, tiles also act as shortcuts to their related groups of records.  
 Tiles do more than just open these records - they display specific records that are intended to grab your attention.  
 
-Tiles save the combination of all the individual filters you set up when creating them (should you need filtering). 
-Predefined filtering makes them capable of bringing up every time only those records that match your requirements.  
+When set without filters, tiles offer your company a shortcut to any table of records that you find more important or frequently visit. 
+Your system does all the navigation for you in a split second.  
+
+Tiles also store the combination of all the individual filters you set up when creating them. 
+Predefined filtering makes them capable of bringing up every time only those records that match your requirements. 
 This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
 
 @@name's Tiles app natively embraces user-friendliness.  
