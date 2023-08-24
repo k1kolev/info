@@ -33,11 +33,19 @@ Each tile shows a caption and the number of records that will be presented to yo
 Enhancing navigation, tiles also act as shortcuts to their related groups of records.  
 Tiles do more than just open these records - they display specific records that are intended to grab your attention.  
 
-Tiles save the combination of all the individual filters you set up when creating them. 
-makes them capable of bringing up only those records that match your requirements. 
-Your business can save time and stay focused on what is currently important, avoiding distractions.  
+Tiles save the combination of all the individual filters you set up when creating them (should you need filtering). 
+Predefined filtering makes them capable of bringing up every time only those records that match your requirements.  
+This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
+
+@@name's Tiles app natively embraces user-friendliness.  
+Your teams can create as many tiles of the same table of records as desired, varying only in the defined combination of filters.  
 
 
+> [!TIP]  
+> Tiles are extremely user-friendly.
+> You can give a suitable name to each one of them, so your teams will know in advance what to expect when viewing and selecting them. 
+> You can create tiles for the types of information that you will find most valuable to keep them one touch away.
+> You can add frequently 
 
 
 caption that you can set 
@@ -48,9 +56,7 @@ Furthermore, when configuring a tile, all the filters set will be saved in it.
 with predefined filters.  
 
 
-> [!TIP]  
-> You can create tiles for the types of information that you will find most valuable to keep them one touch away.
-> You can add frequently 
+
 
 
 The app displays tiles neatly organized 
