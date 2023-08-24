@@ -13,7 +13,11 @@ Storing this information in a unified, understandable way in a single, secure pl
 Finding strictly what we need - now, fast - is another.  
 
 And the more fast-paced our business environment is, the more the importance of quick and suitable access to data becomes. 
-Having to navigate back and forth to the same data, time and again, is a problem instantly solved in @@name.  
+Having to navigate back and forth to the same types of data time and again, especially under pressure, can be challenging.  
+
+And this is a challenge you get instantly solved with **Tiles** in @@name.  
+
+
 
 In the heat of the moment, 
 
