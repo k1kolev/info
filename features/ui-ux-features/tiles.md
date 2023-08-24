@@ -30,16 +30,23 @@ Each tile shows a caption and the number of records that will be presented to yo
 > You and your team can create tiles to bring up specific types of records that you will find more valuable.
 > This offers you an easy solution to always keep important information one touch away.  
 
-## 
+## Let @@name do the navigation for you
 
+@@name's Tiles app lifts repetitive labor off your shoulders, letting you focus more on achieving and less on seeking. 
 Enhancing navigation, tiles also act as shortcuts to their related groups of records.  
-Tiles do more than just open these records - they display specific records that are intended to grab your attention.  
 
-When set without filters, tiles offer your company a shortcut to any table of records that you find more important or frequently visit. 
+When set without any filters, tiles can bring up tables of records that you find more important or frequently visit. 
 Your system does all the navigation for you in a split second.  
 
+## Leave the heavy lifting to Tiles
+
+Tiles are able to do more than just open these records - they can display specific records that are intended to grab your attention.  
+
 Tiles also store the combination of all the individual filters you set up when creating them. 
-Predefined filtering makes them capable of bringing up every time only those records that match your requirements. 
+Predefined filtering makes them capable of bringing up every time only those records that match your requirements:  
+
+![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-24.png)  
+
 This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
 
 @@name's Tiles app natively embraces user-friendliness.  
@@ -86,5 +93,5 @@ logical sense
 
 With so much data that we enter and manage, it 
 
-![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-24.png)  
+
 
