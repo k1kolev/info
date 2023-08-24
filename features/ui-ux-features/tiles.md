@@ -23,11 +23,34 @@ And this is a challenge that @@name enables you to instantly tackle with its bui
 
 Rapidly occurring tasks, speaking with customers and partners, and responding to questions and inquiries all share something in common - the necessity to find what you are looking for and understand it with speed and confidence.  
 
-@@name's Tiles application enables your teams to view all desired types of information neatly organized in tiles.  
+@@name's Tiles application enables your teams to preview and access information about interesting groups of records neatly organized in tiles. 
+Each tile shows a caption and the number of records that will be presented to you when you select it.  
+
+> [!TIP]  
+> You can create tiles to bring up specific types of records that you will find most valuable.
+> This allows you to always keep them one touch away.  
+
+Enhancing navigation, tiles also act as shortcuts to their related groups of records.  
+Tiles do more than just open these records - they display specific records that are intended to grab your attention.  
+
+Tiles save the combination of all the individual filters you set up when creating them. 
+makes them capable of bringing up only those records that match your requirements. 
+Your business can save time and stay focused on what is currently important, avoiding distractions.  
+
+
+
+
+caption that you can set 
+
+
+Furthermore, when configuring a tile, all the filters set will be saved in it.  
+
+with predefined filters.  
+
 
 > [!TIP]  
 > You can create tiles for the types of information that you will find most valuable to keep them one touch away.
-> You can add frequently
+> You can add frequently 
 
 
 The app displays tiles neatly organized 
