@@ -1,4 +1,4 @@
-# Tiles
+# Tiles Application
 
 ## Overview
 
@@ -15,13 +15,21 @@ Finding strictly what we need - now, fast - is another.
 And the more fast-paced our business environment is, the more the importance of quick and suitable access to data becomes. 
 Having to navigate back and forth to the same types of data time and again, especially under pressure, can be challenging.  
 
-And this is a challenge that @@name enables you to instantly tackle with **Tiles**:  
+And this is a challenge that @@name enables you to instantly tackle with its built-in application **Tiles**:  
 
-![Tiles](Tiles-erp-net-image-2023-08-24.png)
+![Tiles](Tiles-erp-net-image-2023-08-24.png)  
 
-## View your data of interest at a glance
+## Your Data on Focus
 
-In the heat of the moment, 
+Rapidly occurring tasks, speaking with customers and partners, and responding to questions and inquiries have all something in common - the necessity to find what you are looking for and understand it with speed and confidence.  
+
+@@name's Tiles application enables your teams to view all the information about the types of records that they frequently access.  
+
+
+Acting in the heat of the moment becomes a lot easier, all in 
+
+
+
 
 Arranging all this functionality in a structured, logical manner
 
@@ -29,5 +37,7 @@ To facilitate navigation throughout the platform and to ensure that we view only
 
 logical sense
 
-To 
 With so much data that we enter and manage, it 
+
+![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-24.png)  
+
