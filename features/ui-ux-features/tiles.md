@@ -12,13 +12,17 @@ So many companies, customers, partners, and teams around us means we are constan
 Storing this information in a unified, understandable way in a single, secure place is one thing. 
 Finding strictly what we need - now, fast - is another.  
 
-, even when we have it well-arranged.  
+And the more fast-paced our business environment is, the more the importance of quick and suitable access to data becomes. 
 
+Sometimes, we just do not have the time to navigate back and forth to the same data, time and again. 
 
+In the heat of the moment, 
 
 Arranging all this functionality in a structured, logical manner
 
-To facilitate navigation throughout the platform and to make logical sense
+To facilitate navigation throughout the platform and to ensure that we view only what is necessary 
+
+logical sense
 
 To 
 With so much data that we enter and manage, it 
