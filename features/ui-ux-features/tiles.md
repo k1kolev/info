@@ -49,10 +49,33 @@ Predefined filtering makes them capable of bringing up every time only those rec
 
 This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
 
-## Tiles are a powerful ally in your everyday business
+## A powerful ally in your everyday business
 
 @@name's Tiles app natively embraces user-friendliness.  
 Your teams can create as many tiles of the same table of records as desired, varying only in the defined combination of filters.  
+
+Just as with all the apps in @@name, versatility is a native trait of the Tiles app.  
+
+Tiles can appear wherever you deem fit:  
+
+* Show them on your dashboard to make them visible at first glance  
+* Review them in the dedicated Tiles panel of @@name's My Apps collection  
+* Display them within any panel, record, or next to any table of records to utilize them as a widget  
+
+
+
+
+## Collaboration is the new norm in business
+
+To ensure your team collaborates effectively, tiles are role-oriented.  
+
+This brings numerous collaboration advantages to your business:  
+
+* Each tile is saved and shows up for a specific role or set of roles  
+* The role your users select automatically brings them a collection of tiles with it  
+* The people sharing the same role will see exactly the same tiles every time, with any changes applied to them immediately  
+
+Consistency
 
 Widget
 
