@@ -49,8 +49,12 @@ Predefined filtering makes them capable of bringing up every time only those rec
 
 This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
 
+## Tiles are a powerful ally in your everyday business
+
 @@name's Tiles app natively embraces user-friendliness.  
 Your teams can create as many tiles of the same table of records as desired, varying only in the defined combination of filters.  
+
+Widget
 
 
 > [!TIP]  
