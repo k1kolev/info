@@ -17,7 +17,7 @@ Having to navigate back and forth to the same types of data time and again, espe
 
 And this is a challenge you get instantly solved with **Tiles** in @@name.  
 
-
+## View your data of interest at a glance
 
 In the heat of the moment, 
 
