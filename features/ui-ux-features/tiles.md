@@ -21,9 +21,22 @@ And this is a challenge that @@name enables you to instantly tackle with its bui
 
 ## Your Data on Focus
 
-Rapidly occurring tasks, speaking with customers and partners, and responding to questions and inquiries have all something in common - the necessity to find what you are looking for and understand it with speed and confidence.  
+Rapidly occurring tasks, speaking with customers and partners, and responding to questions and inquiries all share something in common - the necessity to find what you are looking for and understand it with speed and confidence.  
 
-@@name's Tiles application enables your teams to view all the information about the types of records that they frequently access.  
+@@name's Tiles application enables your teams to view all desired types of information neatly organized in tiles.  
+
+> [!TIP]  
+> You can create tiles for the types of information that you will find most valuable to keep them one touch away.
+> You can add frequently
+
+
+The app displays tiles neatly organized 
+
+for the frequently access types of records by your teams.  
+
+The Tiles app   in a compact form.  
+
+
 
 
 Acting in the heat of the moment becomes a lot easier, all in 
