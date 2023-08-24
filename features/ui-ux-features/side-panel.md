@@ -16,7 +16,7 @@ To save time, companies need a solution that offers flexibility and functionalit
 
 @@name's Side Panel is a versatile feature that is present everywhere in your platform.  
 
-As one of the multitools of @@name's web client, Side Panel enables you to bring up a variety of tools for data review and control.  
+Being a powerful multitool of @@name's web client, Side Panel enables you to bring up a variety of tools for data review and control.  
 
 The Side Panel along your navigators provides a unique 360-degree view of data, fetched from various locations in your platform.  
 
