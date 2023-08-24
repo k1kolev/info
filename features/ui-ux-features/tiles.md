@@ -2,11 +2,17 @@
 
 ## Overview
 
-Information nowadays is everywhere we turn and look.  
-It is one of the highest-in-value resources we have at our disposal.  
+Information nowadays is everywhere we turn and look. 
+And thankfully so, since deep and detailed information is absolutely imperative for performing great with our numerous assignments. 
+Hence, it is one of the highest-in-value resources we have at our disposal.  
 
-Deep and detailed information is absolutely imperative for performing great with our numerous assignments. Growing information can quite overwhelm us, though, even when we have it well-arranged.  
+Growing information can quite overwhelm us, though. 
+So many companies, customers, partners, and teams around us means we are constantly operating with more and more data.  
 
+Storing this information in a unified, understandable way in a single, secure place is one thing. 
+Finding strictly what we need - now, fast - is another.  
+
+, even when we have it well-arranged.  
 
 
 
