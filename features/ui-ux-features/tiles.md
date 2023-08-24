@@ -13,8 +13,7 @@ Storing this information in a unified, understandable way in a single, secure pl
 Finding strictly what we need - now, fast - is another.  
 
 And the more fast-paced our business environment is, the more the importance of quick and suitable access to data becomes. 
-
-Sometimes, we just do not have the time to navigate back and forth to the same data, time and again. 
+Having to navigate back and forth to the same data, time and again, is a problem instantly solved in @@name.  
 
 In the heat of the moment, 
 
