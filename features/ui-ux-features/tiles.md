@@ -15,7 +15,9 @@ Finding strictly what we need - now, fast - is another.
 And the more fast-paced our business environment is, the more the importance of quick and suitable access to data becomes. 
 Having to navigate back and forth to the same types of data time and again, especially under pressure, can be challenging.  
 
-And this is a challenge you get instantly solved with **Tiles** in @@name.  
+And this is a challenge that @@name enables you to instantly tackle with **Tiles**:  
+
+![Tiles](Tiles-erp-net-image-2023-08-24.png)
 
 ## View your data of interest at a glance
 
