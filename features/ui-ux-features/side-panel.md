@@ -23,3 +23,5 @@ The Side Panel along your navigators provides a unique 360-degree view of data, 
 The multipurpose essence of the Side Panel offers you a selection between multiple features, related data objects and tables, view modes, widgets, and settings.  
 
 
+Extensive functionality is one of the greatest assets that can power your organization through its process and data management. 
+Utilizing a platform that offers unlimited functionality allows companies to handle their vast business processes and various categories of data efficiently and confidently.  
