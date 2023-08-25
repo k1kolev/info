@@ -26,7 +26,7 @@ Utilizing an all-in-one solution in your everyday business can facilitate a sign
 
 The Run UI Function of @@name enables you to perform a wide variety of actions in a fast and interactive way.  
 
-![Run UI Function](Run-UI-Function-erp-net-image-2023-08-24.png)  
+![Run-UI-Function-erp-net-image-2023-08-24](https://github.com/k1kolev/info/assets/106669250/a962862a-00f6-4410-8e3a-35d15158f295)  
 
 The range of actions is immense, with common examples like:  
 
