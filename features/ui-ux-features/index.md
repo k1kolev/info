@@ -12,14 +12,4 @@ This section will help you familiarize yourself with the UI and UX features, pre
 
 ## Common UI and UX Features
 
-* **[Roles](roles.md)**
-* **[Layout Management](layout-management.md)**
-* **[Navigators](navigators.md)**
-* **[Multifunctional Side Panel](side-panel.md)**
-* **[Run UI Function](run-ui-function.md)**
-* **[Filter Row and Advanced Filter](filtering.md)**
-* **[Dashboard](dashboard.md)**
-* **[Tiles](tiles.md)**
-* **[Favorites](favorites.md)**
-* **[Multi-Column View](multi-column-view.md)**
-* **[Responsive and Adaptive Layout](responsive-and-adaptive-layout.md)**
+* **[Tiles](tiles.md)**  
