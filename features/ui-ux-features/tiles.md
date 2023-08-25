@@ -24,7 +24,7 @@ Rapidly occurring tasks, speaking with customers and partners, and responding to
 @@name's Tiles application enables your teams to preview and access information about interesting groups of records neatly organized in tiles. 
 Each tile shows a caption and the number of records that will be presented to you when you select it.  
 
-![Tiles](Tiles-erp-net-image-2023-08-24.png)  
+![Tiles](Tiles-erp-net-image-2023-08-25-transformed.png)  
 
 > [!TIP]  
 > You and your team can create tiles to bring up specific types of records that you will find more valuable.
@@ -45,22 +45,26 @@ Tiles are able to do more than just open these records - they can display specif
 Tiles also store the combination of all the individual filters you set up when creating them. 
 Predefined filtering makes them capable of bringing up every time only those records that match your requirements:  
 
-![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-24.png)  
+![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-25-transformed.png)  
 
 This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
 
 ## A powerful ally in your everyday business
 
-@@name's Tiles app natively embraces user-friendliness.  
+@@name's Tiles app natively embraces user-friendliness and ease of use.  
+
+Tiles can be shown at various places of the platform, wherever you deem them fit:  
+
+* Show them on your dashboard to make them visible at first glance  
+* Review them in the dedicated Tiles panel of @@name's My Apps collection  
+* Display them within any panel, record, or next to any table of records to implement them in context  
+
+
 Your teams can create as many tiles of the same table of records as desired, varying only in the defined combination of filters.  
 
 Just as with all the apps in @@name, versatility is a native trait of the Tiles app.  
 
-Tiles can appear wherever you deem fit:  
 
-* Show them on your dashboard to make them visible at first glance  
-* Review them in the dedicated Tiles panel of @@name's My Apps collection  
-* Display them within any panel, record, or next to any table of records to utilize them as a widget  
 
 
 
@@ -120,4 +124,4 @@ logical sense
 
 With so much data that we enter and manage, it 
 
-![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25.png)  
+![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25-transformed.png)  
