@@ -24,10 +24,10 @@ Rapidly occurring tasks, speaking with customers and partners, and responding to
 @@name's Tiles application enables your teams to preview and access information about interesting groups of records neatly organized in tiles. 
 Each tile shows a caption and the number of records that will be presented to you when you select it.  
 
-![Tiles](Tiles-erp-net-image-2023-08-25-transformed.png)  
+![Tiles-erp-net-image-2023-08-25-transformed](https://github.com/k1kolev/info/assets/106669250/c56a2764-c65c-40c3-b9dc-514e363c0128)  
 
 > [!TIP]  
-> You and your team can create tiles to bring up specific types of records that you will find more valuable.
+> You and your team can create tiles to bring up specific groups of records that you will find more valuable or suitable for the task at hand.
 > This offers you an easy solution to always keep important information one touch away.  
 
 ## Let @@name do the navigation for you
@@ -40,14 +40,14 @@ Your system does all the navigation for you in a split second.
 
 ## Leave the heavy lifting to Tiles
 
-Tiles are able to do more than just open these records - they can display specific records that are intended to grab your attention.  
+Tiles are able to do more than just lead to places of interest - they can display specific records that are intended to grab your attention.  
 
 Tiles also store the combination of all the individual filters you set up when creating them. 
 Predefined filtering makes them capable of bringing up only the records matching your requirements:  
 
-![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-25-transformed.png)  
+![Tiles-erp-net-navigator-filters-applied-2023-08-25-transformed](https://github.com/k1kolev/info/assets/106669250/79444394-ad2b-4267-ac90-f6e68cccd084)  
 
-This enables your business to avoid distractions, save time, and speed up progress by staying focused on what is currently important.  
+This empowers your business to avoid distractions, save time, and speed up progress towards shared goals by staying focused on what is currently important.  
 
 ## A powerful ally in your everyday business
 
@@ -57,8 +57,12 @@ Tiles can be shown at various locations if the platform, wherever your business 
 
 * Show them on your dashboard to make them visible at first glance  
 * Review them in the dedicated Tiles panel of @@name's My Apps collection  
-* Display them within any panel, record, or next to any table of records to implement them in context  
+* Display them within any panel, record, or next to any table of records (navigator) to implement them in context  
 * Display several tile panels in the same location, each showing a different group of tiles aligning with your needs  
+
+> [!TIP]  
+> Tiles are extremely user-friendly.
+> You can give a suitable name to each one to let your teams know in advance what to expect when viewing and selecting them.  
 
 ### Get exactly what you need at your fingertips
 
@@ -81,7 +85,7 @@ Tiles adapt to the location they are visualized in, also known in @@name platfor
 Using the tile panel in a specific location in your @@name platform is context-driven. 
 The app automatically selects only the tiles that are relevant to this location and makes them available for display:  
 
-![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25-transformed.png)  
+![Tiles-erp-net-navigator-widget-in-context-2023-08-25-transformed](https://github.com/k1kolev/info/assets/106669250/91d48fd3-fa52-48b3-9d6d-f54dc76dfcb2)  
 
 > [!TIP]
 > The unique functionality allows you to easily switch between full filter combinations for the same location in a single tap.
@@ -89,58 +93,24 @@ The app automatically selects only the tiles that are relevant to this location 
 
 ## Collaboration is the new norm in business
 
-To ensure your team collaborates effectively, tiles are role-oriented. 
+To empower your team collaboration and firmly establish consistent work manners, tiles are role-oriented. 
 Each tile is connected to a specific role.  
 
-This brings numerous collaboration advantages to your business:  
+Strengthen your collaboration, your company can enjoy:  
 
-* **Strong Teamwork** - everyone using a given role is guaranteed to see exactly the same collection of tiles on their dashboard and in their personal app  
-* **Focus and Guidance** - The role your users select automatically brings them a collection of tiles with it, indicating the important or frequently visited tables of records  
-* **Consistency** - The people sharing the same role will see exactly the same tiles every time, with any changes applied to them immediately  
+* **Strong Teamwork**: Everyone using a given role is guaranteed to see and use exactly the same collection of tiles on their dashboard and in their personal app  
+* **Focus and Guidance**: The role your users select automatically brings them a collection of tiles with it, indicating the important or frequently visited tables of records  
+* **Consistency**: People sharing the same role will immediately come across any changes applied to tiles, helping everyone stay up to date with the latest organization of your work  
 
-Consistency
+## Get in the action
 
-Widget
+Find tiles interesting? 
+You are welcome to try them right away!  
 
+We share your value in time - so feel free to try them even **without having to register**:  
 
-> [!TIP]  
-> Tiles are extremely user-friendly.
-> You can give a suitable name to each one of them, so your teams will know in advance what to expect when viewing and selecting them. 
-> You can create tiles for the types of information that you will find most valuable to keep them one touch away.
-> You can add frequently 
+> **[Tiles in @@name - Try now without registration](https://testdb.my.erp.net/cl/tiles)**  
 
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**
 
-caption that you can set 
-
-
-Furthermore, when configuring a tile, all the filters set will be saved in it.  
-
-with predefined filters.  
-
-
-
-
-
-The app displays tiles neatly organized 
-
-for the frequently access types of records by your teams.  
-
-The Tiles app   in a compact form.  
-
-
-
-
-Acting in the heat of the moment becomes a lot easier, all in 
-
-
-
-
-Arranging all this functionality in a structured, logical manner
-
-To facilitate navigation throughout the platform and to ensure that we view only what is necessary 
-
-logical sense
-
-With so much data that we enter and manage, it 
-
-
+[![Tiles-erp-net-shrinked-image-2023-08-25](https://github.com/k1kolev/info/assets/106669250/21d01ccf-f759-47b1-b07c-b999faf8ebc9)](https://testdb.my.erp.net/cl/tiles)  
