@@ -43,27 +43,41 @@ Your system does all the navigation for you in a split second.
 Tiles are able to do more than just open these records - they can display specific records that are intended to grab your attention.  
 
 Tiles also store the combination of all the individual filters you set up when creating them. 
-Predefined filtering makes them capable of bringing up every time only those records that match your requirements:  
+Predefined filtering makes them capable of bringing up only the records matching your requirements:  
 
 ![Tiles - Navigator with Filters Applied](Tiles-erp-net-navigator-filters-applied-2023-08-25-transformed.png)  
 
-This enables your business to save time and speed up progress by staying focused on what is currently important and avoiding distractions.  
+This enables your business to avoid distractions, save time, and speed up progress by staying focused on what is currently important.  
 
 ## A powerful ally in your everyday business
 
 @@name's Tiles app natively embraces user-friendliness and ease of use.  
 
-Tiles can be shown at various places of the platform, wherever you deem them fit:  
+Tiles can be shown at various locations if the platform, wherever your business deems them fit:  
 
 * Show them on your dashboard to make them visible at first glance  
 * Review them in the dedicated Tiles panel of @@name's My Apps collection  
 * Display them within any panel, record, or next to any table of records to implement them in context  
+* Display several tile panels in the same location, each showing a different group of tiles aligning with your needs  
 
+### Get exactly what you need at your fingertips
 
-Your teams can create as many tiles of the same table of records as desired, varying only in the defined combination of filters.  
+In our high-dynamic business landscape, many scenarios demand us to stay flexible and adaptive. 
+Oftentimes, you and your team members find yourselves constantly using the same table of records. 
+But with each of your tasks, you are interested in a distinct subset of those records differing from the rest in some properties.  
+
+For example, a lot of your day may be spent reviewing the available quantities of your products. 
+However, each specific inquiry or order of a customer has you looking at the availability of distinct items in your store or warehouse.  
+
+The Tiles app helps your business flourish in such situations. 
+@@name provides you the opportunity to create as many tiles for the same table of records as desired, varying in filter criteria. 
+All of them will lead to the same table but will show different contents within.  
+
+### Versatile by nature and adaptive by business
 
 Just as with all the apps in @@name, versatility is a native trait of the Tiles app.  
 
+Tiles come in help even within the context of your work and your actions. 
 
 
 
