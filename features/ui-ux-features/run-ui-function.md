@@ -52,6 +52,10 @@ Embracing the Run UI Function can save you valuable time when you want to know:
 * Did an offer lead to a closed sale with a customer  
 * How many and which transactions do complete a specific payment you made or received  
 
+Tracing and tracking your documents is always a glance and a tap away in @@name.  
+
+## To sum up
+
 A boost in productivity and efficiency, an error-free documentation process, automated going through predefined, well-known, and worked-out routes when fulfilling documents - these are only some of the great advantages @@name can bring to your use.  
 
 Adding to automation, having an **interactive**, **visually understandable way** of **completing actions related to documents and objects** leads to a more intuitive and pleasant experience for everyone in your company.  
