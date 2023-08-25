@@ -113,4 +113,4 @@ We share your value in time - so feel free to try them even **without having to 
 
 > **[Access credentials - Use these to log in](~/information/try-our-system.md)**
 
-[![Tiles-erp-net-shrinked-image-2023-08-25](https://github.com/k1kolev/info/assets/106669250/21d01ccf-f759-47b1-b07c-b999faf8ebc9)](https://testdb.my.erp.net/cl/tiles)  
+[![Tiles-erp-net-shrinked-image-2023-08-25](https://github.com/k1kolev/info/assets/106669250/177ea52e-1cac-4402-83fa-17e05c588c95)](https://testdb.my.erp.net/cl/tiles)  
