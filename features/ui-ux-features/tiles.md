@@ -77,11 +77,16 @@ All of them will lead to the same table but will show different contents within.
 
 Just as with all the apps in @@name, versatility is a native trait of the Tiles app.  
 
-Tiles come in help even within the context of your work and your actions. 
+Tiles adapt to the location they are visualized in. 
 
+Using the tile panel in a specific location in your @@name platform is context-driven. 
+The app automatically selects only the tiles that are relevant to this location and makes them available for display:  
 
+![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25-transformed.png)  
 
+This unique functionality allows you to easily switch between full filter combinations for the same location in a single tap. 
 
+The app is specially designed to come in help even within the context of your work and your actions. 
 
 ## Collaboration is the new norm in business
 
@@ -138,4 +143,4 @@ logical sense
 
 With so much data that we enter and manage, it 
 
-![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25-transformed.png)  
+
