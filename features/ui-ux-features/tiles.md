@@ -75,9 +75,8 @@ All of them will lead to the same table but will show different contents within.
 
 ### Versatile by nature and adaptive by business
 
-Just as with all the apps in @@name, versatility is a native trait of the Tiles app.  
-
-Tiles adapt to the location they are visualized in. 
+Just as with all the apps in @@name, versatility is a native trait of the Tiles app. 
+Tiles adapt to the location they are visualized in, also known in @@name platform as a widget.  
 
 Using the tile panel in a specific location in your @@name platform is context-driven. 
 The app automatically selects only the tiles that are relevant to this location and makes them available for display:  
@@ -90,13 +89,14 @@ The app automatically selects only the tiles that are relevant to this location 
 
 ## Collaboration is the new norm in business
 
-To ensure your team collaborates effectively, tiles are role-oriented.  
+To ensure your team collaborates effectively, tiles are role-oriented. 
+Each tile is connected to a specific role.  
 
 This brings numerous collaboration advantages to your business:  
 
-* Each tile is saved and shows up for a specific role or set of roles  
-* The role your users select automatically brings them a collection of tiles with it  
-* The people sharing the same role will see exactly the same tiles every time, with any changes applied to them immediately  
+* **Strong Teamwork** - everyone using a given role is guaranteed to see exactly the same collection of tiles on their dashboard and in their personal app  
+* **Focus and Guidance** - The role your users select automatically brings them a collection of tiles with it, indicating the important or frequently visited tables of records  
+* **Consistency** - The people sharing the same role will see exactly the same tiles every time, with any changes applied to them immediately  
 
 Consistency
 
