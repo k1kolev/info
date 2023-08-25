@@ -120,5 +120,4 @@ logical sense
 
 With so much data that we enter and manage, it 
 
-
-
+![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25.png)  
