@@ -84,9 +84,9 @@ The app automatically selects only the tiles that are relevant to this location 
 
 ![Tiles - In Context of a Navigator](Tiles-erp-net-navigator-widget-in-context-2023-08-25-transformed.png)  
 
-This unique functionality allows you to easily switch between full filter combinations for the same location in a single tap. 
-
-The app is specially designed to come in help even within the context of your work and your actions. 
+> [!TIP]
+> The unique functionality allows you to easily switch between full filter combinations for the same location in a single tap.
+> This makes the app capable of catering to your needs directly within the context of your work and your actions. 
 
 ## Collaboration is the new norm in business
 
