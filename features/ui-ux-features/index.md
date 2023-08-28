@@ -12,4 +12,5 @@ This section will help you familiarize yourself with the UI and UX features, pre
 
 ## Common UI and UX Features
 
+* **[Run UI Function](run-ui-function.md)**
 * **[Tiles](tiles.md)**  
