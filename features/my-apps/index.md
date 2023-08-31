@@ -3,10 +3,15 @@
 ## Overview
 
 Nowadays everyone comes across an immense variety of activities throughout their work day. 
-These include:  
+We do so much:  
 
-* **Operative Activities** - various engagements, tasks, and responsibilities
-* **Creative Work** - idea generation, brainstorming, project management, and 
+* **Operative Activities** - engaging with tasks, entering and finding information, preparing documentation  
+* **Creative Work** - idea generation, brainstorming, project management, authoring content and shaping product design  
+* **Communication** - emails, phone talks, in-person and remote meetings, conducting interviews  
+* **Organization** - managing events, scheduling meetings, ordering supplies, 
+* **Expert Work** - making informed decisions, 
+
+## Your App Suite
 
 * **[Tiles](tiles.md)**
 * **[To Do](todo.md)**  
