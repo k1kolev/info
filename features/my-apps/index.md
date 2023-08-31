@@ -13,7 +13,10 @@ We do so much:
 
 ## Your App Suite
 
-* **Dashboard**
-* [Groups](url)
-* **[Tiles](tiles.md)**
+* **Dashboard**  
+* **[Groups](team-collaboration.md)**  
+* **Calendar**  
 * **[To Do](todo.md)**  
+* **Timeline**  
+* **[Tiles](tiles.md)**  
+* **Favorites**  
