@@ -11,10 +11,12 @@ Based on the role we take in our comapny, we do so much:
 * **Organization** - managing events, scheduling meetings, ordering supplies  
 * **Expert Work** - managing teams and their assignments, extracting useful insights, making informed decisions  
 
-To support them throughout all these and other challenges and tasks, businesses and their teams look for apps dedicated for each of these purposes. 
+To support them throughout all these and other challenges and tasks, businesses and their teams look for apps dedicated for each of these purposes.  
+
 Juggling disparate apps, designed for different systems and platforms, coming from all kinds of vendors brings on a challenge in itself.  
 
-@@name integrates all of your information, processes, and interactions in a centralized platform, making their management so easy. 
+@@name integrates all of your information, processes, and interactions in a centralized platform, making their management so easy.  
+
 The same way, **My Apps** in @@name combines all the necessary apps in a single, integrated app suite capable of covering all your daily activities.  
 
 ## Your App Suite in @@name
