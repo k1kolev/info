@@ -1,9 +1,8 @@
-- name: Overview
-  href: index.md
-- name: Tiles
-  href: tiles.md
-- name: To Do
-  href: todo.md
-  
-- name: Team Collaboration
+- name: Overview  
+  href: index.md  
+- name: Team Collaboration  
   href: team-collaboration.md  
+- name: To Do  
+  href: todo.md  
+- name: Tiles  
+  href: tiles.md  
