@@ -13,5 +13,7 @@ We do so much:
 
 ## Your App Suite
 
+* **Dashboard**
+* [Groups](url)
 * **[Tiles](tiles.md)**
 * **[To Do](todo.md)**  
