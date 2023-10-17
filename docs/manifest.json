@@ -1263,30 +1263,6 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "features/crm/team-collaboration.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/crm/team-collaboration.html",
-          "hash": "AnmGXRjIyUCX4mjzLRpfZg=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "features/crm/todo.md",
-      "output": {
-        ".html": {
-          "relative_path": "features/crm/todo.html",
-          "hash": "s3+3xwRPNgQPe1bGkwe6ag=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
       "source_relative_path": "features/crm/unified-communications.md",
       "output": {
         ".html": {
@@ -1602,7 +1578,7 @@
       "output": {
         ".html": {
           "relative_path": "features/index.html",
-          "hash": "U7BKBAeNUqTd2SF4bHeGnw=="
+          "hash": "3UzBVxMlH6Bw7HcQq6Xayw=="
         }
       },
       "is_incremental": false,
@@ -1836,6 +1812,54 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/my-apps/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/index.html",
+          "hash": "vPR5l1TQbgjfddjAw5O0VA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/my-apps/team-collaboration.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/team-collaboration.html",
+          "hash": "CUC8f1tpPGPaywi4w2wqlQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/my-apps/tiles.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/tiles.html",
+          "hash": "R/y0aUSrLrtaoCDSkZbJ4w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/my-apps/todo.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/my-apps/todo.html",
+          "hash": "iGVnwSxB0WEYgs3f2r3prg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/production/crp.md",
       "output": {
         ".html": {
@@ -1995,7 +2019,31 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "yJrGfxUW6GTgOJhreR7iXw=="
+          "hash": "Yylx3wmWCfwTeYV04GEuBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/index.html",
+          "hash": "14yc6stw2LdOV5XRxG46jA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/run-ui-function.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/run-ui-function.html",
+          "hash": "F4ndWSDdQosaHGQwcVuKuA=="
         }
       },
       "is_incremental": false,
@@ -2175,7 +2223,7 @@
       "output": {
         ".html": {
           "relative_path": "information/licensing/concurrent-sessions-based-licensing.html",
-          "hash": "o80MU4bg55cz9Vb76d2Hcg=="
+          "hash": "B2pHK0OLXusAkfBw0jKuhg=="
         }
       },
       "is_incremental": false,
@@ -2199,7 +2247,19 @@
       "output": {
         ".html": {
           "relative_path": "information/licensing/index.html",
-          "hash": "IQ22Xe5uMLsPKRLy32hgGw=="
+          "hash": "ozmZHjl2Cue3NwXfPsTeBQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/licensing/registered-user-based-licensing.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/licensing/registered-user-based-licensing.html",
+          "hash": "DW1S3UePGBStBkhQJEbZ6Q=="
         }
       },
       "is_incremental": false,
@@ -2531,7 +2591,7 @@
       "output": {
         ".html": {
           "relative_path": "information/logos/index.html",
-          "hash": "6MB7a51EoNJ4b46rct8qmw=="
+          "hash": "k551DGEokeSAqI8SkuuquQ=="
         }
       },
       "is_incremental": false,
@@ -2626,7 +2686,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "1WDc+oZHvtaMA4BiHjKQxA=="
+          "hash": "6d74xqMmlWTFNLIsG6D8Nw=="
         }
       },
       "is_incremental": false,
@@ -2940,7 +3000,7 @@
       "output": {
         ".html": {
           "relative_path": "solutions/wholesale-distribution/index.html",
-          "hash": "k+7IIE3U1RFCAVCDsgBB9A=="
+          "hash": "JQBsP6AYHzzbL1O/MxSp0A=="
         }
       },
       "is_incremental": false,
