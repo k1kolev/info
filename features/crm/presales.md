@@ -1,19 +1,27 @@
 # Presales
 
-The presales module is used to manage the presales process.
+## Overview
 
-## Deals (Opportunities)
+The presales process encompasses the activities your business engages with before making a sale.
+
+These activities are related to researching, communicating with, and collecting data about customers 
+
+The presales module is used to manage the presales process and support your business throughout the pre-sale preparations taking place at this stage.
+
+## Lead management in @@name
+
+## Opportunities (Deals) in @@name
 
 > *Activity* → **Opportunity** → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
 
 The deals in the @Crm.Presales.Deals are used to manage sales opportunities to new or existing customers.
 
-> [!note]
-> Deal is synonymous to opportunity.
+> [!Note]
+> Deal is synonymous with opportunity.
 
 The deals:
 
-* Have appointed sales representative, managing the deal.
+* Have an appointed sales representative managing the deal.
 * Do not have line items. They are used to manage deals, which are still not clear enough to detail at this level.
 * Have a percentage **probability of success**. The percentage is set by the sales representative, based on their own judgement.
 * Have expected **sales revenue**.
