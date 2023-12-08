@@ -2,17 +2,30 @@
 
 ## Overview
 
-The presales process encompasses the activities your business engages with before making a sale.
+The presales process encompasses the activities your business engages with before making a sale. 
+These activities are related to researching, communicating with, and collecting data about potential (or even current) customers.
 
-These activities are related to researching, communicating with, and collecting data about customers 
-
-The presales module is used to manage the presales process and support your business throughout the pre-sale preparations taking place at this stage.
+The **Presales module in @@name** is used to manage the presales process and support your business throughout the pre-sale preparations taking place at this stage.
 
 ## Lead management in @@name
 
+> *Team Collaboration Activities* → *Lead*→ **Opportunity** → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
+
+Leads are companies (or individuals) that have the potential to become future customers or clients of your business. 
+
+Also known as prospects
+
+The leads in the @Crm.Presales.Leads are used to manage the base of prospects that your business acquires and grows through its efforts in marketing activities.
+
+
+
+
+
+, such as advertizing product placement, cold and warm contacting, and other
+
 ## Opportunities (Deals) in @@name
 
-> *Activity* → **Opportunity** → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
+> *Team Collaboration Activities* → *Lead*→ **Opportunity** → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
 
 The deals in the @Crm.Presales.Deals are used to manage sales opportunities to new or existing customers.
 
@@ -35,7 +48,7 @@ However, once a deal is created, it can be used to create many more sub-activiti
 
 ## Offers (quotes)
 
-> *Activity* → *Opportunity* → **Offer** → *Sales Order* → *Invoice Order* → *Invoice*
+> *Team Collaboration Activities* → *Lead* → *Opportunity* → **Offer** → *Sales Order* → *Invoice Order* → *Invoice*
 
 The deals documents can be easily transformed into Offers (quotes), which contain detailed line items.
 
