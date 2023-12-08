@@ -9,7 +9,7 @@ The **Presales module in @@name** is used to manage the presales process and sup
 
 ## Lead management in @@name
 
-> *Team Collaboration Activities* → *Lead*→ **Opportunity** → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
+> *Team Collaboration Activities* → **Lead**→ *Opportunity* → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
 
 Leads are companies (or individuals) that have the potential to become future customers or clients of your business. 
 
