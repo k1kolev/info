@@ -13,3 +13,8 @@ Businesses operating in industries like:
 No matter how small or large each project (as well as the company doing it) is, even companies 
 
 Project management plays a substantial role in all these and other businesses.
+
+## Project management in @@name
+
+* **[Artificial Intelligence](artificial-intelligence.md)**
+* **[Agile Projects](agile-projects.md)**
