@@ -10,7 +10,7 @@ Businesses operating in industries like:
 * **Entertainment products and services** - 
 * **Software development** - HoReCa (Hotels, Restaurants, Catering/Café), video games, 
 
-No matter how small or large each project (as well as the company doing it) is, even companies 
+No matter how small or large each project is (as well as the company engaging in it), 
 
 Project management plays a substantial role in all these and other businesses.
 
