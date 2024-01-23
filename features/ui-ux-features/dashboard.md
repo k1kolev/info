@@ -21,9 +21,16 @@ The @@name platform has a definite answer to this in its **Dashboard**.
 The Dashboard enables you neatly organize and put together the apps and tools that you use on a daily basis, providing a quick glance at what captures your interest the most. 
 Your Dashboard is completely customizable and can help you build a home for your:  
 
-* Calendar
-* To Do List
-* 
+* **Calendar**
+* **To Do List**
+* **Social Groups**
+* **Timeline**
+* **Tiles**
+* **Favorites**
+* **Web View panels**
+
+
+
 summarizes
 
 
