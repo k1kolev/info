@@ -10,7 +10,9 @@ This can have us going back and forth, navigating through various modules, apps,
 
 What if, instead of dashing raipidly through here and there, we had a single place that greets us everytime we access our business management platform? 
 A place that contains everything we need in a simple, yet effective form, allowing us to review the things that matter the most, in a quick look. 
-Something that we can personalize to fit it the best way for every role we and our team members decide to take.  
+Something that we can personalize to suit it perfectly to every role we and our team members decide to take for the projects and assignments we face ahead.  
+
+
 
 ## Dashboard in @@name
 
