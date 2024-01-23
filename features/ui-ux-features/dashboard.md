@@ -31,7 +31,7 @@ Your Dashboard is completely customizable and can help you build a home for your
 
 ## Purpose and Application of the Dashboard in @@name
 
-The Dashboard is intended to summarize all those elements of your undertakings that you constantly look at and use.  
+The Dashboard is intended to **summarize all those elements** of your commitments and undertakings that **you constantly look at and use** during your day.  
 
 
 presents everything that
