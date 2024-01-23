@@ -29,9 +29,9 @@ Your Dashboard is completely customizable and can help you build a home for your
 * **Favorites**
 * **Web View panels**
 
+## Purpose and Application of the Dashboard in @@name
 
-
-summarizes
+The Dashboard is intended to summarize all those elements of your undertakings that you constantly look at and use.  
 
 
 presents everything that
