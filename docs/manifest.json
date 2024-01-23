@@ -679,6 +679,21 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
+      "type": "Conceptual",
+      "source_relative_path": "docs/information/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/information/index.html",
+          "hash": "SX6UpfgBKPRUsGEdw0ZyQQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
       "type": "Resource",
       "source_relative_path": "docs/information/logos/ERP-net-Logo-01-Color-with-Background.png",
       "output": {
@@ -2367,6 +2382,42 @@
     },
     {
       "type": "Conceptual",
+      "source_relative_path": "features/projects/agile-projects.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/projects/agile-projects.html",
+          "hash": "pMHYO97JVtqV3NWaZy9PnQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/projects/artificial-intelligence.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/projects/artificial-intelligence.html",
+          "hash": "MdocBe6rdWCtfBzUmzJOBg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/projects/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/projects/index.html",
+          "hash": "ddD+mWYbt6WL8/K9WPSBpQ=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "features/system/calculated-attributes.md",
       "output": {
         ".html": {
@@ -2478,7 +2529,7 @@
       "output": {
         ".html": {
           "relative_path": "features/toc.html",
-          "hash": "JEWPeHXupCQwtPYSPCMx3Q=="
+          "hash": "pXHX+xRQQ2RbRdXjTFlp7w=="
         }
       },
       "is_incremental": false,
@@ -2619,7 +2670,55 @@
       "output": {
         ".html": {
           "relative_path": "index.html",
-          "hash": "viDn/6PY4TsNza///BmM6g=="
+          "hash": "YZHo1gri3fCDnYiT4zYe2w=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/enterprise-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/enterprise-edition.html",
+          "hash": "pQ/ZRp1u2G4yv52qua7ZRw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/express-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/express-edition.html",
+          "hash": "ag7eoWyGWX/J+nQzMoortA=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/index.html",
+          "hash": "M2qX9KM8yUfWugvGt1bc3A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/editions-and-plans/small-business-edition.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/editions-and-plans/small-business-edition.html",
+          "hash": "AGtnJnFdHxlXKAzEQP94Kw=="
         }
       },
       "is_incremental": false,
@@ -2739,7 +2838,7 @@
       "output": {
         ".html": {
           "relative_path": "information/index.html",
-          "hash": "WHCSJcg/CYGqsMibR19d9w=="
+          "hash": "k0yAnpWHWwsiRWLDPt1n4w=="
         }
       },
       "is_incremental": false,
@@ -3247,7 +3346,7 @@
       "output": {
         ".html": {
           "relative_path": "information/toc.html",
-          "hash": "6d74xqMmlWTFNLIsG6D8Nw=="
+          "hash": "VJaa/zLpr1IoHTCKHvY2Cg=="
         }
       },
       "is_incremental": false,
