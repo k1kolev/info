@@ -12,7 +12,9 @@ What if, instead of dashing raipidly through here and there, we had a single loc
 A spot that contains everything we need in a simple, yet effective form, allowing us to review the things that matter the most, in a quick look. 
 Something that we can personalize to suit it perfectly to every role we and our team members decide to take for the projects and assignments we face ahead.  
 
-The @@name platform has a definite answer to this in its **Dashboard**.  
+The @@name platform has a definite answer to this with your **Dashboard**:  
+
+![Dashboard](ERP-net-dashboard.png)  
 
 ## Dashboard in @@name
 
