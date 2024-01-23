@@ -18,8 +18,12 @@ The @@name platform has a definite answer to this in its **Dashboard**.
 
 **The Dashboard in @@name** is the one place in the system that brings to your attention all the things necessary to start your day and go through it winning at your business.  
 
-The Dashboard helps you neatly organize your tools for what you need the most. 
+The Dashboard enables you neatly organize and put together the apps and tools that you use on a daily basis, providing a quick glance at what captures your interest the most. 
+Your Dashboard is completely customizable and can help you build a home for your:  
 
+* Calendar
+* To Do List
+* 
 summarizes
 
 
