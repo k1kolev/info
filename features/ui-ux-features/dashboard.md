@@ -24,13 +24,13 @@ The **@@name platform** has a definite answer to this with your **Dashboard**:
 The **Dashboard** enables you neatly organize and put together the apps and tools that you use on a daily basis, providing a quick glance at what captures your interest the most. 
 Your **Dashboard** is **completely customizable** and can help you **build a home** for your:  
 
-* **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week.
+* **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week. 
 * **To Do Tasks** - 
-* **Social Groups**
-* **Timeline**
-* **Tiles**
-* **Favorites**
-* **Web View panels**
+* **Social Groups** - 
+* **Timeline** - 
+* **Tiles** - 
+* **Favorites** - 
+* **Web View panels** - 
 
 ## Purpose and Application of the Dashboard in @@name
 
