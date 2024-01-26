@@ -27,8 +27,8 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 * **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week. 
 * **To Do Tasks** - providing a list of reminders for all those quick and simple actions you have to take, arranged by their state of completion. 
 * **Social Groups** - combining intuitive means for team collaboration like chats, team calendars, group to dos, shared file management, and others. 
-* **Timeline** - showing a line of events and documents involving you and your currently selected company you work in. 
-* **Tiles** - 
+* **Timeline** - showing a line of events and documents someway involving you and your currently selected company you work in. 
+* **Tiles** - previewing sets of records that can be loaded in a single tap, automatically applying the desired filter combination saved in advance for each tile, and offering a shortcut to those sets of records in the respective data table they are stored. 
 * **Favorites** - 
 * **Web View panels** - 
 
