@@ -25,7 +25,7 @@ The **Dashboard** enables you neatly organize and put together the apps and tool
 Your **Dashboard** is **completely customizable** and can help you **build a home** for your:  
 
 * **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week. 
-* **To Do Tasks** - 
+* **To Do Tasks** - providing a list of reminders for all those quick and simple actions you have to take, arranged by their state of completion. 
 * **Social Groups** - 
 * **Timeline** - 
 * **Tiles** - 
