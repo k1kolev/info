@@ -30,7 +30,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 * **Timeline** - showing a line of events and documents someway involving you and your currently selected company you work in. 
 * **Tiles** - previewing sets of records that can be loaded in a single tap, automatically applying the desired filter combination saved in advance for each tile, and offering a shortcut to those sets of records in the respective data table they are stored. 
 * **Favorites** - listing specific items or objects that capture your interest for any reason like a particular document chain (an offer leading to a closed sale leading to an invoice) or a customer, supplier, dealer or other person or company, or anything and anyone other you work with. 
-* **Web View panels** - 
+* **Web View panels** - enabling you to integrate a view of a website, giving you an opportunity to browse and use a website directly from your dashboard, such as a web app, a website, or even any place in your own @@name instance visualized within the dashboard of that same instance.  
 
 ## Purpose and Application of the Dashboard in @@name
 
