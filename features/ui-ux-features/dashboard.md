@@ -36,7 +36,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 
 The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of your commitments and undertakings in your work.  
 
-To do so, the **Dashboard** combines a suite of tools visualizing all the features and data **you constantly look at, access, and and use** during your day.  
+To do so, the **Dashboard** combines a suite of tools carrying all the necessary features to **visualize all the data you constantly look at, access, and use** during your day.  
 
 
 
