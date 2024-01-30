@@ -29,7 +29,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 * **Social Groups** - combining intuitive means for team collaboration like chats, team calendars, group to dos, shared file management, and others. 
 * **Timeline** - showing a line of events and documents someway involving you and your currently selected company you work in. 
 * **Tiles** - previewing sets of records that can be loaded in a single tap, automatically applying the desired filter combination saved in advance for each tile, and offering a shortcut to those sets of records in the respective data table they are stored. 
-* **Favorites** - 
+* **Favorites** - listing specific items or objects that capture your interest for any reason like a particular document chain (an offer leading to a closed sale leading to an invoice) or a customer, supplier, dealer or other person or company, or anything and anyone other you work with. 
 * **Web View panels** - 
 
 ## Purpose and Application of the Dashboard in @@name
