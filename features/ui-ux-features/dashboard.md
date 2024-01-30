@@ -57,4 +57,7 @@ These examples can help illustrate this concept in practice:
 * Completing a to do from your Dashboard marks it as accomplished in your To Do app.
 * Chatting with your team or sharing files with them via your Groups widget displayed by your Dashboard actually happens in your Groups app.  
 
+This architecture of the @@name platform eliminates the necessity for synchronization and the possibility for unsaved progress or any delays - syncing simply becomes unnecessary when everything happens immediately where it is supposed to.  
+
+
 presents everything that
