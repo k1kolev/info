@@ -48,11 +48,13 @@ The **Dashboard** is **your one-stop solution** to:
 
 ## App Integration Capabilities of Your Dashboard
 
-Thanks to the native integration capabilities of @@name, each app you see in your Dashboard is just a window or a panel visualizing in real time the actual app running wherever it operates in your system. 
+Thanks to **the native integration capabilities of @@name**, each app you see in your Dashboard is just a window or a panel **visualizing in real time the actual app** that is running in its designated place in your system. 
 This means each time you act some way in any app displayed on your **Dashboard**, your actions automatically take effect immediately in the app itself.  
 
-These examples can illustrate the :  
+These examples can help illustrate this concept in practice:  
 
-, if you create a new meeting through the displayed Calendar widget, complete a to do from the To Do on your Dashboard
+* Creating a new meeting or changing the state of an existing one through the Calendar widget shown on your Dashboard actually applies the changes directly in your Calendar app. 
+* Completing a to do from your Dashboard marks it as accomplished in your To Do app.
+* Chatting with your team or sharing files with them via your Groups widget displayed by your Dashboard actually happens in your Groups app.  
 
 presents everything that
