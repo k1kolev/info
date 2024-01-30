@@ -34,7 +34,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 
 ## Purpose and Application of the Dashboard in @@name
 
-The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of your commitments and undertakings in your work.  
+The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of your commitments and undertakings in your work to display them on a single screen.  
 
 To do so, the **Dashboard** combines a suite of tools carrying all the necessary features to **visualize all the data you constantly look at, access, and use** during your day.  
 
