@@ -39,13 +39,16 @@ Various other kinds of features, such as **accounting and sales analyses** for r
 The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of **your commitments and undertakings** in your work to **display them on a single, neatly arranged screen**.  
 
 To do so, the **Dashboard** combines **a suite of tools and features** to **visualize all the data you constantly look at, access, and use** during your day. 
-The **Dashboard** is **the one-stop solution** to:  
+The **Dashboard** is **your one-stop solution** to:  
 
-* review the information of your interest in a snap 
-* access any number of records somewhere in the system - for example, the sales closed
-* or even a specific item in a single tap 
-*  receive quick insights, as well as get an overall view your tasks and assignments from multiple points of view.  
+* **review snapshots that are of interest to you via your calendar, timeline, and task apps** - your personal appointments, the meetings you participate in, your to dos 
+* **access any number of records present somewhere in the system via the tiles you set up** - for example, the details of your contacts, the leads that you put effort in to convert to paying customers, the current availabilities of items in your stores, the received and still-to-receive payments from your customers 
+* **get to a specific item in a single tap** - a particular supplier of yours, a marketing campaign that is going on, or the sales targets your company has set 
+* **receive quick insights** - events that happened today or this week or what new has been going on concerning you  
 
-Each action you take on your **Dashboard** automatically takes effect
+Thanks to the native integration capabilities of @@name, each app you see in your Dashboard is just a window displaying the actual app present in your system.  
+
+This makes it 
+each action you take on your **Dashboard** automatically takes effect
 
 presents everything that
