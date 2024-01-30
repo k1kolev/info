@@ -28,11 +28,11 @@ Your **Dashboard** is **completely customizable** and can help you **build a dig
 * **[To Do Tasks](~/features/my-apps/todo.md)** - providing a list of reminders for all those quick and simple actions you have to take, arranged by their state of completion. 
 * **[Social Groups](~/features/my-apps/team-collaboration.md)** - combining intuitive means for team collaboration like chats, team calendars, group to dos, shared file management, and others. 
 * **Timeline** - showing a line of events and documents someway involving you and your currently selected company you work in, such as scheduled meetings, sent offers, closed sales, issued invoices, and others. 
-* **[Tiles](~/features/my-apps/tiles.md)** - previewing sets of records like the customers of a given company, closed sales for the current year, products of a particular group, individual prices to a customer, or anything other, that can be loaded in a single tap while automatically applying the desired pre-saved filter combination for a specific purpose. 
+* **[Tiles](~/features/my-apps/tiles.md)** - previewing sets of records like the events for the current day and week, the customers of a given company, closed sales for the current year, products of a particular group, individual prices to a customer, or anything other, that can be loaded in a single tap while automatically applying the desired pre-saved filter combination for a specific purpose. 
 * **Favorites** - listing specific items or objects that capture your interest for any reason like a particular document chain (an offer leading to a closed sale leading to an invoice) or a customer, supplier, dealer or other person or company, or anything and anyone other you work with. 
 * **[Web View panels](~/features/ui-ux-features/web-view.md)** - enabling you to integrate a view of a website, giving you an opportunity to browse and use a website directly from your dashboard, such as a web app, a website, or even any place in your own @@name instance visualized within the dashboard of that same instance.  
 
-Various other features, such as accounting and sales analyses, multiple different views of your calendar and 
+Various other kinds of features, such as **accounting and sales analyses** for receiving quick insights, **multiple different views of your calendar and timeline** to perceive your commitments from another point of view, **your notifications** for taking a peek at what happened recently, and others add up to the **endless functionality of your Dashboard**.  
 
 ## Purpose and Application of the Dashboard in @@name
 
