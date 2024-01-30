@@ -22,7 +22,7 @@ The **@@name platform** has a definite answer to this with your **Dashboard**:
 **The Dashboard in @@name** is the one place in the system that **brings to your attention all the things necessary** to start your day and go through it winning at your business.  
 
 The **Dashboard** enables you neatly organize and put together the apps and tools that you use on a daily basis, providing a quick glance at what captures your interest the most. 
-Your **Dashboard** is **completely customizable** and can help you **build a home** for your:  
+Your **Dashboard** is **completely customizable** and can help you **build a digital home** for the role you have and work you do in your company:  
 
 * **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week. 
 * **To Do Tasks** - providing a list of reminders for all those quick and simple actions you have to take, arranged by their state of completion. 
@@ -32,12 +32,19 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 * **Favorites** - listing specific items or objects that capture your interest for any reason like a particular document chain (an offer leading to a closed sale leading to an invoice) or a customer, supplier, dealer or other person or company, or anything and anyone other you work with. 
 * **Web View panels** - enabling you to integrate a view of a website, giving you an opportunity to browse and use a website directly from your dashboard, such as a web app, a website, or even any place in your own @@name instance visualized within the dashboard of that same instance.  
 
+
+
 ## Purpose and Application of the Dashboard in @@name
 
 The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of **your commitments and undertakings** in your work to **display them on a single, neatly arranged screen**.  
 
 To do so, the **Dashboard** combines **a suite of tools and features** to **visualize all the data you constantly look at, access, and use** during your day. 
-The **Dashboard** is **the one-stop solution** to review the information of your interest in a snap, access various groups of data in a single tap, receive quick insights, as well as get an overall view your tasks and assignments from multiple points of view.  
+The **Dashboard** is **the one-stop solution** to:  
+
+* review the information of your interest in a snap 
+* access any number of records somewhere in the system - for example, the sales closed
+* or even a specific item in a single tap 
+*  receive quick insights, as well as get an overall view your tasks and assignments from multiple points of view.  
 
 Each action you take on your **Dashboard** automatically takes effect
 
