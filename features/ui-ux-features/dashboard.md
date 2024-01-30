@@ -39,6 +39,6 @@ The **all-around Dashboard** in **@@name** is intended to **summarize all elemen
 To do so, the **Dashboard** combines **a suite of tools and features** to **visualize all the data you constantly look at, access, and use** during your day. 
 The **Dashboard** is **the one-stop solution** to review the information of your interest in a snap, access various groups of data in a single tap, receive quick insights, as well as get an overall view your tasks and assignments from multiple points of view.  
 
-
+Each action you take on your **Dashboard** automatically takes effect
 
 presents everything that
