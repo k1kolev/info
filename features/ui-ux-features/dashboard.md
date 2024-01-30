@@ -37,7 +37,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a hom
 The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of **your commitments and undertakings** in your work to **display them on a single, neatly arranged screen**.  
 
 To do so, the **Dashboard** combines **a suite of tools and features** to **visualize all the data you constantly look at, access, and use** during your day. 
-The Dashboard is the one-stop solution to review your engagements in a snap, receive quick insights, and get a grasp of your tasks, assignemtns, and data from multiple points of view.  
+The **Dashboard** is **the one-stop solution** to review the information of your interest in a snap, access various groups of data in a single tap, receive quick insights, as well as get an overall view your tasks and assignments from multiple points of view.  
 
 
 
