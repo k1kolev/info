@@ -59,5 +59,14 @@ These examples can help **illustrate this concept in practice**:
 
 This architecture of the @@name platform **eliminates the necessity for synchronization and the possibility for unsaved progress or any delays** - syncing simply becomes unnecessary when **everything happens immediately where it is supposed to**.  
 
+## Try Customizing and Browsing Your Dashboard Now
 
-presents everything that
+Your **Dashboard** presents everything that you need in a glimpse. 
+Curious to see how it does so?  
+
+Feel free to check it all out in **our publically available test instance of @@name** - **without having to register**:  
+
+> **[Dashboard in @@name - Try now without registration](https://testdb.my.erp.net/cl/dashboard)**  
+
+> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
+
