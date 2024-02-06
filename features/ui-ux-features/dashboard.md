@@ -64,7 +64,7 @@ This architecture of the @@name platform **eliminates the necessity for synchron
 Your **Dashboard** presents everything that you need in a glimpse. 
 Curious to see how it does so?  
 
-Feel free to check it all out in **our publically available test instance of @@name** - **without having to register**:  
+Feel free to check it all out in **our publicly available test instance of @@name** - **without having to register**:  
 
 > **[Dashboard in @@name - Try now without registration](https://testdb.my.erp.net/cl/dashboard)**  
 
