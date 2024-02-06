@@ -55,7 +55,7 @@ These examples can help **illustrate this concept in practice**:
 
 * **Creating a new meeting** or **changing the state of an existing one** through **the Calendar widget** shown on your **Dashboard** actually applies the changes **directly in your Calendar app**. 
 * **Completing a to do** from your **Dashboard** marks it as accomplished **in your To Do app**.
-* **Chatting** with your team or **sharing files** with them via your **Groups widget** displayed on your **Dashboard** actually happens **in your Groups app**.  
+* **Chatting** with your team or **sharing files** with them via your **Groups widget** displayed on your **Dashboard** happens **in your Groups app**.  
 
 This architecture of the @@name platform **eliminates the necessity for synchronization and the possibility for unsaved progress or any delays** - syncing simply becomes unnecessary when **everything happens immediately where it is supposed to**.  
 
