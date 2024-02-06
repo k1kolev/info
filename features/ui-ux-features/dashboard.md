@@ -43,13 +43,13 @@ The **Dashboard** is **your one-stop solution** to:
 
 * **review snapshots that are of interest to you via your calendar, timeline, and task apps** - your personal appointments, the meetings you participate in, your to dos 
 * **access any number of records present somewhere in the system via the tiles you set up** - for example, the details of your contacts, the leads that you put effort in to convert to paying customers, the current availabilities of items in your stores, the received and still-to-receive payments from your customers 
-* **get to a specific item in a single tap** - a particular supplier of yours, a marketing campaign that is going on, or the sales targets your company has set 
-* **receive quick insights** - events that happened today or this week or what new has been going on concerning you  
+* **get to a specific item in a single tap** - a particular supplier of yours, a marketing campaign that is going on, or a sales target your company has set 
+* **receive quick insights** - events that happened today or this week, showing what new has been going on in your company concerning you  
 
 ## App Integration Capabilities of Your Dashboard
 
 Thanks to **the native integration capabilities of @@name**, each app you see in your Dashboard is just a window or a panel **visualizing in real time the actual app** that is running in its designated place in your system. 
-This means each time you act some way in any app displayed on your **Dashboard**, your actions automatically take effect immediately in the app itself.  
+This means **each time you act in some way through any app displayed on your Dashboard**, **your actions automatically take effect immediately in the app itself**.  
 
 These examples can help **illustrate this concept in practice**:  
 
