@@ -8,10 +8,10 @@ Many experts, managers, and creators are **adept to work in multiple areas, prof
 The comprehensiveness and scope of our work **requires our attention and eye for detail at so many places**. 
 This can have us **going back and forth**, **navigating through** various modules, apps, and panels, **searching for** information and continuously **checking for** something.  
 
-What if, instead of dashing raipidly through here and there, we had **a single location that greets us** everytime we access our business management platform?  
+What if, instead of dashing rapidly through here and there, we had **a single location that greets us** every time we access our business management platform?  
 
 A **spot that contains everything we need in a simple, yet effective form**, allowing us to **review the things that matter the most**, in a quick look. 
-Something that we can **personalize to suit it perfectly to every role we and our team members decide to take** for the projects and assignments we face ahead.  
+Something that we can **personalize to suit perfectly to every role we and our team members decide to take** for the projects and assignments we face ahead.  
 
 The **@@name platform** has a definite answer to this with your **Dashboard**:  
 
