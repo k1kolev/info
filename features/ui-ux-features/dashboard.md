@@ -15,7 +15,7 @@ Something that we can **personalize to suit perfectly to every role we and our t
 
 The **@@name platform** has a definite answer to this with your **Dashboard**:  
 
-![Dashboard](ERP-net-dashboard.png)  
+![Dashboard](ERP-net-dashboard-transformed.png)  
 
 ## Dashboard in @@name
 
@@ -70,3 +70,4 @@ Feel free to check it all out in **our publicly available test instance of @@nam
 
 > **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
 
+![ERP-net-dashboard-thumbnail-preview-scaled](https://github.com/k1kolev/info/assets/106669250/84c7932d-bf43-4e78-8f03-221f122e961d)
