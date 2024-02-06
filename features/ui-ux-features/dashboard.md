@@ -70,4 +70,4 @@ Feel free to check it all out in **our publicly available test instance of @@nam
 
 > **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
 
-![ERP-net-dashboard-thumbnail-preview-scaled](https://github.com/k1kolev/info/assets/106669250/84c7932d-bf43-4e78-8f03-221f122e961d)
+![ERP-net-dashboard-thumbnail-preview-scaled](https://github.com/k1kolev/info/assets/106669250/17ababb8-c0b0-4566-9370-d14cff9c377c)
