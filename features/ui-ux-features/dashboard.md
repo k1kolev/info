@@ -37,7 +37,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a dig
 * **Favorites** - listing specific items or objects that capture your interest for any reason like a particular document chain (an offer leading to a closed sale leading to an invoice) or a customer, supplier, dealer, vehicle - anything and anyone you work with. 
 * **[Web View panels](~/features/ui-ux-features/web-view.md)** - enabling you to integrate a view of a website, giving you an opportunity to browse and use a website directly from your dashboard, such as a web app, a supplier platform, or even any place in your own @@name instance visualized within the dashboard of that same instance.  
 
-Various other kinds of features, such as **accounting and sales analyses** for receiving quick insights, **multiple different views of your calendar and timeline** to perceive your commitments from another point of view, **your notifications** for taking a peek at what happened recently, and others add up to the **endless functionality of your Dashboard**.  
+Various other kinds of features, such as **accounting and sales analyses** for receiving quick insights, **your notifications** for taking a peek at what happened recently, **showing multiple instances of your tiles and web view panels** to extend your reach to your resources, and others add up to the **endless functionality of your Dashboard**.  
 
 ## Purpose and Application of the Dashboard in @@name
 
