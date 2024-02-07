@@ -54,7 +54,8 @@ The **Dashboard** is **your one-stop solution** to:
 
 ## App Integration Capabilities of Your Dashboard
 
-Thanks to **the native integration capabilities of @@name**, each app you see in your **Dashboard** is just a window (a panel) **visualizing in real time the actual app** that is running in its designated place in the system. 
+Thanks to **the native integration capabilities of @@name**, each app you see in your **Dashboard** is just a window (a panel) **visualizing in real time the actual app** that is running in its designated place in the system.  
+
 This means **each time you act in some way through any app displayed on your Dashboard**, **your actions take effect in the app itself, automatically and immediately**.  
 
 These examples can help **illustrate this concept in practice**:  
