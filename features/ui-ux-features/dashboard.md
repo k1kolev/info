@@ -70,7 +70,7 @@ This architecture of the **@@name** platform **eliminates the necessity for sync
 
 ## Try Customizing and Browsing Your Dashboard Now
 
-Your **Dashboard** presents everything that you need in a glimpse. 
+Your **Dashboard** presents everything that you need in a glimpse and a touch. 
 Curious to see how it does so?  
 
 Feel free to check it all out in **our publicly available test instance of @@name** - **without having to register**:  
