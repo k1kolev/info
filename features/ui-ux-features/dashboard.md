@@ -14,6 +14,8 @@ What if, instead of dashing rapidly through here and there, we had **a single lo
 A **spot that contains everything we need in a simple, yet effective form**, allowing us to **review the things that matter the most**, in a quick look. 
 Something that we can **personalize to suit perfectly to every role we and our team members decide to take** for the projects and assignments we face ahead.  
 
+This way we'll know where to start from.  
+
 The **@@name platform** has a definite answer to this with your **Dashboard**:  
 
 ![ERP-net-dashboard-apps-transformed](https://github.com/k1kolev/info/assets/106669250/5f4dcb4a-8b2b-4c8c-ac10-aeb7b915d48b)
