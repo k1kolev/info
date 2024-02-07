@@ -14,8 +14,7 @@ What if, instead of dashing rapidly through here and there, we had **a single lo
 A **spot that contains everything we need in a simple, yet effective form**, allowing us to **review the things that matter the most**, in a quick look. 
 Something that we can **personalize to suit perfectly to every role we and our team members decide to take** for the projects and assignments we face ahead.  
 
-This way we'll always know where to start from.  
-
+This way we'll always know where to start from. 
 The **@@name platform** has a definite answer to help you with this. 
 
 Meet your **Dashboard**:  
