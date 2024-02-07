@@ -41,7 +41,8 @@ Various other kinds of features, such as **accounting and sales analyses** for r
 
 ## Purpose and Application of the Dashboard in @@name
 
-The **all-around Dashboard** in **@@name** is intended to **summarize all elements** of **your commitments and undertakings** in your work to **display them on a single, neatly arranged screen**.  
+The **all-around Dashboard** in **@@name** is intended to **summarize your most interesting aspects** throughout your work. 
+This enables the Dashboard to **display the apps that help you pursue your commitments and undertakings on a single, neatly arranged screen**.  
 
 To do so, the **Dashboard** combines **a suite of tools and features** to **visualize all the data you constantly look at, access, and use** during your day. 
 The **Dashboard** is **your one-stop solution** to:  
