@@ -66,7 +66,7 @@ These examples can help **illustrate this concept in practice**:
 
 ![ERP-net-dashboard-transformed](https://github.com/k1kolev/info/assets/106669250/1ad00a51-d660-4daa-befb-8b5c7389b488)
 
-This architecture of the @@name platform **eliminates the necessity for synchronization and the possibility for unsaved progress or any delays** - syncing simply becomes unnecessary when **everything happens immediately where it is supposed to**.  
+This architecture of the **@@name** platform **eliminates the necessity for synchronization and the possibility for unsaved progress or any delays** - syncing simply becomes unnecessary when **everything happens immediately where it is supposed to**.  
 
 ## Try Customizing and Browsing Your Dashboard Now
 
