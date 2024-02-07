@@ -29,7 +29,7 @@ The **Dashboard** enables you neatly organize and put together the apps and tool
 
 Your **Dashboard** is **completely customizable** and can help you **build a digital home** hosting everything you regularly use for the role you have and the work you do at your company:  
 
-* **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week. 
+* **Calendar** - bringing **an all-around view** of your engagements like **meetings**, **appointments**, and others in multiple types of views, such as **a day, week, and month view**, complemented by tiles summarizing your events for the current day and week. 
 * **[To Do Tasks](~/features/my-apps/todo.md)** - providing **a list of reminders** for all those quick and simple actions you have to take, arranged by their state of completion. 
 * **[Social Groups](~/features/my-apps/team-collaboration.md)** - combining intuitive means for team collaboration like **chats**, **team calendars**, **group to dos**, **shared file management**, and others. 
 * **Timeline** - showing **a line of events and documents** someway **involving you and your currently selected company** you work in, such as **scheduled meetings**, **sent offers**, **closed sales**, **issued invoices**, and others. 
