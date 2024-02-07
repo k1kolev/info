@@ -60,7 +60,7 @@ This means **each time you act in some way through any app displayed on your Das
 
 These examples can help **illustrate this concept in practice**:  
 
-* **Creating a new meeting** through **the Calendar widget** shown on your **Dashboard** actually applies the changes **directly in your Calendar app**. 
+* **Creating a new meeting** through **the Calendar widget** shown on your **Dashboard** does so **directly in your Calendar app**. 
 * **Completing a to do** from your **Dashboard** marks it as accomplished **in your To Do app**.
 * **Chatting** with your team or **sharing files** with them via your **Groups widget** displayed on your **Dashboard** happens **in your Groups app**.  
 
