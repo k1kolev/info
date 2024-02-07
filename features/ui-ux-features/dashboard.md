@@ -15,7 +15,7 @@ Something that we can **personalize to suit perfectly to every role we and our t
 
 The **@@name platform** has a definite answer to this with your **Dashboard**:  
 
-![Dashboard](/images/ERP-net-dashboard-apps-transformed.png)  
+![Dashboard](ui-ux-features/images/ERP-net-dashboard-apps-transformed.png)  
 
 ## Dashboard in @@name
 
