@@ -25,8 +25,9 @@ Meet your **Dashboard**:
 
 **The Dashboard in @@name** is the one place in the system that **brings to your attention all the things necessary** to start your day and go through it winning at your business.  
 
-The **Dashboard** enables you neatly organize and put together the apps and tools that you use on a daily basis, providing a quick glance at what captures your interest the most. 
-Your **Dashboard** is **completely customizable** and can help you **build a digital home** hosting everything you regularly use for the role you have and work you do in your company:  
+The **Dashboard** enables you neatly organize and put together the apps and tools that you use on a daily basis, providing a quick glance at what captures your interest the most.  
+
+Your **Dashboard** is **completely customizable** and can help you **build a digital home** hosting everything you regularly use for the role you have and the work you do at your company:  
 
 * **Calendar** - bringing an all-around view of all your engagements like meetings, appointments, and others in multiple types of views, such as a day, week, and month view, and even tiles summarizing your events for the current day and week. 
 * **[To Do Tasks](~/features/my-apps/todo.md)** - providing a list of reminders for all those quick and simple actions you have to take, arranged by their state of completion. 
