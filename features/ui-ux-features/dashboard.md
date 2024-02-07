@@ -16,7 +16,9 @@ Something that we can **personalize to suit perfectly to every role we and our t
 
 This way we'll always know where to start from.  
 
-The **@@name platform** has a definite answer to this with your **Dashboard**:  
+The **@@name platform** has a definite answer to help you with this. 
+
+Meet your **Dashboard**:  
 
 ![ERP-net-dashboard-apps-transformed](https://github.com/k1kolev/info/assets/106669250/5f4dcb4a-8b2b-4c8c-ac10-aeb7b915d48b)
 
