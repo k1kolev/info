@@ -17,6 +17,8 @@ The **@@name platform** has a definite answer to this with your **Dashboard**:
 
 ![Dashboard](images/ERP-net-dashboard-apps-transformed.png)  
 
+![Dashboard](images/ERP-net-dashboard-apps.png)  
+
 ## Dashboard in @@name
 
 **The Dashboard in @@name** is the one place in the system that **brings to your attention all the things necessary** to start your day and go through it winning at your business.  
