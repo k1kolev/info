@@ -15,7 +15,7 @@ Something that we can **personalize to suit perfectly to every role we and our t
 
 The **@@name platform** has a definite answer to this with your **Dashboard**:  
 
-![ERP-net-dashboard-transformed](https://github.com/k1kolev/info/assets/106669250/1ad00a51-d660-4daa-befb-8b5c7389b488)
+![ERP-net-dashboard-apps-transformed](https://github.com/k1kolev/info/assets/106669250/5f4dcb4a-8b2b-4c8c-ac10-aeb7b915d48b)
 
 ## Dashboard in @@name
 
@@ -57,7 +57,7 @@ These examples can help **illustrate this concept in practice**:
 * **Completing a to do** from your **Dashboard** marks it as accomplished **in your To Do app**.
 * **Chatting** with your team or **sharing files** with them via your **Groups widget** displayed on your **Dashboard** happens **in your Groups app**.  
 
-![ERP-net-dashboard-apps-transformed](https://github.com/k1kolev/info/assets/106669250/5f4dcb4a-8b2b-4c8c-ac10-aeb7b915d48b)
+![ERP-net-dashboard-transformed](https://github.com/k1kolev/info/assets/106669250/1ad00a51-d660-4daa-befb-8b5c7389b488)
 
 This architecture of the @@name platform **eliminates the necessity for synchronization and the possibility for unsaved progress or any delays** - syncing simply becomes unnecessary when **everything happens immediately where it is supposed to**.  
 
