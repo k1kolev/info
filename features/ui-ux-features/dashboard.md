@@ -48,7 +48,7 @@ To do so, the **Dashboard** combines **a suite of tools and features** to **visu
 The **Dashboard** is **your one-stop solution** to:  
 
 * **review interesting snapshots from your calendar, timeline, and task apps** - your personal appointments, the meetings you participate in, your to dos 
-* **access any number of records present somewhere in the system via the tiles you set up** - for example, the details of your contacts, the leads that you put effort in to convert to paying customers, the current availabilities of items in your stores, the received and still-to-receive payments from your customers 
+* **access any number of records present somewhere in the system via the tiles you set up** - for example, the details of your contacts, the leads you put efforts into for converting them to paying customers, the current availabilities of items in your stores, the received and still-to-receive payments from your customers 
 * **get to a specific item in a single tap** - a particular supplier of yours, a marketing campaign that is going on, or a sales target your company has set 
 * **receive quick insights** - events that happened today or this week, showing what new has been going on in your company concerning you  
 
