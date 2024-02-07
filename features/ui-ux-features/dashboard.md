@@ -2,7 +2,8 @@
 
 ## Overview
 
-Oftentimes in today's business environment, we **take on many roles and responsibilities** and, respectively, **carry out all kinds of tasks and actions**. 
+Oftentimes in today's business environment, we **take on many roles and responsibilities**. 
+Respectively, we **carry out all kinds of tasks and actions**. 
 Many experts, managers, and creators are **adept to work in multiple areas, professional fields, and industries**.  
 
 The comprehensiveness and scope of our work **requires our attention and eye for detail at so many places**. 
