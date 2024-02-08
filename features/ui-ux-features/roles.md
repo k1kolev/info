@@ -9,7 +9,7 @@ To recreate these particular details in your digital platform, @@name enables yo
 
 Roles are a powerful tool for managing users in bulk within your @@name platform.  
 
-## Batch user management via roles
+## Batch User Management via Roles
 
 @@name enables you to personalize the layout for each role to reflect the role's needs, access, requirements, tasks, habits, and best practices as closely as you desire. 
 The new layout is automatically applied to all the users using the associated role.  
