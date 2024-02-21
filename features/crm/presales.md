@@ -2,6 +2,12 @@
 
 ## Overview
 
+The sales process and pipeline can span and go through various steps and stages.  
+
+The general structure of the sales (including presales) module in @@name comrpises the following activities with people, companies, and documents:  
+
+> **Team Collaboration Activities** → **Lead**→ *Opportunity* → *Offer* → *Sales Order* → *Invoice Order* → *Invoice*
+
 The presales process encompasses the activities your business engages with before making a sale. 
 These activities are related to researching, communicating with, and collecting data about potential (or even current) customers.
 
