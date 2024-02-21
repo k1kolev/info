@@ -17,7 +17,7 @@ Roles are a powerful tool for managing users in bulk within your @@name platform
 
 @@name enables you to personalize the layout for each role to align it perfectly with the role's needs and purpose.  
 
-Taking into consideration the requirements, tasks, habits, and best practices for every role, you can  as closely as you desire. 
+Taking into consideration the requirements, tasks, habits, and best practices for every role, you can design what the system looks like and feels like when used by the respective users. 
 The new layout automatically goes into effect immediately for all the users using the associated role.  
 
 ## Multi-Role Users
