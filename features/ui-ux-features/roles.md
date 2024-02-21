@@ -15,7 +15,9 @@ Roles are a powerful tool for managing users in bulk within your @@name platform
 
 ## Batch User Management via Roles
 
-@@name enables you to personalize the layout for each role to reflect the role's needs, access, requirements, tasks, habits, and best practices as closely as you desire. 
+@@name enables you to personalize the layout for each role to align it perfectly with the role's needs and purpose.  
+
+Taking into consideration the requirements, tasks, habits, and best practices as closely as you desire. 
 The new layout is automatically applied to all the users using the associated role.  
 
 ## Multi-Role Users
@@ -23,3 +25,6 @@ The new layout is automatically applied to all the users using the associated ro
 One size does not fit all. 
 And it is definitely not necessary to - as @@name fully supports multiple roles for any single user.  
 
+## Increased Security
+
+access to various kinds of data
