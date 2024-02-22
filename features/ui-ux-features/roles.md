@@ -2,7 +2,7 @@
 
 ## Overview
 
-With developments in technology, communication, business, and society as a whole, people now have the ability to learn more, faster. 
+With developments in fields like technology, communication, business, and society as a whole, people now have the ability to learn more, faster. 
 This allows them to gain experience and expertise in a wide area of activities
 
 
