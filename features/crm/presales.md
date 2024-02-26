@@ -2,7 +2,18 @@
 
 ## Overview
 
-The sales process and pipeline can span and go through various steps and stages.  
+The sales process in business can be very diverse across different companies.  
+
+Some products like personal accessories 
+
+
+can be sold pretty straightforward in a short amount of time.  
+
+a company can extend through different people, roles, discussions, and meetings.
+
+
+
+and go through various steps and stages and pipeline.  
 
 The general structure of the sales (including presales) module in @@name comrpises the following activities with people, companies, and documents:  
 
