@@ -4,7 +4,7 @@
 
 Nowadays, businesses strive to get their hands on all the necessary information they need for accomplishing their goals and achieve greater results.  
 
-Dealing with so much info, however, brings many challenges in terms of handling the data you store.  
+Funneling so much info to your company, however, brings many challenges in terms of storing and handling all the data.  
 
 Using the proper business tools enables you to easily overcome those challenges and quickly access the right information for your needs.  
 
