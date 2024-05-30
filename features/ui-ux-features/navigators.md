@@ -2,5 +2,12 @@
 
 ## Overview
 
+Nowadays, we strive to get our hands on all the necessary data we need for accomplishing our goals and achieve greater results.  
 
-Working with so much data
+Dealing with so much data, however, brings many challenges in terms of:  
+
+* Accuracy
+* Speed
+* Proper storing
+* Proper handling
+* 
