@@ -10,6 +10,8 @@ Using the proper business tools enables you to easily overcome those challenges 
 
 ## Easily navigate through well-structured information
 
+records
+
 ## How navigators help your manage all your data
 
 
