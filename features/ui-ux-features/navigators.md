@@ -6,6 +6,12 @@ Nowadays, businesses strive to get their hands on all the necessary information 
 
 Funneling so much info to your company, however, brings many challenges in terms of storing and handling all the data.  
 
+Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
+
+In order to avoid getting your teams quickly overwhelmed, 
+
+can benefit from digital tools that are 
+
 Using the proper business tools enables you to easily overcome those challenges and quickly access the right information for your needs.  
 
 ## Easily navigate through well-structured information
