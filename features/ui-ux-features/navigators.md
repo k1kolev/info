@@ -8,6 +8,8 @@ Dealing with so much info, however, brings many challenges in terms of handling 
 
 Using the proper business tools enables you to easily overcome those challenges and quickly access the right information for your needs.  
 
+## Easily navigate through well-structured information
+
 
 
 
