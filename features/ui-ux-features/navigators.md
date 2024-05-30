@@ -8,9 +8,7 @@ Funneling so much info to your company, however, brings many challenges in terms
 
 Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
 
-In order to avoid getting your teams quickly overwhelmed, 
-
-can benefit from digital tools that are 
+In order to avoid getting quickly overwhelmed, your company can benefit from digital tools that offer ease of use, quick adoption, and 
 
 Using the proper business tools enables you to easily overcome those challenges and quickly access the right information for your needs.  
 
