@@ -8,9 +8,17 @@ Funneling so much info to your company, however, brings many challenges in terms
 
 Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
 
-In order to avoid getting quickly overwhelmed, your company can benefit from digital tools that offer ease of use, quick adoption, and 
+There are ways to avoid getting quickly overwhelmed.  
 
-Using the proper business tools enables you to easily overcome those challenges and quickly access the right information for your needs.  
+Your company can benefit from digital tools that are easy to use, quick to adopt, powerfully integrated into your business management platform.  
+
+Whether using a CRM or ERP system, you need to have your data well organized and easy to handle.  
+
+This includes ways not only to bring records on your screen, but also arrange them through functions like filtering, sorting, searching, and pivoting data.
+
+Proper business tools, like the navigators in @@name platform, enable you to easily overcome all those challenges.  
+
+Explore the Navigator functionality to learn how you can access the right information for your needs quickly and precisely.  
 
 ## Easily navigate through well-structured information
 
