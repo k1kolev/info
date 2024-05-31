@@ -5,11 +5,11 @@
 Nowadays, businesses strive to get their hands on all the necessary information they need for accomplishing their goals and achieve greater results.  
 
 It's all about the data - huge amounts of data go across various departments, projects, and teams.  
-
-
+Most often, this data is stored in tabular forms, organized in records, with parameters that define the various pieces that comprise them.  
 
 Your company can benefit from digital tools that are easy to use, quick to adopt, powerfully integrated into your business management platform.  
 
+In order to achieve speed, precision, and proper perception of 
 
 ## Managing large amounts of business data
 
