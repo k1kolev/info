@@ -7,9 +7,13 @@ Nowadays, businesses strive to get their hands on all the necessary information 
 It's all about the data - huge amounts of data go across various departments, projects, and teams.  
 Most often, this data is stored in tabular forms, organized in records, with parameters that define the various pieces that comprise them.  
 
-Your company can benefit from digital tools that are easy to use, quick to adopt, powerfully integrated into your business management platform.  
+In order to quickly find the necessary data and handle it with ease and care, you'll need the proper means. 
 
-In order to achieve speed, precision, and proper perception of 
+**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and powerfully integrated into your business management platform.  
+
+Your company can benefit from 
+
+Explore the **Navigator** functionality in **@@name** to learn how you can access the right information for your needs quickly and precisely.  
 
 ## Managing large amounts of business data
 
@@ -26,7 +30,7 @@ This includes ways not only to bring records on your screen, but also arrange th
 
 Proper business tools, like the navigators in **@@name** platform, enable you to easily overcome all those challenges.  
 
-Explore the **Navigator** functionality in **@@name** to learn how you can access the right information for your needs quickly and precisely.  
+
 
 ## Easily navigate through well-structured information
 
