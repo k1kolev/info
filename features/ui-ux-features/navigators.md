@@ -18,7 +18,6 @@ Customers come with their orders, deliveries, and invoices, products must be org
 
 There are ways to avoid getting quickly overwhelmed.  
 
-
 Whether using a CRM or ERP system, you need to have your data well organized and easy to handle.  
 
 This includes ways not only to bring records on your screen, but also arrange them through functions like filtering, sorting, searching, and pivoting data.  
