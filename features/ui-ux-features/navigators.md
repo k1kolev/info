@@ -16,9 +16,9 @@ Whether using a CRM or ERP system, you need to have your data well organized and
 
 This includes ways not only to bring records on your screen, but also arrange them through functions like filtering, sorting, searching, and pivoting data.
 
-Proper business tools, like the navigators in @@name platform, enable you to easily overcome all those challenges.  
+Proper business tools, like the navigators in **@@name** platform, enable you to easily overcome all those challenges.  
 
-Explore the Navigator functionality to learn how you can access the right information for your needs quickly and precisely.  
+Explore the **Navigator** functionality in **@@name** to learn how you can access the right information for your needs quickly and precisely.  
 
 ## Easily navigate through well-structured information
 
