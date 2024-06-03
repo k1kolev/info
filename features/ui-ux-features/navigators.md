@@ -4,12 +4,12 @@
 
 Nowadays, businesses strive to get their hands on all the necessary information they need for accomplishing their goals and achieve greater results.  
 
-It's all about the data - huge amounts of data go across various departments, projects, and teams. 
+It's all about the data - huge amounts of data are processes and shared across various departments, projects, and teams. 
 Most often, this data is stored in a **tabular form** and organized in records, with parameters (or column titles) that define the smallest bits comprising each of these records.  
 
 Finding the necessary data quickly and handling it with ease and care means you'll need the proper tools.  
 
-**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and powerfully integrated into your business management platform.  
+**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and powerful enough to manage all kinds of information your company collects.  
 
 
 
