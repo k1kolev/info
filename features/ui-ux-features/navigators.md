@@ -11,14 +11,9 @@ Finding the necessary data quickly and handling it with ease and care means you'
 
 **Navigators in @@name** are digital tools that are easy to use, quick to adopt, and powerful enough to manage all kinds of information your company collects.  
 
-
-
-Explore the **Navigator** functionality in **@@name** to learn how your company can benefit 
-
-you can access the right information for your needs quickly and precisely.  
+Explore the **Navigator** functionality in **@@name** to learn how they can empower your organization in accessing the right information for your needs quickly and precisely.  
 
 ## Managing large amounts of business data
-
 
 Funneling so much info to your company, however, brings many challenges in terms of storing and handling all the data.  
 
