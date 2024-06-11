@@ -20,7 +20,7 @@ Explore the **Navigator** functionality in **@@name** to learn how they can empo
 ## Managing large amounts of business data
 
 Most often, these kinds of data are stored in **tabular form**. 
-They and arranged in **records** with **parameters** (or column titles) that define the smallest bits comprising each of them.  
+They and arranged in **records** (or rows) with **parameters** (or columns) that define the smallest bits comprising each of them.  
 
 Funneling all kinds of information to your company brings many challenges in terms of storing and handling it.  
 
