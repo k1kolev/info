@@ -11,7 +11,8 @@ It's all about the data - huge amounts of it are processes and shared across var
 * Tons of financial transactions happen in a split second
 * Projects and tasks fly in and grow fast
 
-Most often, these kinds of data are stored in **tabular form** and arranged in **records**, with **parameters** (or column titles) that define the smallest bits comprising each of these records.  
+Most often, these kinds of data are stored in **tabular form**. 
+They and arranged in **records** with **parameters** (or column titles) that define the smallest bits comprising each of them.  
 
 Finding the necessary data quickly and handling it with ease and care means you'll need the **proper tools**.  
 
