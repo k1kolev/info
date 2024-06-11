@@ -2,13 +2,14 @@
 
 ## Overview
 
-Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their goals and achieve greater results. 
+Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their goals and achieve greater results.  
+In addition, management and expert teams use this information to conduct analyses in attempts of making better, data-backed decisions.  
 It's all about the **data** - **huge amounts** of it are processes and shared across various departments, projects, and teams.
 
 Most often, these kinds of data are stored in **tabular form**. 
 They and arranged in **records** with **parameters** (or column titles) that define the smallest bits comprising each of them.  
 
-In addition, management and expert teams use this information to conduct analyses in attempts of making better, data-backed decisions.  
+
 
 With all this in mind, finding the necessary data quickly and handling it the right way means you'll need the **proper tools** for the job.  
 
