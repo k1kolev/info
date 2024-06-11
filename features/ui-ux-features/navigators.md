@@ -4,24 +4,25 @@
 
 Nowadays, businesses strive to get their hands on all the necessary information they need for accomplishing their goals and achieve greater results.  
 
-It's all about the data - huge amounts of data are processes and shared across various departments, projects, and teams. 
-Most often, this data is stored in a **tabular form** and organized in records, with parameters (or column titles) that define the smallest bits comprising each of these records.  
+It's all about the data - huge amounts of data are processes and shared across various departments, projects, and teams.  
 
-Finding the necessary data quickly and handling it with ease and care means you'll need the proper tools.  
+Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
 
-**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and powerful enough to manage all kinds of information your company collects.  
+Most often, this data is stored in a **tabular form** and organized in **records**, with **parameters** (or column titles) that define the smallest bits comprising each of these records.  
+
+Finding the necessary data quickly and handling it with ease and care means you'll need the **proper tools**.  
+
+**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and functionally extensive to manage all kinds of information your company collects.  
 
 Explore the **Navigator** functionality in **@@name** to learn how they can empower your organization in accessing the right information for your needs quickly and precisely.  
 
 ## Managing large amounts of business data
 
-Funneling so much info to your company, however, brings many challenges in terms of storing and handling all the data.  
-
-Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
+Funneling all kinds of information to your company brings many challenges in terms of storing and handling it.  
 
 There are ways to avoid getting quickly overwhelmed.  
 
-Whether using a CRM or ERP system, you need to have your data well organized and easy to handle.  
+When using your CRM or ERP system, you need to have your data well organized and easy to handle.  
 
 This includes ways not only to bring records on your screen, but also arrange them through functions like filtering, sorting, searching, and pivoting data.  
 
