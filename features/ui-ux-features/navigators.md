@@ -16,7 +16,7 @@ They and arranged in **records** with **parameters** (or column titles) that def
 
 In addition, management and expert teams use this information to conduct analyses in attempts of making better, data-backed decisions.  
 
-Finding the necessary data quickly and handling it with ease and care means you'll need the **proper tools**.  
+With all this in mind, finding the necessary data quickly and handling it the right way means you'll need the **proper tools** for the job.  
 
 **Navigators in @@name** are digital tools that are easy to use, quick to adopt, and functionally extensive to manage all kinds of information your company collects.  
 
