@@ -6,11 +6,6 @@ Nowadays, businesses strive to get their hands on all the necessary information 
 
 It's all about the data - huge amounts of it are processes and shared across various departments, projects, and teams:  
 
-* Customers rush in with their orders, deliveries, and invoices
-* Whole ranges of products must be organized by their specifications and prices
-* Tons of financial transactions happen in a split second
-* Projects and tasks fly in and grow fast
-
 Most often, these kinds of data are stored in **tabular form**. 
 They and arranged in **records** with **parameters** (or column titles) that define the smallest bits comprising each of them.  
 
@@ -25,6 +20,13 @@ Explore the **Navigator** functionality in **@@name** to learn how they can empo
 ## Managing large amounts of business data
 
 Funneling all kinds of information to your company brings many challenges in terms of storing and handling it.  
+
+
+* Customers rush in with their orders, deliveries, and invoices
+* Whole ranges of products must be organized by their specifications and prices
+* Tons of financial transactions happen in a split second
+* Projects and tasks fly in and grow fast
+
 
 There are ways to avoid getting quickly overwhelmed.  
 
