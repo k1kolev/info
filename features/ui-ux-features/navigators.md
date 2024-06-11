@@ -3,7 +3,7 @@
 ## Overview
 
 Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their goals and achieve greater results. 
-It's all about the data - huge amounts of it are processes and shared across various departments, projects, and teams.
+It's all about the **data** - **huge amounts** of it are processes and shared across various departments, projects, and teams.
 
 Most often, these kinds of data are stored in **tabular form**. 
 They and arranged in **records** with **parameters** (or column titles) that define the smallest bits comprising each of them.  
