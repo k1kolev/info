@@ -41,7 +41,7 @@ Proper business tools, like the navigators in **@@name** platform, enable you to
 
 ## Easily navigate through well-structured information
 
-records
+
 
 ## How navigators help your manage all your data
 
