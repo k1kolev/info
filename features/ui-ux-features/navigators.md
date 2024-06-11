@@ -4,11 +4,14 @@
 
 Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their goals and achieve greater results.  
 
-It's all about the data - huge amounts of it are processes and shared across various departments, projects, and teams.  
+It's all about the data - huge amounts of it are processes and shared across various departments, projects, and teams:  
 
-Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
+* Customers rush in with their orders, deliveries, and invoices
+* Whole ranges of products must be organized by their specifications and prices
+* Tons of financial transactions happen in a split second
+* Projects and tasks fly in and grow fast
 
-Most often, this data is stored in a **tabular form** and organized in **records**, with **parameters** (or column titles) that define the smallest bits comprising each of these records.  
+Most often, these kinds of data are stored in **tabular form** and arranged in **records**, with **parameters** (or column titles) that define the smallest bits comprising each of these records.  
 
 Finding the necessary data quickly and handling it with ease and care means you'll need the **proper tools**.  
 
