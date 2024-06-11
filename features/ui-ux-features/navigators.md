@@ -14,6 +14,8 @@ It's all about the data - huge amounts of it are processes and shared across var
 Most often, these kinds of data are stored in **tabular form**. 
 They and arranged in **records** with **parameters** (or column titles) that define the smallest bits comprising each of them.  
 
+In addition, management and expert teams use this information to conduct analyses in attempts of making better, data-backed decisions.  
+
 Finding the necessary data quickly and handling it with ease and care means you'll need the **proper tools**.  
 
 **Navigators in @@name** are digital tools that are easy to use, quick to adopt, and functionally extensive to manage all kinds of information your company collects.  
