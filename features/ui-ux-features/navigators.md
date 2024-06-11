@@ -2,9 +2,9 @@
 
 ## Overview
 
-Nowadays, businesses strive to get their hands on all the necessary information they need for accomplishing their goals and achieve greater results.  
+Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their goals and achieve greater results.  
 
-It's all about the data - huge amounts of data are processes and shared across various departments, projects, and teams.  
+It's all about the data - huge amounts of it are processes and shared across various departments, projects, and teams.  
 
 Customers come with their orders, deliveries, and invoices, products must be organized by their specifications and prices, financial transactions happen in a split second, projects and tasks grow fast.  
 
