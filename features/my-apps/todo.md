@@ -2,6 +2,10 @@
 
 ## Overview
 
+Watch our video and discover how **@@name** ensures you and your team will always get each task done on time and with exceptional quality:  
+
+[![ERP-net-To-Do-app-transformed - HD](https://github.com/k1kolev/info/assets/106669250/69f13f24-e747-47ba-b0b3-350b821e3b7a)](https://www.youtube.com/watch?v=Xdo_ryre-Ik)
+
 No matter what we do, we repeatedly come across a **number of small tasks** every day. 
 These quick jobs usually **appear spontaneously** and tend to **gradually stack up**. 
 With so many important activities it is easy to forget some routine duties to the side. 
@@ -12,8 +16,6 @@ For that, **@@name** adds a brand-new application to its integrated app suite: *
 The new **To Do** is a **personal reminder tool**. 
 Its purpose is to remind you to tend to some issues or pending jobs later. 
 In this manner, it lets you focus on **the more productive aspects** of the business.  
-
-![to-do-1](https://user-images.githubusercontent.com/106669250/203780016-4057686b-fc52-4c71-8032-f5c58071f3c1.jpg)
 
 ## Implementation of To Do in @@name
 

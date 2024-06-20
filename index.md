@@ -22,7 +22,6 @@ Use this section to read more about the different modules and features of @@name
 
 * [Highlighted Features](~/features/highlights.md) - @@name's universal strongpoints applicable throughout the platform's systems.
 * [General](~/features/general/index.md) - general features, applicable to all modules.
-* [UI and UX](~/features/ui-ux-features/index.md) - universal UI and UX features of the @@name platform for boosting productivity and ease of use.
 * [My Apps](~/features/my-apps/index.md) - @@name app suite for personal productivity and team collaboration.
 * [CRM](~/features/crm/index.md) - features related to the CRM (Customer Relationship Management).
 * [Logistics](~/features/logistics/index.md) - logistics encompasses movement and storage of physical goods.
@@ -36,7 +35,8 @@ Use this section to read more about the different modules and features of @@name
 
 This section contains general information about the platform, hosting, licensing, etc.
 
-* [Try @@name Live Now](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features.
+* [Express CRM and Team Collaboration - Try Live Now](~/information/try-out-erp-net-express-crm.md) - experience firsthand, right away our CRM and Team Collaboration platform without having to register.
+* [Full-Scale ERP Platform ERP.net - Try Live Now](~/information/try-our-system.md) - try our business management platform's well-established, and even brand-new, pre-released features with no need to register.
 * [@@name Editions and Plans](~/information/editions-and-plans/index.md) - discover the editions of @@name, the plans available, the packaged functionalities, the purpose, and the business application of each edition.
 * [Licensing](~/information/licensing/index.md) - explaining the licensing models for editions of @@name platform.
 * [System Information](~/information/system-information/index.md) - hosting, high-availability, disaster-recovery, etc.
