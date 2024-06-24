@@ -14,6 +14,12 @@ It is meant for businesses that are looking for ways to enhance their teamwork a
 Designed to blend social and technological functionality into one, **Express** is easy to implement into your business and straightforward for your teams to use. 
 These properties power **Express** to be a productivity-driven investment that enables your company to reap swift results in return for minimal efforts on your side.  
 
+> [!Tip]  
+> 
+> For more information or help with choosing the best edition and plan for your business, please get in touch with us through our global website:  
+> 
+> **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
+
 ## Functionality and Purpose
 
 This edition offers a set of widely used, intuitive business tools, all integrated in a single system:  
@@ -54,40 +60,40 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |Min users|2|2|2|
 |Max users|1 000|1 000|1 000|
 |**CRM & APPS**|**Team Collaboration**|**CRM**|**Pro**|
-|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✓|✓|✓|
-|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✓|✓|✓|
-|File Manager|✓|✓|✓|
-|**[Contact & Lead Management](~/features/crm/presales.md)**| |✓|✓|
-|**[Opportunity & Quotation](~/features/crm/presales.md)**| |✓|✓|
-|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✓|✓|
-|Agile Project Management (beta)| | |✓|
-|Classic Project Management (beta)| | |✓|
-|Service Management| | |✓|
-|Subscription Management (beta)| | |✓|
-|Basic AI (AI Assistant)|||✓|
+|Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
+|**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
+|File Manager|✔|✔|✔|
+|**[Contact & Lead Management](~/features/crm/presales.md)**| |✔|✔|
+|**[Opportunity & Quotation](~/features/crm/presales.md)**| |✔|✔|
+|**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✔|✔|
+|Agile Project Management (beta)| | |✔|
+|Classic Project Management (beta)| | |✔|
+|Service Management| | |✔|
+|Subscription Management (beta)| | |✔|
+|Basic AI (AI Assistant, Data Analysis)| | |✔|
 |**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|
-|**[User-defined Stored attributes](~/features/system/stored-attributes.md)**|✓|✓|✓|
-|**[User-defined Calculated attributes](~/features/system/calculated-attributes.md)**| | |✓|
-|User-defined Business Rules| | |✓|
-|User-defined Jobs| | |✓|
+|**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|
+|**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| | |✔|
+|User-defined Business Rules| | |✔|
+|User-defined Jobs| | |✔|
 |**WEBSITES**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client|✓|✓|✓|
-|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |✓|
-|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✓|
-|**[Client Center](~/features/crm/client-center.md)**| | |✓|
-|Microsoft Sync|||✓|
+|Web Client|✔|✔|✔|
+|**[Domain API](https://docs.erp.net/dev/domain-api/index.html)**| | |✔|
+|**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✔|
+|**[Client Center](~/features/crm/client-center.md)**| | |✔|
+|Microsoft Sync| | |✔|
 |Number of websites included|1|1|1|
-|Websites Extendable|||✓|
+|Websites Extendable| | |✔|
 |**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|
-|Web Client|✓|✓|✓|
+|Web Client|✔|✔|✔|
 |Included Storage|3 GB per user|3 GB per user|3 GB per user|
-|Storage Extendable|✓|✓|✓|
-|Test Instances allowed (billed separately)|||✓|
-|Track Changes| | |✓|
-|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|||✓|
+|Storage Extendable|✔|✔|✔|
+|Test Instances allowed (billed separately)| | |✔|
+|Track Changes| | |✔|
+|**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|
 |**PRICE**|**Team Collaboration**|**CRM**|**Pro**|
-|PRICE per month - starting from|$9/user|$19/user|$39/user|
-|Plan codes|130|150|170|
+|PRICE per month - starting from|€9/user|€19/user|€39/user|
+|Annual prepayment discount|12%|12%|12%|
 
 ## Key functionalities Express brings to your business
 
@@ -130,9 +136,19 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 ### Manage Services
 
 * **Maintenance and Repair**: Manage and track the services for physical assets.
-* **Service Orders and SLAs**: Streamlined processes for service contracts, service-level agreements (SLAs) and delivery.
+* **Service Orders and SLAs**: Streamlined processes for service contracts, service-level agreements (SLAs), and delivery.
 * **Billing and Invoicing**: Automated and transparent billing for services rendered.
 
 ---
 
 Streamline your daily workflows, strengthen your teamwork, and drive productivity beyond limits - with @@name.  
+
+# Get @@name for your organization
+
+You can purchase a subscription plan for an @@name edition by heading to our global website to place your inquiry.  
+
+In case you need help with deciding the best edition and plan for your company, as well as if you have more questions, you'd like a demonstration of the @@name platform, or you're looking for more specific information - feel free to ask us or request a meeting with us.  
+
+We will contact you back to help you with the best possible plans and options for your business.  
+
+> **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
