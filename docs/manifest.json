@@ -2756,24 +2756,30 @@
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "information/editions-and-plans/enterprise-edition.md",
       "output": {
         ".html": {
           "relative_path": "information/editions-and-plans/enterprise-edition.html",
-          "hash": "DowbCM3oT170iobOnm4KEg=="
+          "hash": "Y+rT/jf+yLTVLEcx3oJYJw=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "information/editions-and-plans/express-edition.md",
       "output": {
         ".html": {
           "relative_path": "information/editions-and-plans/express-edition.html",
-          "hash": "tdHPIpfkQ6A3unVc5zeQmA=="
+          "hash": "EaLeJDAy4pvL4tjW6+tDyg=="
         }
       },
       "is_incremental": false,
@@ -2785,19 +2791,22 @@
       "output": {
         ".html": {
           "relative_path": "information/editions-and-plans/index.html",
-          "hash": "1OKl4lycOYc7mIbWXC4aDg=="
+          "hash": "2t6/VADeh440jrHoWflhPA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
+      "log_codes": [
+        "InvalidFileLink"
+      ],
       "type": "Conceptual",
       "source_relative_path": "information/editions-and-plans/small-business-edition.md",
       "output": {
         ".html": {
           "relative_path": "information/editions-and-plans/small-business-edition.html",
-          "hash": "QrR7nGZQmhzHpPu6yt5XEQ=="
+          "hash": "wFclXsnluIMgkM2ivhoS8Q=="
         }
       },
       "is_incremental": false,

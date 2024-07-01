@@ -57,19 +57,21 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|✔|
 |File Manager|✔|✔|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)| | |✔|✔|
-|Advanced AI (Personalized models, Business rules)| | | |✔|
+|**AI CAPABILITIES**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
+|AI Assistant| | |✔|✔|
+|AI Data Analysis| | |✔|✔|
+|AI Chat Arbiter| | |✔|✔|
+|AI Personalization (Fine-tuning)| | | |✔|
+|AI Workflow (Business rules)| | | |✔|
 |**CRM**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|✔|✔|✔|✔|
+|Customer Management|✔|✔|✔|✔|
+|**[Product Management](~/info/features/crm/products.md)**|✔|✔|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|✔|✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|✔|✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|✔|✔|✔|✔|
-|Subscription Management (beta)| |✔|✔|✔|
 |POS|✔| |✔|✔|
 |**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**| | |✔|✔|
-|**PROJECT MANAGEMENT**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|Agile Project Management (beta)| |✔|✔|✔|
-|Classic Project Management (beta)| |✔|✔|✔|
 |**LOGISTICS**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|✔| |✔|✔|
 |**[Basic Logistics](~/features/logistics/index.md)**|✔| |✔|✔|
@@ -117,13 +119,13 @@ From interacting with customers and suppliers, to reliably carrying out internal
 |**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**| | |(optional)|✔|
 |Storage Included|10 GB per plan|10 GB per plan|10 GB per plan|10 GB per plan|
 |Storage Extendable|✔|✔|✔|✔|
-|Test Instances allowed (billed separately)|✔|✔|✔|✔|
+|Test Instances allowed (billed separately)| | |✔|✔|
 |Dedicated APP server| | |(optional)|(optional)|
 |Track Changes|✔|✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |(optional)|✔|
 |**PRICE**|**Basic Logistics**|**Basic Service**|**Advanced**|**Max**|
-|PRICE per month - starting from|€49/user|€49/user|€69/user|€99/user|
-|Annual prepayment discount|12%|12%|12%|12%|
+|Price per month|€49/user|€49/user|€69/user|€99/user|
+|Price per month (annual payment)|€43.12/user|€43.12/user|€60.72/user|€87.12/user|
 
 # Get @@name for your organization
 
