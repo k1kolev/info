@@ -51,19 +51,21 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Personal Productivity - Calendar, **[To Do](~/features/my-apps/todo.md)**|✔|✔|✔|
 |**[Team Collaboration](~/features/my-apps/team-collaboration.md)** - Group Chat, Calendar, Tasks, Files|✔|✔|✔|
 |File Manager|✔|✔|✔|
-|Basic AI (AI Assistant, Data Analysis)|(optional)|✔|✔|
-|Advanced AI (Personalized models, Business rules)|(optional)|✔|✔|
+|**AI CAPABILITIES**|**Standard**|**Premium**|**Corporate**|
+|AI Assistant|(optional)|✔|✔|
+|AI Data Analysis|(optional)|✔|✔|
+|AI Chat Arbiter|(optional)|✔|✔|
+|AI Personalization (Fine-tuning)|(optional)|✔|✔|
+|AI Workflow (Business rules)|(optional)|✔|✔|
 |**CRM**|**Standard**|**Premium**|**Corporate**|
 |**[Contact & Lead Management](~/features/crm/presales.md)**|(optional)|✔|✔|
+|Customer Management|(optional)|✔|✔|
+|**[Product Management](~/info/features/crm/products.md)**|(optional)|✔|✔|
 |**[Opportunity & Quotation](~/features/crm/presales.md)**|(optional)|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**|(optional)|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**|(optional)|✔|✔|
-|Subscription Management (beta)|(optional)|✔|✔|
 |POS|(optional)|✔|✔|
 |**[Product Configurator (desktop only)](~/features/crm/product-configurator.md)**|(optional)|✔|✔|
-|**PROJECT MANAGEMENT**|**Standard**|**Premium**|**Corporate**|
-|Agile Project Management (beta)|(optional)|✔|✔|
-|Classic Project Management (beta)|(optional)|✔|✔|
 |**LOGISTICS**|**Standard**|**Premium**|**Corporate**|
 |Inventory Management & **[Shipment](~/features/logistics/shipment.md)**|(optional)|✔|✔|
 |**[Basic Logistics](~/features/logistics/index.md)**|(optional)|✔|✔|
@@ -109,7 +111,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Web Client|✔|✔|✔|
 |Windows Desktop Client|✔|✔|✔|
 |**[Multiple Managed Entities (up to 3, 5, 10, or unlimited)](~/features/general/multi-company.md)**|(optional)|✔|✔|
-|Included Storage|10 GB / 100 GB (with Max package) per plan|100 GB per plan|1 TB per plan|
+|Storage Included|10 GB (100 GB with Max package) per plan|100 GB per plan|1 TB per plan|
 |Storage Extendable|✔|✔|✔|
 |Test Instances allowed (billed separately)|✔|✔|✔|
 |Dedicated APP server|✔|✔|✔|
@@ -121,8 +123,7 @@ This ensures your business scales in a **flexible and seamless manner** dependin
 |Track Changes|✔|✔|✔|
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**|(optional)|✔|✔|
 |**PRICE**|**Standard**|**Premium**|**Corporate**|
-|PRICE per month|Price available at request|Price available at request|Price available at request|
-|Annual prepayment discount|12%|12%|12%|
+|Price per month|Price available at request|Price available at request|Price available at request|
 
 # Get @@name for your organization
 
