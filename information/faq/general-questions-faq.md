@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 # General Questions About @@name
 
@@ -15,3 +15,11 @@ Each module is intended to support the operations and activities in a specific d
 @@name modules offer functionality to carry out your daily operations in CRM, Logistics, Production, Finance, Project Management, Business Applications, and other fields and departments.  
 
 Every module contains a variety of apps and features to ensure the respective functionalities.  
+
+
+
+## 3. Is @@name only available as a full-scale ERP system?
+
+The @@name platform started as an all-in-one ERP software (hence the name). 
+Since then, the platform has included a range of different software products under the same brand.  
+
