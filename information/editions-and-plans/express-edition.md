@@ -76,6 +76,14 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Opportunity & Quotation](~/features/crm/presales.md)**| |✔|✔|✔|
 |**[Marketing Management - Campaigns, Competitors, Channels](~/features/crm/marketing.md)**| |✔|✔|✔|
 |**[Order Management](~/features/crm/sales.md)**| |✔|✔|✔|
+|**BUSINESS APPS**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
+|Service Center Management| | | |✔|
+|Asset Management (beta)| | | |✔|
+|Fleet Management (beta)| | | |✔|
+|Lease-out Management (beta)| | | |✔|
+|**[Data Warehouse](~/features/applications/data-warehouse.md)**| | | |✔|
+|Personal Data Management (GDPR)| | | |✔|
+|Mail Sorting (beta)| | | |✔|
 |**PROCESS MANAGEMENT**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |**[User-defined Stored Attributes](~/features/system/stored-attributes.md)**|✔|✔|✔|✔|
 |**[User-defined Calculated Attributes](~/features/system/calculated-attributes.md)**| | |✔|✔|
@@ -87,7 +95,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Table API](https://docs.erp.net/dev/topics/table-api/index.html)**| | |✔|✔|
 |**[Client Center](~/features/crm/client-center.md)**| | |✔|✔|
 |Microsoft Sync| | |✔|✔|
-|Number of website licenses included|1|1|1|1|
+|**[Number of website licenses included](~/features/system/integrated-websites.md)**|1|1|1|1|
 |Extendable number of websites| | |✔|✔|
 |**TECHNICAL OPTIONS**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |Web Client|✔|✔|✔|✔|
