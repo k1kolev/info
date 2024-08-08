@@ -2,16 +2,14 @@
   "build": {
     "content": [
       {
-        "files": [
-          "toc.yml",
-          "**.md",
-          "**/toc.yml"
-        ]
+        "files": [ "toc.yml", "**.md", "**/toc.yml" ],
+        "exclude": [ "docs/**/*.*" ]
       }
     ],
     "resource": [
       {
-        "files": [ "images/**", "**.svg", "**.png" ]
+        "files": [ "images/**", "**.svg", "**.png" ],
+        "exclude": [ "docs/**/*.*" ]
       }
     ],
     "xref": [
@@ -27,9 +25,11 @@
     "globalMetadataFiles": [],
     "fileMetadataFiles": [],
     "template": [
-      "default"
+      "default",
+      "modern",
+      "templates/material"
     ],
-    "postProcessors": [],
+    "postProcessors": ["ExtractSearchIndex"],
     "markdownEngineName": "markdig",
     "noLangKeyword": false,
     "keepFileLink": false,
