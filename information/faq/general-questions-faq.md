@@ -10,8 +10,8 @@
 ## 2. What's inside of @@name?
 
 The @@name platform consists of a large number of modules. 
-Each module is intended to support the operations and activities in a specific department, project, or work area - crm, logistics, production, finance, project management, etc.  
+Each module is intended to support the operations and activities in a specific department, project, or work area in your company.  
 
-A simplified list of the modules include:  
+@@name modules offer functionality to carry out your daily operations in CRM, Logistics, Production, Finance, Project Management, Business Applications, and other fields and departments.  
 
-Every module contains a variety of apps and features to support the respective
+Every module contains a variety of apps and features to ensure the respective functionalities.  
