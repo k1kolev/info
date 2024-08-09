@@ -5,13 +5,9 @@
 Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their daily tasks and track what's important. 
 In addition, management and expert teams use this information to conduct analyses in attempts of making better, data-backed decisions.  
 
-It's all about the **data** - **huge amounts** of it are processes and shared across various departments, projects, and teams.  
+Constantly growing data results in **huge amounts** of information processed and shared across various departments, projects, and teams.  
 
-
-
-
-
-With all this in mind, finding the necessary data quickly and handling it the right way means you'll need the **proper tools** for the job.  
+With all this in mind, finding the necessary data quickly and handling it the right way means you'll need the **proper means** for the job.  
 
 **Navigators in @@name** are digital tools that are easy to use, quick to adopt, and functionally extensive to manage all kinds of information your company collects.  
 
