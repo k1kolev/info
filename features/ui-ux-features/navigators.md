@@ -7,11 +7,13 @@ In addition, management and expert teams use this information to conduct analyse
 
 Constantly growing data results in **huge amounts** of information processed and shared across various departments, projects, and teams.  
 
-With all this in mind, finding the necessary data quickly and operating it the right way means you'll need the **proper means** for the job.  
+With this in mind, dealing with all this data means you'll need the **right tools** for the job.  
 
-**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and functionally extensive to manage all kinds of information your company collects.  
 
-Each navigator in @@name is a table powered with all the necessary modern functionalities
+
+**Navigators in @@name** are digital tools that are easy to use, quick to adopt, and functionally extensive to manage all kinds of information your company collects in its day.  
+
+Each navigator in @@name is a table powered with modern functionalities to organize, view, find, and handle your data rapidly and efficiently.
 
 Explore the **Navigator** functionality in **@@name** to learn how they can empower your organization in accessing the right information for your needs quickly and precisely.  
 
