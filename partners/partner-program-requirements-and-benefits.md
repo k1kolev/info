@@ -1,7 +1,7 @@
-# Overview
+# Partnership Requirements and Benefits
 
 Your business can benefit in multiple ways from becoming a member of our partner network. 
-Our partner program provides several levels of partnerships, depending on the level of your commitment with our products and services.
+Our partner program provides several levels of partnerships, depending on the level of your commitment to our products and services.  
 
 The levels are:
 
@@ -11,12 +11,16 @@ The levels are:
 * Silver Partner
 * Gold Partner
 
+The following flowchart visually presents the tiers and your path of success through our Partner Program:  
+
+![Partnership Tiers Diagram - Scaled for Info Site](https://github.com/user-attachments/assets/20942ae7-9498-4720-a856-adfc5e5708b0)
+
 Each level provides its own **benefits** and comes with its own **requirements**.  
 
 ## Affiliate
 
 This is the lowest level of partnership.
-It is designated for partners, which conduct businesses, unrelated to our products, but might provide links/leads/opportunities for our software products.
+It is designated for partners which conduct businesses unrelated to our products, but might provide links/leads/opportunities for our software products.
 
 ### Requirements
 
