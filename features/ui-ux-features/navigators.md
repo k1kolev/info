@@ -5,8 +5,7 @@
 Nowadays, businesses strive to get their hands on all the necessary information they can for accomplishing their daily tasks and track what's important. 
 In addition, management and expert teams use this information to conduct analyses in attempts of making better, data-backed decisions.  
 
-Constantly growing data results in **huge amounts** of information processed and shared across various departments, projects, and teams.  
-
+Constantly growing data results in **huge amounts** of information processed and shared across various departments, projects, and teams. 
 With this in mind, dealing with all this data means you'll need the **right tools** for the job.  
 
 
