@@ -4,7 +4,7 @@
 
 Explore functionalities like personal productivity, team collaboration, and our 360-degree CRM to empower your teams and accelerate success:  
 
-[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/415418f9-99ce-4a69-ab2b-19e0b5a12d19)](https://www.youtube.com/watch?v=L5uqj5QYDNM)  
+[![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/415418f9-99ce-4a69-ab2b-19e0b5a12d19)](https://www.youtube.com/watch?v=L5uqj5QYDNM&list=PL-2yF7gWGeLH0l9ODfgAK_mHrgP2rOVsT&index=1)  
 
 ## Edition Overview
 
@@ -106,7 +106,7 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 |**[Single sign-on (SSO)](~/features/integrations/sso-microsoft-entra-id-login.md)**| | |✔|✔|
 |**PRICE**|**Team Collaboration**|**CRM**|**Pro**|**Max**|
 |Price per month|€9/user|€19/user|€39/user|€69/user|
-|Price per month (annual payment)|€7.92/user|€16.72/user|€34.32/user|€60.72/user|
+|Price per month (annual payment)|€8/user|€16.75/user|€34.33/user|€60.75/user|
 
 ## Key functionalities Express brings to your business
 
