@@ -4,7 +4,7 @@
 
 Watch our video and discover how **@@name** ensures you and your team will always get each task done on time and with exceptional quality:  
 
-[![ERP-net-To-Do-app-transformed - HD](https://github.com/k1kolev/info/assets/106669250/69f13f24-e747-47ba-b0b3-350b821e3b7a)](https://www.youtube.com/watch?v=Xdo_ryre-Ik)
+[![ERP-net-To-Do-app-transformed - HD](https://github.com/k1kolev/info/assets/106669250/69f13f24-e747-47ba-b0b3-350b821e3b7a)](https://www.youtube.com/watch?v=Xdo_ryre-Ik&list=PL-2yF7gWGeLH0l9ODfgAK_mHrgP2rOVsT&index=5)
 
 No matter what we do, we repeatedly come across a **number of small tasks** every day. 
 These quick jobs usually **appear spontaneously** and tend to **gradually stack up**. 
@@ -80,8 +80,8 @@ It provides all means to **distinguish these quick duties** in the general struc
 You can try **To Do** immediately without any registration necessary. 
 Check out the links below.  
 
-> **[To Do in @@name - Visit to try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)**  
+> **[To Do in @@name - Visit to try now without registration](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=todo)**  
 
-> **[Access credentials - Use these to log in](~/information/try-our-system.md)**  
+> **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**  
 
-[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(cc78900f-b0a3-4761-865f-96cdd1927213)?section=todo)  
+[![to-do-1-shrinked](https://user-images.githubusercontent.com/106669250/206743455-165984ce-b790-4795-b6c0-a28e46192b31.jpg)](https://express-demo.my.erp.net/cl/groups/Communities_Social_Groups(531ae796-da8d-4721-ba39-c4e988b5f5ea)?section=todo)  
