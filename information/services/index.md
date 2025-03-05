@@ -1,4 +1,4 @@
-# @@name Editions
+# @@name Corporation Services
 
 ## Overview
 
