@@ -16,8 +16,10 @@ The end goal is to enhance the client's specific @@name platform instance, optim
 
 > [!Note]  
 > 
-> Premium services by @@name Corporation are exclusive services that are provided by a team of experts
-> separately from 
+> Premium services by @@name Corporation are exclusive optional services that are provided by our team of experts. 
+> As they engage
+>
+> separately from your subscription plan.  
 > 
 
 
