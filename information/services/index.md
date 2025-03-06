@@ -1,4 +1,4 @@
-# @@name Corporation Services
+# @@name Corporation Premium Services
 
 ## Overview
 
@@ -12,11 +12,11 @@ And to help you get the most out of your @@name platform, we offer additional pr
 
 These services aim to ensure an active **fail-safe protection** and continuous **improvement** of the implemented @@name solution, the way it's used, and the business logic built for the specific client.  
 
-To achieve this, @@name Corporation's expert teams actively work with clients to study what business goals they want to achieve and how they use the @@name platform for the purpose.  
 
-
-
-The end goal of these services is to optimize their implemented business solutions, along with their business processes and workflow management.  
+> [!Note]  
+> 
+> Premium services provided by @@name Corporation are exclusive services that are offered 
+> 
 
 
 These services are provided  the edition and plan 
