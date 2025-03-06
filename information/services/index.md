@@ -12,10 +12,12 @@ And to help you get the most out of your @@name platform, we offer additional pr
 
 These services aim to ensure an active **fail-safe protection** and continuous **improvement** of the implemented @@name solution, the way it's used, and the business logic built for the specific client.  
 
+The end goal is to enhance the client's specific @@name platform instance, optimize the covered business processes and their logic, and achieve a continuous, smooth, and secure @@name experience for the client's users.  
 
 > [!Note]  
 > 
-> Premium services provided by @@name Corporation are exclusive services that are offered 
+> Premium services by @@name Corporation are exclusive services that are provided by a team of experts
+> separately from 
 > 
 
 
