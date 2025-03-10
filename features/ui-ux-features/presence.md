@@ -2,9 +2,13 @@
 
 ## Overview
 
-People's availability for communication and collaboration is a hugely important aspect in todays business.  
+People nowadays are rarely not busy with something.  
 
-From meeting sequences to coworkers on the go, there are many reasons why we must make sure the people we're trying to connect to and collaborate must be available.  
+From attending a meeting after meeting to being frequently on the go, there are many reasons why
+
+we must make sure the people we're trying to connect to and collaborate must be available to respond to us.  
+
+Availability for communication and sharing work is a hugely important aspect in todays business.  
 
 @@name implements the Presence feature in its web client to 
 
