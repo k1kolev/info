@@ -6,9 +6,10 @@ People nowadays are always busy with something during their workday.
 
 There are many reasons why people may be unavailable to respond at the time you seek their attention.  
 
-
-
 From attending meetings after meetings to being frequently on the go, 
+
+
+
 
 we must make sure the people we're trying to connect to and collaborate must be available to respond to us.  
 
@@ -25,6 +26,11 @@ Availability for communication and sharing work is a hugely important aspect in 
 ## Implementation of Presence in @@name
 
 The web platform @@name tracks every team member's presence status to show their availability for communication and collaboration.
+
+> [!Note]  
+> Your chosen status will be visible to your colleagues in chat windows and social group participant lists, providing instant clarity on your availability.
+
+
 
 ## Implementation of To Do in @@name
 
