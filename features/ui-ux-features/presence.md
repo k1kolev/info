@@ -2,9 +2,13 @@
 
 ## Overview
 
-People nowadays are rarely not busy with something during their workday.  
+People nowadays are always busy with something during their workday.  
+
+
 
 There are many reasons why people may be unavailable 
+
+
 
 From attending meetings after meetings to being frequently on the go, 
 
