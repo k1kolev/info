@@ -4,9 +4,7 @@
 
 People nowadays are always busy with something during their workday.  
 
-
-
-There are many reasons why people may be unavailable 
+There are many reasons why people may be slow to respond at the time you seek their attention.  
 
 
 
