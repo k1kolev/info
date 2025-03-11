@@ -4,7 +4,7 @@
 
 People nowadays are always busy with something during their workday.  
 
-There are many reasons why people may be slow to respond at the time you seek their attention.  
+There are many reasons why people may be unavailable to respond at the time you seek their attention.  
 
 
 
@@ -14,7 +14,10 @@ we must make sure the people we're trying to connect to and collaborate must be 
 
 Availability for communication and sharing work is a hugely important aspect in todays business.  
 
-@@name implements the Presence feature in its web client to 
+
+
+
+@@name implements the Presence feature in its web client to help you make sure your availability matches this of your team members.
 
 
 
