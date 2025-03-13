@@ -4,13 +4,11 @@
 
 People nowadays are always busy with something during their workday.  
 
+There are many reasons why team members may be unavailable to respond at the time you seek their attention.  
+
 Attending meetings, chasing deadlines, being on the go - professionals are always shifting between tasks and balancing multiple priorities, making real-time availability tracking more essential than ever.  
 
 
-
-
-
-There are many reasons why team members may be unavailable to respond at the time you seek their attention.  
 
 
 we must make sure the people we're trying to connect to and collaborate must be available to respond to us.  
