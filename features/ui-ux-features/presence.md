@@ -4,7 +4,7 @@
 
 People nowadays are always busy with something during their workday.  
 
-Attending meetings after meetings, chasing down deadlines, being frequently on the go, people are constantly juggling tasks and shifting between priorities, making real-time availability tracking more essential than ever.  
+Attending meetings, chasing deadlines, being on the go - professionals are always shifting between tasks and balancing multiple priorities, making real-time availability tracking more essential than ever.  
 
 
 
