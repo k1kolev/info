@@ -2,16 +2,22 @@
 
 ## Overview
 
-People nowadays are always busy with something during their workday.  
+People nowadays are always busy with something during their workday. 
+Professionals are always shifting between tasks and balancing through daily priorities, often handling many things at once.  
 
-There are many reasons why team members may be unavailable to respond at the time you seek their attention.  
+Attending meetings, chasing deadlines, being on the go - there are many reasons why team members may be unavailable to respond at the time you seek their attention.  
 
-Attending meetings, chasing deadlines, being on the go - professionals are always shifting between tasks and balancing multiple priorities, making effective and 
-streamlined communication more essential than ever.  
-
+All this makes effective and streamlined communication more essential than ever. 
 We must make sure the people we're trying to connect to are available to respond to us.  
 
-**Presence** in @@name web client helps you make sure your availability matches this of your team members.
+**Presence** in @@name web client helps you quickly find out if any team member is available
+
+
+make sure your availability matches this of your team members.
+
+
+
+
 
 ## Implementation of Presence in @@name
 
