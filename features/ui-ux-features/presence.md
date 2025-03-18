@@ -12,9 +12,10 @@ To help you quickly and easily connect to your team members at the right time fo
 
 ## What is Presence in @@name
 
-**Presence** is a real-time indicator displaying the availability of team members in your digital platform. 
+**Presence** is a real-time indicator displaying the availability of team members in your digital @@name platform. 
 
-helps you quickly find out if any team member is available
+
+With it, @@name helps you quickly find out if any team member is available
 
 
 make sure your availability matches this of your team members.
