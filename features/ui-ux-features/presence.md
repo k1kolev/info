@@ -5,21 +5,24 @@
 People nowadays are always busy with something during their workday. 
 Professionals are always shifting between tasks and balancing through daily priorities, often handling many things at once.  
 
-Attending meetings, chasing deadlines, being on the go - there are many reasons why team members may be unavailable to respond at the time you seek their attention.  
+Attending meetings, chasing deadlines, being on the go - there are many reasons why team members may be unavailable to respond at the time you seek their attention. 
+This makes effective and streamlined communication more essential than ever.  
 
-All this makes effective and streamlined communication more essential than ever. 
-We must make sure the people we're trying to connect to are available to respond to us.  
+To help you quickly and easily connect to your team members at the right time for all of you, @@name's web client incorporates the **Presence** functionality.  
 
-**Presence** in @@name web client helps you quickly find out if any team member is available
+## What is Presence in @@name
+
+**Presence** is a real-time indicator displaying the availability of team members in your digital platform. 
+
+helps you quickly find out if any team member is available
 
 
 make sure your availability matches this of your team members.
 
+To make sure the people we're trying to connect to are available to respond to us.  
 
 
 
-
-## Implementation of Presence in @@name
 
 
 Availability for communication and sharing work is a hugely important aspect in todays business.  
