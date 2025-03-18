@@ -6,24 +6,18 @@ People nowadays are always busy with something during their workday.
 
 There are many reasons why team members may be unavailable to respond at the time you seek their attention.  
 
-Attending meetings, chasing deadlines, being on the go - professionals are always shifting between tasks and balancing multiple priorities, making real-time availability tracking more essential than ever.  
+Attending meetings, chasing deadlines, being on the go - professionals are always shifting between tasks and balancing multiple priorities, making effective and 
+streamlined communication more essential than ever.  
 
+We must make sure the people we're trying to connect to are available to respond to us.  
 
+**Presence** in @@name web client helps you make sure your availability matches this of your team members.
 
+## Implementation of Presence in @@name
 
-we must make sure the people we're trying to connect to and collaborate must be available to respond to us.  
 
 Availability for communication and sharing work is a hugely important aspect in todays business.  
 
-
-
-
-@@name implements the Presence feature in its web client to help you make sure your availability matches this of your team members.
-
-
-
-
-## Implementation of Presence in @@name
 
 The web platform @@name tracks every team member's presence status to show their availability for communication and collaboration.
 
