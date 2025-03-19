@@ -33,7 +33,7 @@ Taking a quick look at it helps you instantly find out if any team member is rea
   You’re in a meeting or deeply focused on your tasks, so you prefer to avoid distractions except for highly important topics.  
   
 - **Do not disturb**:  
-  You’re presenting something in front of an audience or clients, or you're handling urgent matters – you're not to be interrupted.  
+  You’re presenting something in front of an audience, negotiating with clients, or you're handling urgent matters – you're not to be interrupted.  
 
 - **Away**:  
   You've been inactive for more than a few minutes.  
