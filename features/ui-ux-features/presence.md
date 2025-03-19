@@ -52,6 +52,7 @@ Embracing **Presence** in @@name empowers your team's instant day-to-day communi
 ## Try Presence in @@name Now
 
 You can see and try out the simple yet powerful **Presence** feature in @@name yourself.  
+
 It's easy - simply follow this guide to log into our **publicly available test instance** of @@name - **without having to register**:  
 
 > **[Presence in @@name - Try now without registration](https://testdb.my.erp.net/cl/groups/Communities_Social_Groups(ea899e5e-64d9-48e4-80ce-5d4318b48f12)?section=chatter)**  
