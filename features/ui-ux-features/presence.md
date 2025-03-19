@@ -24,10 +24,28 @@ The web platform @@name tracks every team member's presence status to show their
 Your teammates' presence (as well as yours) is shown across chats and social groups within ERP.net.  
 
 Taking a quick look at it helps you instantly find out if any team member is ready to communicate, too busy at the moment, or simply prefers to avoid distractions and focus on their ongoing tasks.  
+ 
+@@name shows you to your team (and the other way around) as:
+- **Available**:  
+  You’re ready to respond and collaborate.  
+  
+- **Busy**:  
+  You’re in a meeting or deeply focused on your tasks, so you prefer to avoid distractions except for highly important topics.  
+  
+- **Do not disturb**:  
+  You’re presenting something in front of an audience or clients, or you're handling urgent matters – you're not to be interrupted.  
 
+- **Away**:  
+  You've been inactive for more than a few minutes.  
 
+- **Offline**:  
+  You're not logged in or inactive for longer.  
 
-
+@@name updates your presence automatically based on activity.
+ 
+If you manually select any state, other than "Available", ERP.net stops updating it automatically and keeps showing your last selected state.
+ 
+To restore automatic presence updates, set your presence to "Available".
 
 
 
