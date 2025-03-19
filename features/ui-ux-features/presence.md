@@ -19,7 +19,7 @@ The same applies vice-versa for your team, letting your colleagues know if it's 
 
 ## How Presence in @@name Works
 
-The web platform @@name tracks every team member's presence status to show their availability for communication and collaboration.  
+The web platform @@name tracks every team member's availability for communication and collaboration.  
 
 Your teammates' presence (as well as yours) is shown across chats and social groups within ERP.net.  
 
