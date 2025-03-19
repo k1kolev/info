@@ -32,9 +32,9 @@ Taking a quick look at it helps you instantly find out if any team member is rea
   
 - **Do not disturb**: You’re either presenting or handling urgent matters – not to be interrupted.  
 
-- **Away**: You've been inactive for more than a few minutes.  
+- **Away**: You've been inactive for more than a few minutes or away from your device.  
 
-- **Offline**: You're not logged in or inactive for longer.  
+- **Offline**: You're not logged in or inactive for quite longer.  
 
 @@name updates your presence automatically based on activity.
  
