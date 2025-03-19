@@ -40,6 +40,8 @@ Manually selecting any state, other than **Available**, turns off automatic upda
 > [!Tip]  
 > Setting your presence to **Available** resets your status and restores automatic presence updates by the @@name platform.  
 
+## What's In It for You
+
 
 
 
