@@ -15,7 +15,7 @@ To help you quickly and easily connect to your team members at the right time fo
 **Presence** is a **real-time status indicator** that displays the current availability of everyone in your team.  
 
 Whether a teammate is actively working, in a meeting, or away from their desk, you can see their status and reach out at the right time. 
-The same applies vice-versa for your team, helping your colleagues  know if it's a good time to connect with you.
+The same applies vice-versa for your team, letting your colleagues know if it's a good time to connect with you.  
 
 ## How Presence in @@name Works
 
