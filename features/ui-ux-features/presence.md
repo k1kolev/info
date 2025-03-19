@@ -12,10 +12,20 @@ To help you quickly and easily connect to your team members at the right time fo
 
 ## What is Presence in @@name
 
-**Presence** is a real-time indicator displaying the availability of team members in your digital @@name platform. 
+**Presence** is a **real-time status indicator** that displays the current availability of everyone in your team.  
+
+Whether a teammate is actively working, in a meeting, or away from their desk, you can see their status and reach out at the right time. 
+The same applies vice-versa for your team, helping your colleagues  know if it's a good time to connect with you.
+
+## How Presence in @@name Works
 
 
-With it, @@name helps you quickly find out if any team member is available
+Your teammates' presence is shown across chats and social groups within ERP.net. 
+Taking a quick look at it helps you instantly find out if any team member is ready to be reached, too busy at the moment, or simply prefers to avoid distractions and focus on their ongoing tasks.
+
+
+
+
 
 
 make sure your availability matches this of your team members.
@@ -41,8 +51,6 @@ The web platform @@name tracks every team member's presence status to show their
 
 
 
-
-Exiting a meeting to enter another one
 
 No matter what we do, we repeatedly come across a **number of small tasks** every day. 
 These quick jobs usually **appear spontaneously** and tend to **gradually stack up**. 
