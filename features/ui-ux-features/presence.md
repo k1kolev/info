@@ -35,10 +35,10 @@ Taking a quick look at it helps you instantly find out if any team member is rea
 
 @@name updates your presence **automatically** based on your activity.  
 
-Manually selecting any state, other than **Available**, pauses automatic updates and keeps showing to your team your last selected availability.
+Manually selecting any state, other than **Available**, turns off automatic updates to keep showing to your team your availability of choice.
 
 > [!Tip]  
-> Setting your presence to "Available" resets your status and restores automatic presence updates by the @@name system.  
+> Setting your presence to **Available** resets your status and restores automatic presence updates by the @@name platform.  
 
 
 
