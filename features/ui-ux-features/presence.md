@@ -33,18 +33,19 @@ Taking a quick look at it helps you instantly find out if any team member is rea
 - **Away**: You've been inactive for more than a few minutes or away from your device.  
 - **Offline**: You're not logged in or inactive for quite longer.  
 
-@@name updates your presence automatically based on activity.
- 
-If you manually select any state, other than "Available", ERP.net stops updating it automatically and keeps showing your last selected state.
+@@name updates your presence **automatically** based on your activity.  
+
+Manually selecting any state, other than **Available**, pauses automatic updates and keeps showing your last selected availability.
+
+> [!Tip]  
+> 
+>
+> automatically and keep showing your last selected state.
 
 To restore automatic presence updates, set your presence to "Available".
 
 
 
-
-
-> [!Note]  
-> Your chosen status will be visible to your colleagues in chat windows and social group participant lists, providing instant clarity on your availability.
 
 
 
