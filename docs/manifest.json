@@ -80,19 +80,6 @@
       "version": ""
     },
     {
-      "type": "Toc",
-      "source_relative_path": "archive/2023/features/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "archive/2023/features/toc.html"
-        },
-        ".json": {
-          "relative_path": "archive/2023/features/toc.json"
-        }
-      },
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "archive/2023/solutions/agribusiness/index.md",
       "output": {
@@ -1530,6 +1517,16 @@
       "output": {
         ".html": {
           "relative_path": "features/ui-ux-features/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/presence.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/presence.html"
         }
       },
       "version": ""
