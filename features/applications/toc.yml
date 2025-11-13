@@ -1,6 +1,6 @@
 - name: Overview
   href: index.md
-- name: Ingest AI
+- name: Ingest AI app
   href: data-warehouse.md
 - name: Data Warehouse
   href: data-warehouse.md
