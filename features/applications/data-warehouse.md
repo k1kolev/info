@@ -16,7 +16,7 @@ With the *Data Warehouse*, data from heterogenous and external sources is proper
 
 Business analysts use such information:  
 
-* As the basis of balance scorecards.
+* As the basis of balance scorecards 
 * To cut data into dimensions 
 * Measure performance over time 
 * Benchmark and compare target values and key parameters 
