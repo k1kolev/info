@@ -20,4 +20,4 @@ Ingest brings an **uncompromising** *solutions* for your business with its AI pl
 |test 3|test 4|
 |test 5|test 6|
 
-![Ingest AI](photo-1678483790053-71367bc7a02c.jpg)
+![Ingest AI](~/features/logistics/google-image.jpg)
