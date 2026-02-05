@@ -39,7 +39,7 @@ This keeps navigation **structured and predictable**, especially in larger syste
 
 ### Fast switching with optional hover behavior
 
-The App Bar supports **hover-to-open behavior as an optional interaction**:
+The App Bar supports an optional **hover-to-open interaction**:
 
 - Hovering over an app icon opens the app’s navigation instantly.
 - You can preview or move into another app without interrupting your current task flow.
