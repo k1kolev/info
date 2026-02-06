@@ -64,6 +64,16 @@ These options let you balance **screen space** and **navigation stability**, dep
 
 ---
 
+Breadcrumb and label visibility (space vs. guidance)
+You can choose a more compact or more guided navigation look:
+
+- **Show/hide breadcrumb trail**
+- **Show/hide application labels** (icons-only mode)
+
+This is a simple way to keep the UI comfortable on different screen sizes and personal preferences.
+
+---
+
 ### Role-based visibility with user personalization
 
 The App Bar combines governance with flexibility:
