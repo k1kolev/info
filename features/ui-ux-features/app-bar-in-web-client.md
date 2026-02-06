@@ -48,29 +48,24 @@ This reduces unnecessary clicks and supports quick orientation.
 
 ---
 
-### Pinning and layout control
+### Pinning and navigation comfort (space vs. guidance)
 
-The App Bar gives you control over how persistent the navigation should be:
+The App Bar lets you adjust how persistent and how compact the left-side navigation should be, depending on your screen size and working style.
 
-- You can **pin or unpin** the App Bar.
-- When pinned, it stays visible at all times.
-- App labels can be shown or hidden, allowing:
+- You can **pin or unpin** the App Bar (and the App-Centric Navigation panel).
+- You can **show or hide application labels** to switch between:
   - Icon-only mode for compact layouts
   - Icon + label mode for easier orientation
+- You can **show or hide the breadcrumb trail** to balance:
+  - Quick orientation and one-tap navigation
+  - A cleaner, more compact working space
+- You can switch between **Standard view** and **Advanced view**:
+  - Standard view supports focused, straightforward daily work
+  - Advanced view supports deeper customization of panels, navigators, and record forms
 
-These options let you balance **screen space** and **navigation stability**, depending on your working style.
+These options let you balance **screen space**, **guidance**, and **navigation stability** without changing the underlying navigation model.
 
 <img width="2560" height="1440" alt="App-Bar-in-ERP-net-Layout-Personalization-2026-02-05" src="https://github.com/user-attachments/assets/256de3b9-ede9-49c4-ae0f-a42cc3480201" />
-
----
-
-Breadcrumb and label visibility (space vs. guidance)
-You can choose a more compact or more guided navigation look:
-
-- **Show/hide breadcrumb trail**
-- **Show/hide application labels** (icons-only mode)
-
-This is a simple way to keep the UI comfortable on different screen sizes and personal preferences.
 
 ---
 
