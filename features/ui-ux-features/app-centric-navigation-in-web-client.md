@@ -58,9 +58,9 @@ Inside each application, the navigation panel provides several **speed surfaces*
 
 - **Favorites** for quick access to frequently used records  
 - **Recently viewed** entries to return to recent work  
-- **Pinned items** for ongoing or important records  
+- **Pinned items** for ongoing or important items  
 
-These items may include **customers**, **projects**, **documents**, **tasks**, or other types of records, depending on the application you are working in.
+These items may include **customers**, **projects**, **documents**, **tasks**, or other types of objects, depending on the application you are working in.
 
 The adaptive speed surfaces also act as **entry and return points**, improving personal productivity while keeping the overall navigation structure consistent across teams.
 
@@ -106,7 +106,7 @@ Some applications in ERP.net are designed as focused standalone experiences and 
 - Apps such as **Calendar**, **To Do**, **Groups**, **Tiles**, and **Favorites** manage navigation primarily through in-app controls like views, toolbars, tabs, panels, and lists  
 - Navigation is handled directly within the application interface and adapts to the specific purpose of the app  
 
-They remain part of the same app-centric model, while allowing navigation to adapt to the nature of the application.
+They are accessed through the same application-first experience, while allowing navigation to adapt to the nature of each app.
 
 ---
 
