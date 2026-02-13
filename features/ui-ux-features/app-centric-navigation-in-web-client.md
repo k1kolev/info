@@ -1,4 +1,4 @@
-# App-Centric Navigation Panel in ERP.net Web Client
+# App-Centric Navigation Panel in @@name Web Client
 
 A clear way to move inside each business area.
 
@@ -9,7 +9,7 @@ A clear way to move inside each business area.
 In modern ERP systems, switching between business areas is only half of the challenge.  
 The other half is staying oriented **once you are inside an application** - knowing where to go next, what is available, and what matters right now.
 
-ERP.net’s Web Client addresses this with an **app-centric navigation model**.  
+@@name’s Web Client addresses this with an **app-centric navigation model**.  
 After an application is selected (via the App Bar), a second navigation layer helps you move **inside that application** in a structured, predictable way.
 
 This second layer is the **App-Centric Navigation Panel**.
@@ -101,7 +101,7 @@ The result is a navigation model that reflects business responsibilities, while 
 
 ## Standalone apps with specialized navigation
 
-Some applications in ERP.net are designed as focused standalone experiences and use their own internal navigation patterns.
+Some applications in @@name are designed as focused standalone experiences and use their own internal navigation patterns.
 
 - Apps such as **Calendar**, **To Do**, **Groups**, **Tiles**, and **Favorites** manage navigation primarily through in-app controls like views, toolbars, tabs, panels, and lists  
 - Navigation is handled directly within the application interface and adapts to the specific purpose of the app  
@@ -132,7 +132,7 @@ They are accessed through the same application-first experience, while allowing 
 
 ## Putting it into context
 
-ERP.net uses two complementary navigation layers:
+@@name uses two complementary navigation layers:
 
 - The **App Bar** helps you select the application you want to work in  
 - The **App-Centric Navigation Panel** helps you move inside that application  
@@ -145,7 +145,7 @@ Together, they create a navigation experience that stays **business-oriented, pr
 
 ## See the App-Centric Navigation in action
 
-You can explore how the App-Centric Navigation Panel works across different applications in ERP.net, or try it directly in the Web Client **without registering**.
+You can explore how the App-Centric Navigation Panel works across different applications in @@name, or try it directly in the Web Client **without registering**.
 
-- **[Try Out The App-Centric Navigation in @@name](https://express-demo.my.@@name/cl)**
+- **[Try Out The App-Centric Navigation in @@name](https://express-demo.my.erp.net/cl)**
 - **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**
