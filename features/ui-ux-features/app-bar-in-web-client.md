@@ -168,5 +168,5 @@ That next layer is the **App-Centric Navigation Panel**, which is described in t
 
 You can continue with the next topic to learn more about **App-Centric Navigation in @@name**, or explore the **App Bar** directly in the @@name Web Client **without registering**.
 
-- **[Try Out The App Bar in @@name](https://express-demo.my.@@name/cl)**
+- **[Try Out The App Bar in @@name](https://express-demo.my.erp.net/cl)**
 - **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**
