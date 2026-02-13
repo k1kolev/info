@@ -149,5 +149,3 @@ You can explore how the App-Centric Navigation Panel works across different appl
 
 - **[Try Out The App-Centric Navigation in @@name](https://express-demo.my.@@name/cl)**
 - **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**
-
-> **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**  
