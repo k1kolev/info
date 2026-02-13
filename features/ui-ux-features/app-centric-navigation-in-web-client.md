@@ -56,11 +56,11 @@ This separation allows you to move between lists, operations, and reports withou
 
 Inside each application, the navigation panel provides several **speed surfaces** that support daily work:
 
-- **Favorites** for quick access to frequently used records  
+- **Favorites** for quick access to frequently used objects  
 - **Recently viewed** entries to return to recent work  
 - **Pinned items** for ongoing or important items  
 
-These items may include **customers**, **projects**, **documents**, **tasks**, or other types of objects, depending on the application you are working in.
+These items may include **customers**, **projects**, **documents**, **tasks**, or other types of resources, depending on the application you are working in.
 
 The adaptive speed surfaces also act as **entry and return points**, improving personal productivity while keeping the overall navigation structure consistent across teams.
 
@@ -149,3 +149,5 @@ You can explore how the App-Centric Navigation Panel works across different appl
 
 - **[Try Out The App-Centric Navigation in @@name](https://express-demo.my.@@name/cl)**
 - **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**
+
+> **[Access credentials - Use these to log in](~/information/try-out-erp-net-express-crm.md)**  
