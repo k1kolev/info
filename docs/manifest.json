@@ -1462,6 +1462,36 @@
       "version": ""
     },
     {
+      "type": "Resource",
+      "source_relative_path": "features/ui-ux-features/actions.png",
+      "output": {
+        "resource": {
+          "relative_path": "features/ui-ux-features/actions.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/app-bar-in-web-client.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/app-bar-in-web-client.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "features/ui-ux-features/app-centric-navigation-in-web-client.md",
+      "output": {
+        ".html": {
+          "relative_path": "features/ui-ux-features/app-centric-navigation-in-web-client.html"
+        }
+      },
+      "version": ""
+    },
+    {
       "type": "Conceptual",
       "source_relative_path": "features/ui-ux-features/chatter.md",
       "output": {
@@ -1686,6 +1716,49 @@
         },
         ".json": {
           "relative_path": "information/editions-and-plans/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/following-best-practices-for-your-erp-net-id-account.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/erp-net-id/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "information/erp-net-id/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "information/erp-net-id/toc.html"
+        },
+        ".json": {
+          "relative_path": "information/erp-net-id/toc.json"
         }
       },
       "version": ""
