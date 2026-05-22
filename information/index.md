@@ -1,6 +1,10 @@
-# General Information Section
+# Information
 
-In this section you can find fundamental information about @@name.  
+This section contains **general product information about ERP.net**.  
+
+It is intended to provide context, clarify expectations, and supply factual reference material that supports evaluation and use of the platform.
+
+If you want to understand how @@name approaches ERP systems — and why our documentation and feature descriptions focus on explanation rather than slogans — start with **[Why We Explain ERP](~/information/why-we-explain-erp.md)**.
 
 ## Try Out @@name Express CRM
 
@@ -34,6 +38,16 @@ Try it now in your browser by following these simple instructions:
 Explore the following section to learn more about the editions of @@name, the available subscription plans for each of them, and the included functionality and benefits provided by a specific edition and plan:  
 
 > **[Editions and Plans](~/information/editions-and-plans/index.md)**  
+
+## Create and Use Your @@name ID Account
+
+**@@name ID** empowers users to create and utilize the same single, unified account throughout the whole **@@name ecosystem** and **[Operator.net](https://operator.net/)** - its AI platform for building custom AI agents and tailored apps.  
+
+Learn more about it and follow our guide to create your **@@name ID** account and start in a few simple steps:  
+
+* **[Understand @@name ID](~/information/erp-net-id/index.md)**
+* **[Create and Activate Your @@name Account](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
+* **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
 ## More Information
 
