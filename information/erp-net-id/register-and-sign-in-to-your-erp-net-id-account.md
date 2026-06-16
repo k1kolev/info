@@ -4,9 +4,9 @@
 
 ## Overview
 
-You can register or sign into your **@@name ID account** through **[Operator.net](https://operator.net/)** or another **@@name** application or service that supports it.
+You can register or sign into your **global @@name ID account** through **[Operator.net](https://operator.net/)** or another **@@name** application or service that supports it.
 
-Starting the sign-in flow on **Operator.net** redirects you to the **@@name Identity Server**, where you can create your **@@name ID account** or log in with an **existing one**.
+Starting the sign-in flow on **Operator.net** redirects you to the **@@name Identity**, where you can create your **@@name ID account** or log in with an **existing one**.
 
 After you complete the account registration form and confirm your email address, your **@@name ID account** automatically becomes active and ready to use across the **@@name** ecosystem.
 
@@ -21,14 +21,14 @@ This guide will help you:
 
 Before you start, choose the email address you want to use for your **@@name ID profile**.
 
-> **Important**  
+> [!NOTE]
 > We recommend using your official individual email address within your organization or one that is intended for work and business purposes.
 
-Your email address helps correctly identify your account across the **@@name** services you use and supports smoother access continuity.
+Your email address is what each **@@name** service uses to recognize your **@@name ID** account.
 
 ## Create Your **@@name ID** Account Through **Operator.net**
 
-> [!Note]  
+> [!NOTE]  
 > This guide uses **Operator.net** as the entry point. You can also start and complete the **@@name ID** registration and sign-in process from other **@@name** applications or services that support **@@name ID** accounts.
 > The process is identical.
 
@@ -37,7 +37,7 @@ Your email address helps correctly identify your account across the **@@name** s
 1. Open **[Operator.net](https://operator.net/)**.
 2. Select the **Sign In** button in the primary navigation, or select **Start Operator** from the center of the page.
 3. On the **Welcome to Operator** screen, select **Sign in with your @@name ID**.
-4. The system redirects you to the **@@name Identity Server**.
+4. The system redirects you to the **@@name Identity**.
 5. On the sign-in form, select **Create new account**.
 
 The **@@name ID** account creation form opens. 
@@ -55,10 +55,12 @@ Open the **Account** tab and complete the required fields:
 3. Enter your **Password**.
 4. Enter the same password again in **Confirm password**.
 
+<img width="522" height="881" alt="ERP-net-ID-Account-Tab" src="https://github.com/user-attachments/assets/5d53c553-f41d-48b4-832d-f987865bd83a" />
+
 These fields are required. 
 They create the foundation of your **@@name ID** account.
 
-> [!Tip]  
+> [!TIP]  
 > Enter your official work email address in the **Email** field.
 
 ### 3. Review the Profile Tab
@@ -71,6 +73,8 @@ You can enter:
 * **Default language**
 * **Company**
 * **Registration message**
+
+<img width="528" height="946" alt="ERP-net-ID-Profile-Tab" src="https://github.com/user-attachments/assets/93889d82-7d1b-4ef5-b04b-1cdbbc262744" />
 
 All fields in the **Profile** tab are optional.
 
@@ -93,7 +97,7 @@ After activation, you can use your **@@name ID account** to sign in to **Operato
 1. Open **[Operator.net](https://operator.net/)**.
 2. Select **Sign In** or **Start Operator**.
 3. Select **Sign in with your @@name ID**.
-4. Enter your **@@name ID** credentials.
+4. Enter your **@@name ID** email and password.
 5. Select the **Sign In** button.
 
 After sign-in, **Operator.net** recognizes your **@@name ID account**. 
@@ -105,11 +109,11 @@ You can use the same **@@name ID account** with other supported **@@name applica
 
 **@@name ID** gives you one personal account for accessing supported **@@name** apps and services.
 
-By creating and activating your account, you can sign in through **Operator.net**, use the same identity across the **@@name** ecosystem, and avoid managing separate accounts where **@@name ID** is supported.
+By creating and activating your **global @@name ID account**, you can sign in through **Operator.net**, use the same identity across the **@@name** ecosystem, and avoid managing separate accounts where **@@name ID** is supported.
 
 ### Next Topic:
 
-* **[Following Best Practices for Your ERP.net ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
+* **[Following Best Practices for Your @@name ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
 ### Related Services:
 
