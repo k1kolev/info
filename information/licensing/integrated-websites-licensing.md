@@ -80,6 +80,13 @@ Find out how each edition of @@name is licensed and what this means by reading t
 * **[Core-based licensing](core-licensing.md)** - grants a number of *cores*, which are paid with the current subscription. 
 * **[User Types in @@name](user-types.md)** - learn how your @@name users are categorized and what type of users are involved with your business.  
 
+## Technical Information About License Slot Usage
+
+For a more technical understanding of how sessions occupy and release license slots, refer to the following developer documentation topic:
+
+* **[Sessions Overview](https://docs.erp.net/dev/auth/sessions/overview.html)** - explains the relationship between access tokens, sessions, and license slots, including the typical session lifecycle.
+* **[License Slot Usage](https://docs.erp.net/dev/auth/sessions/license-slot.html)** - explains how interactive and service sessions occupy and release license slots based on device and session activity.
+
 ## Contact Us for Assistance
 
 Need more help with understanding licensing or want to ask something specific?  
