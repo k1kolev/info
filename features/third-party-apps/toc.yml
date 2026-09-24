@@ -1,6 +1,4 @@
 - name: Overview
   href: index.md
-- name: Mobile Seller
-  href: mobileseller.md
 - name: Payment Reminders
   href: payment-reminders.md
