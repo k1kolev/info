@@ -21,6 +21,8 @@ Their function is to bridge the gap between establishing customer interest and p
 
 An opportunity may originate from a qualified lead, a meeting with a prospective customer, an inquiry about your products, or a new business requirement identified within your existing customer base.  
 
-Each opportunity represents a particular commercial prospect with its own scope, expectations, responsible salesperson, and outcome. 
+Each opportunity represents a particular commercial prospect with its own scope, expectations, responsible salesperson, and expected outcome. 
+This naturally means the same customer can have multiple opportunities.  
+
 For example, a customer interested in purchasing new equipment and the same customer considering a separate maintenance agreement may represent two distinct opportunities, each developing at its own pace.  
 
