@@ -54,22 +54,20 @@ For example, a customer interested in purchasing new equipment and the same cust
 
 ### Understand What Your Customers Need
 
-Opportunities in ERP.net enable your sales representatives to organize essential information about potential deals as customer requirements become clearer.
+Opportunities in ERP.net enable your sales representatives to organize essential information about potential deals as customer requirements become clearer.  
 
-Depending on how far the discussions have progressed, an opportunity can contain information about:
+<img width="1754" height="897" alt="download" src="https://github.com/user-attachments/assets/dc55a415-7e27-4b27-98bb-251eda319f99" />
 
-The prospective or existing customer.
+Depending on how far the discussions have progressed, an opportunity can contain information about:  
 
-The marketing solution the customer is interested in.
+* The prospective or existing customer. 
+* The business solution the customer is interested in.
+* The marketing campaign from which this deal originated. 
+* Optionally, products and potential purchase quantities. 
+* The anticipated value and timeframe of the deal. 
+* The sales representative responsible for developing the opportunity. 
+* Notes and additional information relevant to the prospective sale.  
 
-Products and potential purchase quantities.
+Your salespeople can develop this information gradually as they gain a better understanding of the customer's needs, expectations, and intentions.  
 
-The anticipated value and timeframe of the deal.
-
-The sales representative responsible for developing the opportunity.
-
-Notes and additional information relevant to the prospective sale.
-
-Your salespeople can develop this information gradually as they gain a better understanding of the customer's needs, expectations, and intentions.
-
-This allows your team to work on potential deals even before the exact quantities, prices, and commercial terms are ready for a formal offer.
+This allows your team to work on potential deals even before the exact quantities, prices, and commercial terms are ready for a formal offer.  
