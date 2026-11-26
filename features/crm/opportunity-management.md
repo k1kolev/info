@@ -43,7 +43,7 @@ An opportunity may originate from objects such as:
 * A meeting with a prospective customer 
 * A practical demonstration of your products 
 * A new business requirement identified within your existing customer base
-* Many other activities, events, or actions.  
+* Many other activities, events, talks, or actions.  
 
 Each opportunity represents a particular commercial prospect with its own scope, expectations, responsible salesperson, and expected outcome. 
 This naturally means the same customer can have multiple opportunities.  
