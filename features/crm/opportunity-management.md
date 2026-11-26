@@ -14,6 +14,13 @@ Understanding the potential value of these deals, their likelihood of success, a
 
 An **Opportunity**, also referred to as a **Deal** in **ERP.net**, represents a potential sale of products or services to a prospective or existing customer.  
 
+While a lead represents a potential customer whose interest is being explored and qualified, an opportunity represents a specific business deal worth pursuing.  
+
 As part of ERP.net CRM, opportunities are the first dedicated business documents for managing individual sales prospects before they become actual sales transactions. 
 Their function is to bridge the gap between establishing customer interest and preparing a concrete commercial proposal.  
+
+An opportunity may originate from a qualified lead, a meeting with a prospective customer, an inquiry about your products, or a new business requirement identified within your existing customer base.  
+
+Each opportunity represents a particular commercial prospect with its own scope, expectations, responsible salesperson, and outcome. 
+For example, a customer interested in purchasing new equipment and the same customer considering a separate maintenance agreement may represent two distinct opportunities, each developing at its own pace.  
 
