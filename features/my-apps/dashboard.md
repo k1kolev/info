@@ -37,7 +37,7 @@ Your **Dashboard** is **completely customizable** and can help you **build a dig
 
 Various other kinds of features, such as **accounting and sales analyses** for receiving quick insights, **your notifications** for taking a peek at what happened recently, **showing multiple instances of your tiles and web view panels** to extend your reach to your resources, and others add up to the **endless functionality of your Dashboard**.  
 
-## Purpose and Application of the Dashboard in @@name
+## Purpose and application of the Dashboard in @@name
 
 The **all-around Dashboard** in **@@name** is intended to **summarize your most interesting aspects** throughout your work. 
 This enables the Dashboard to **display the apps that help you pursue your commitments and undertakings on a single, neatly arranged screen**.  
@@ -50,7 +50,7 @@ The **Dashboard** is **your one-stop solution** to:
 * **get to a specific item in a single tap** - a particular supplier of yours, a marketing campaign that is going on, or a sales target your company has set 
 * **receive quick insights** - events that happened today or this week, showing what new has been going on in your company concerning you  
 
-## App Integration Capabilities of Your Dashboard
+## App integration capabilities of your Dashboard
 
 Thanks to **the native integration capabilities of @@name**, each app you see in your **Dashboard** is just a window (a panel) **visualizing in real time the actual app** that is running in its designated place in the system.  
 
@@ -66,7 +66,7 @@ These examples can help **illustrate this concept in practice**:
 
 This architecture of the **@@name** platform **eliminates the necessity for synchronization and the possibility for unsaved progress or any delays** - syncing simply becomes unnecessary when **everything happens immediately where it is supposed to**.  
 
-## Try Customizing and Browsing Your Dashboard Now
+## Try customizing and browsing your Dashboard now
 
 Your **Dashboard** presents everything that you need in a glimpse and a touch. 
 Curious to see how it does so?  

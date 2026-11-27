@@ -1,4 +1,4 @@
-# UI and UX Features and Functionalities 
+# UI and UX features and functionalities 
 
 ## Overview
 
@@ -19,7 +19,7 @@ and more.
 
 Get to know your **@@name platform's UI and UX features** and **the benefits your business can enjoy** using them.  
 
-## Common UI and UX Features
+## Common UI and UX features
 
 * **[Chatter](chatter.md)**
 * **[Enter Stops](enter-stop.md)**

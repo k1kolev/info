@@ -21,7 +21,7 @@ However, juggling disparate apps from various vendors, designed for different sy
 **My Apps** is the light, modern app package in **@@name** focused entirely onto **you**. 
 **My Apps** combines **all the necessary digital tools** in **a single, integrated app suite**, intended for boosting your **personal productivity** and ensuring seamless **team collaboration**.  
 
-## Your App Suite in @@name
+## Your app suite in @@name
 
 * **[Dashboard](dashboard.md)** - your homeplace to start your day with ease and get an at-a-glimpse view of your most interesting events, records, and so many more. 
 * **[Groups](team-collaboration.md)** - the means to break down silos between your teams and employees through an integrated and team-shared chat, calendar, to do lists, files, and others. 

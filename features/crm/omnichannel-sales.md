@@ -1,6 +1,6 @@
-# Omnichannel Sales Support
+# Omnichannel sales support
 
-## Omnichannel Overview
+## Omnichannel overview
 
 **Omnichannel sales approach** is a **business model** used by companies to provide a **more attractive and convenient customer experience** by **complete integration** of sales processes and data and enabling **seamless switching over** various sales channels for your customers.  
 
@@ -9,7 +9,7 @@ Oftentimes, it is the primary reason behind leaving customers happy and receivin
 
 Thanks to its cloud-native structure and natural integration capabilities, **@@name platform** comes with readily available fully integrated **omnichannel sales support** to automate the processes for order creation and preparation, inventory management, collecting payments, receiving customer feedback, and many others.  
 
-## How Multichannel and Omnichannel business models differ
+## How multichannel and omnichannel business models differ
 
 **Multichannel sales approach** is a business strategy where **multiple communicational channels** are used for making sales and customer service and support. 
 Such approach gives customers the opportunity to use more than one channel (more than one way) to learn more about the products and services supplied by a given business, **and ultimately, purchase them**. 
@@ -39,7 +39,7 @@ Your staff gets access to a rich set of vital customer information, such as:
 
 And while **multichannel** provides a solid foundation for a customer to utilize more than one way to find and buy products and services or seek support, **omnichannel sales** empower businesses to **keep full track** of **all interactions and held communication** with the customer, even when **switching the interaction channel**, from the very beginning of the customer journey, along with journals storing calls, inquiries, orders and sales records.  
 
-## Benefits Provided by Omnichannel Sales in @@name
+## Benefits provided by omnichannel sales in @@name
 
 **@@name's omnichannel sales support** enables the system to inherently share necessary data related to the specific customer between all sales members. 
 You can use this powerful feature to take your customer service to a whole new level and reinforce your value proposition in tons of ways: 
@@ -52,7 +52,7 @@ You can use this powerful feature to take your customer service to a whole new l
 * Sales and support staff can realize a high-quality and timely service thanks to immediate insight into customer profile and records
 * Unnecessary delays in customer service can be completely eliminated, so customers are no longer kept waiting on hold 
 
-## Increasing the Value Proposition for Your Business
+## Increasing the value proposition for your business
 
 @@name brings a whole **new lot of opportunities** for all businesses operating in Distribution and Retail sectors, Field Service Management, and others.  
 
@@ -68,7 +68,7 @@ The **omnichannel sales approach** integrated feature of @@name platform provide
 * Point of sale (POS)
 * Field sales and many other
 
-## Business Intelligence and Decision Making
+## Business intelligence and decision making
 
 By bringing all sales and customer data to a single place, ensuring access for everyone involved, and tracking the full processes and results, @@name allows your managers to make decisions based on detailed real-time data that is collected and processed from records like history logs, journals, filed documents, and others.  
 

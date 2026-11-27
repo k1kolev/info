@@ -1,4 +1,4 @@
-# Logistic Units
+# Logistic units
 
 You can seamlessly operate and manage **logistic units** and the products contained in them.  
 

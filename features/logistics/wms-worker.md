@@ -1,4 +1,4 @@
-# WMS Worker Application
+# WMS Worker application
 
 ## Overview
 
@@ -19,7 +19,7 @@ The mobile application enables your warehouse workers to work in a much more org
 
 WMS Worker **guides and helps** warehouse employees throughout their **daily duties**, while **saving** their work results **directly to WMS Module's records** and updating the Inventory Management System (IMS) and Accounting Modules' **records** accordingly in the process.  
 
-## The Positive Impact WMS Worker Can Have on Your Warehouse Operations
+## The positive impact WMS Worker can have on your warehouse operations
 
 Your WMS mobile application **empowers your warehouse management strategy** by providing a **number of benefits**:
 
@@ -29,7 +29,7 @@ Your WMS mobile application **empowers your warehouse management strategy** by p
 
 ![wms-worker-2 jpg](https://user-images.githubusercontent.com/106669250/189656022-92076c7c-0106-4f10-ab2e-9df880f0de61.jpg)
 
-## Mobile-Native
+## Mobile-native
 
 WMS Worker comes with **integrated support** for a wide range of **mobile devices**, including specialized **mobile terminals** for warehouse use. 
 This is thanks to the intrinsic cloud structure of the application. 

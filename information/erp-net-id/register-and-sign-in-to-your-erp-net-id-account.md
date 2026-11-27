@@ -1,4 +1,4 @@
-# Register and Sign In to Your **@@name ID** Account
+# Register and sign in to your **@@name ID** account
 
 *Create your **@@name ID account** through **Operator.net**, confirm your email address, and start using your account with supported **@@name** apps and services.*
 
@@ -17,7 +17,7 @@ This guide will help you:
 * sign in to **Operator.net** with your **@@name ID profile**;
 * start using your **@@name ID account** with supported services.
 
-## Prepare Your Email Address
+## Prepare your email address
 
 Before you start, choose the email address you want to use for your **@@name ID profile**.
 
@@ -26,13 +26,13 @@ Before you start, choose the email address you want to use for your **@@name ID 
 
 Your email address is what each **@@name** service uses to recognize your **@@name ID** account.
 
-## Create Your **@@name ID** Account Through **Operator.net**
+## Create your **@@name ID** account through **Operator.net**
 
 > [!NOTE]  
 > This guide uses **Operator.net** as the entry point. You can also start and complete the **@@name ID** registration and sign-in process from other **@@name** applications or services that support **@@name ID** accounts.
 > The process is identical.
 
-### 1. Open the **@@name ID** Registration Page
+### 1. Open the **@@name ID** registration page
 
 1. Open **[Operator.net](https://operator.net/)**.
 2. Select the **Sign In** button in the primary navigation, or select **Start Operator** from the center of the page.
@@ -49,7 +49,7 @@ The form contains two tabs:
 * **Account**
 * **Profile**
 
-### 2. Complete the Account Tab
+### 2. Complete the Account tab
 
 Open the **Account** tab and complete the required fields:
 
@@ -66,7 +66,7 @@ They create the foundation of your **@@name ID** account.
 > [!TIP]  
 > Enter your official work email address in the **Email** field.
 
-### 3. Review the Profile Tab
+### 3. Review the Profile tab
 
 Open the **Profile** tab and review the optional fields.
 
@@ -84,7 +84,7 @@ All fields in the **Profile** tab are optional.
 However, we strongly recommend filling them in. 
 This can help administrators, support teams, and service owners identify your account context more clearly and easily in case access, communication, or support is ever needed.
 
-### 4. Complete Your Account Registration
+### 4. Complete your account registration
 
 1. After filling-in the account registration form, select the button **Create Account**.
 2. The system sends a confirmation email to the **email address you entered**.
@@ -106,7 +106,7 @@ After you confirm your email address, your **@@name ID account** becomes active 
 > The "Email Confirmation" letter is the final step, before the system lets you in.
 > The letter contains a **confirmation link valid for 24h**. If you miss this period, you will have to use button ["Account recovery"](./account-recovery.md) for a new email confirmation letter.
 
-## Sign In and Start Using **@@name ID**
+## Sign in and start using **@@name ID**
 
 After activation, you can use your **@@name ID account** to sign in to **Operator.net**.
 
@@ -121,22 +121,22 @@ The available experience depends on the services, permissions, and **@@name** en
 
 You can use the same **@@name ID account** with other supported **@@name applications and services** available to you.
 
-## Summary and Additional Resources
+## Summary and additional resources
 
 **@@name ID** gives you one personal account for accessing supported **@@name** apps and services.
 
 By creating and activating your **global @@name ID account**, you can sign in through **Operator.net**, use the same identity across the **@@name** ecosystem, and avoid managing separate accounts where **@@name ID** is supported.
 
-### Next Topic:
+### Next topic:
 
 * **[Following Best Practices for Your @@name ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 
-### Related Services:
+### Related services:
 
 * **[Operator.net](https://operator.net/)**
 * **[@@name Marketplace](https://marketplace.erp.net/)**
 * **[Vox (Feedback Portal)](https://vox.erp.net/)**
 
-### See Also:
+### See also:
 
 * **[Understand @@name ID](~/information/erp-net-id/index.md)**

@@ -19,7 +19,7 @@ To help you quickly and easily connect to your team members at the right time fo
 Whether a teammate is actively working, in a meeting, or away from their desk, you can see their status and reach out at the right time. 
 The same applies vice versa for your team, letting your colleagues know if it's a good time to connect with you.  
 
-## How Presence in @@name Works
+## How Presence in @@name works
 
 The web platform @@name tracks and shows every team member's availability for communication and collaboration.  
 
@@ -44,7 +44,7 @@ Manually selecting any state other than **Available** turns off automatic update
 > [!Tip]  
 > Setting your presence to **Available** resets your status and restores automatic presence updates by the @@name platform.  
 
-## Analysis and Security with Presence
+## Analysis and security with Presence
 
 @@name records all changes of Presence states in the dedicated **Audit Log Entries** navigator.  
 
@@ -73,7 +73,7 @@ Analyzing user behavior in @@name can help you better understand team member ava
 
 This is a leading step in further optimizing your collaboration, instant communication, and task and event planning, making all these processes more efficient, fluent, and enjoyable for your management and your teams.  
 
-## What's In It for You
+## What's in it for you
 
 Embracing **Presence** in @@name empowers your team's day-to-day instant communication in several ways:
 
@@ -82,7 +82,7 @@ Embracing **Presence** in @@name empowers your team's day-to-day instant communi
 - **Enhance Team Collaboration** – Create a more connected, synced, and informed work environment.  
 - **Boost Productivity** – Focus on tasks without unnecessary distractions, fostering quality work.  
 
-## Try Presence in @@name Now
+## Try Presence in @@name now
 
 You can see and try out the simple yet powerful **Presence** feature in @@name yourself.  
 

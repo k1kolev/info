@@ -1,4 +1,4 @@
-# @@name Editions
+# @@name editions
 
 ## Overview
 
@@ -27,7 +27,7 @@ This way **@@name** empowers companies to overcome the traditional and modern ch
 > 
 > **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
 
-## @@name Editions Purposes and Comparison
+## @@name editions purposes and comparison
 
 The following table offers an at-a-glance comparison of the different editions of @@name.  
 
@@ -70,7 +70,7 @@ Use it to orient you toward the **@@name edition** your business will get the mo
 |Minimum users|2|3|30|
 |Maximum users|100|35|Unlimited (with respect to the selected plan and purchased capacity)|
 
-## @@name Editions Description
+## @@name editions description
 
 **@@name platform** is available in several editions:  
 

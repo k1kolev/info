@@ -1,4 +1,4 @@
-# Warehouse Management System (WMS) Module
+# Warehouse management system (WMS) module
 
 ## Overview
 
@@ -9,7 +9,7 @@ Fully integrated, WMS comes with the mobile application **WMS Worker** built-in,
 
 These characteristics of WMS inherently ensure **fast, smooth, and secure operation**, dealing away with any delays or need for synchronization.  
 
-## WMS Integration
+## WMS integration
 
 The **WMS Solution of @@name** provides a **unified and centralized point** for tracking and processing **warehouse requests**, **orders**, and **transactions**. 
 
@@ -32,7 +32,7 @@ Orders for:
 
 are executed in the same manner.  
 
-## Warehouse Structure and Storage Space
+## Warehouse structure and storage space
 
 With the help of the **WMS software system**, you can accurately **recreate your physical warehouse** as a **hierarchical structure** of **storage locations**. 
 WMS enables you to **define precise storage locations** for your products and arrange them in **shelves**, **racks**, **aisles**, **zones**, **warehouses**, and others. 
@@ -41,19 +41,19 @@ WMS software system is able to **direct warehouse workers** to specific **storag
 
 The Warehouse Management Module also supports **stocking, storing, moving, and dispatching** product quantities in **lots**, allowing the user to **consider the expiration date** (in case products have one) to avoid being left with dead stock.  
 
-## Warehouse Policies
+## Warehouse policies
 
 You can define **warehouse policies** throughout your **hierarchical structure**. 
 Warehouse policies are used in order to **set the rules, restrictions, and possibilities** when carrying out warehouse operations. 
 The policies are designed with **exceptional flexibility**, so as such, they can be applied either **generally** for the whole warehouse or **partially** for the various storage locations, zones, product groups, and many other divisions of your **storage space**.
 
-## Warehouse Tasks and Activities
+## Warehouse tasks and activities
 
 The Warehouse Management System enables warehouse managers and supervisors to **order and track the progress** on various tasks carried out by warehouse workers.  
 Tasks include **receive, move, label, count, inspect, kit, assemble, dispatch**, and many other types.  
 **Warehouse order details** like warehouse zones and locations, products and product variants, lots, serial numbers, logistic units, workers assigned to, and other important attributes are taken into account when **assigning** or **reviewing** tasks.  
 
-## Integral functionality of Warehouse Management System of @@name
+## Integral functionality of warehouse management system of @@name
 
 Your WMS solution is equipped with many other functionalities of @@name:  
 

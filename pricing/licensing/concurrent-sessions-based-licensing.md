@@ -1,27 +1,27 @@
-# Concurrent Sessions-Based Licensing
+# Concurrent sessions-based licensing
 
 Instances of @@name which are registered and paid by the subscription plans **Small Business Basic** and **Small Business Advanced** are licensed under the **Concurrent Sessions-Based** licensing.
 This type of license allows the client to run a **number of active sessions** at the same time.
 
-## Single Concurrent Session Definition
+## Single concurrent session definition
 
 A **single concurrent session** for an @@name instance is an active connection established between **a single desktop application**, or **web** or **mobile client**, on a single user's **device**, on one side, and the **@@name system's instance**, on the other.  
 
 This session grants access to the **@@name instance for this user** via this single application or web client on a desktop computer, laptop, or mobile device (a smartphone, tablet, or other).
 
-### Example of a Singe Concurrent Session
+### Example of a singe concurrent session
 
 An example of the former will be if you start **a single instance of your desktop application** OR **a single instance of your web client**, and then use it to connect to your @@name instance covered by your subscription plan.  
 
 If no *specific conditions* apply, this will be deemed **a single active and concurrent session** between your user's application and **your @@name instance**.
 
-## Multiple Concurrent Sessions Definition
+## Multiple concurrent sessions definition
 
 **Multiple concurrent sessions** for an @@name instance occur when multiple active connections between **applications** and/or **web clients** are established to the **@@name instance**.
 
 These sessions allow you to **execute, control, manage, and oversee** your business processes from multiple locations, devices, and by multiple people and automated applications simultaneously.
 
-### Example of Multiple Active and Concurrent Sessions
+### Example of multiple active and concurrent sessions
 
 An example of multiple concurrent sessions will be if three users start their own single instances of their applications OR web clients, and then use each of these instances to connect to your @@name instance covered by your subscription plan.  
 
@@ -30,20 +30,20 @@ This will lead to *at least** **three** concurrent sessions for your @@name inst
 > [!note]  
 > A single device running multiple applications and/or web clients actively connected to @@name, as well as a single user connecting to @@name from multiple devices (regardless of using an application or web client), all at the same time, will result in **multiple concurrent sessions**.  
 
-## Concurrent Sessions for Small Business Subscription Plans
+## Concurrent sessions for Small Business subscription plans
 
 The starting maximum allowed number of concurring sessions is defined as a base number for each of the **Small Business** subscription plans. Currently, the starting maximum number of allowed concurrent sessions is as follows:
 
 * **Small Business Basic** - starts at a maximum of **three concurrent sessions** 
 * **Small Business Advanced** - starts at a maximum number of **five concurrent sessions**. 
 
-## Number of Users Allowed by a Single License
+## Number of users allowed by a single license
 
 Additional concurrent sessions for your license may be purchased in accordance with our price lists. The maximum number of concurrent sessions available for purchase is **35** for all **Small Business** subscription plans. 
 
 If your @@name instance exceeds this number of concurrent sessions and still does not cover your needs, we would be happy to offer a subscription plan that better matches your type of business and its needs. 
 
-## User Perspective and What This Means for You
+## User perspective and what this means for you
 
 For your business this means **you** and **your team** can have **as many active and unactive users and devices** configured to use your @@name instance as you like, even if the full number of users and devices exceeds the maximum allowed number of concurrent sessions in your personal subscription plan.  
 
@@ -55,7 +55,7 @@ As long as the **maximum number of concurrent sessions** that are running betwee
 
 You will **not be charged** for the number of devices or user accounts you have set up for using @@name platform.
 
-### Specific Cases and Conditions
+### Specific cases and conditions
 
 There are specific cases in which a single application actively connected to @@name may result in creating more than one concurrent sessions.  
 

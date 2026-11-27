@@ -1,4 +1,4 @@
-# Team Collaboration and Social Groups
+# Team collaboration and Social Groups
 
 ## Overview
 
@@ -79,7 +79,7 @@ Many businesses now rely on **remote** and **hybrid work models** to obtain flex
 Positive work culture and well-working teams give people in your company a **sense of connection and purpose**. 
 Such qualities can naturally boost overall performance.  
 
-## Try Team collaboration now
+## Try team collaboration now
 
 You can try **Social Groups** immediately without any registration necessary. 
 Check out the links below.  

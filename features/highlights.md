@@ -1,25 +1,25 @@
-# @@name Twelvefold Highlights
+# @@name twelvefold highlights
 
 The **@@name platform** brings more **innovation**, **automation**, and **mobility** to your business helping you unfold your potential in a plurality of ways.  
 
-## 1. **All in One Solution**
+## 1. **All in one solution**
 
 The system can continuously and successfully serve and support all activities running in any company or enterprise, regardless of its documentation model and workflows, structure, or scale. 
 The comprehensive platform encompasses solutions for Accounting & Financial Management, Supply Chain Management, Inventory Management, Warehouse Management, Manufacturing & Trade, Distribution, and many other fields.  
 
-## 2. **Open Platform**
+## 2. **Open platform**
 
 The platform is designed with integration, flexibility, interoperability, and functionality in mind. 
 Built by people of business for people of business. 
 @@name sticks with its users in support of them at all times, growing together with their business, helping them on the way to success.  
 
-## 3. **Seamless Upgrades**
+## 3. **Seamless upgrades**
 
 We know how cumbersome upgrades can be – and that’s why we made sure they remain well forgotten in the past. 
 Work with the latest stable build of the system without even realizing it had to receive an upgrade. 
 Thanks to the adaptable approach @@name was built with, your customizations and add-ons remain fully intact and functional with every update time and again.  
 
-## 4. **CRM & Social**
+## 4. **CRM & social**
 
 Discover how far you can push your limits. 
 With the built-in CRM and socially oriented model, @@name enables you to unfold your relationships with suppliers, partners, and of course, customers. 
@@ -27,7 +27,7 @@ Bring your whole community closer than ever with effortless and natural instant 
 Let your customers make decisions that matter - make them feel an active part of their journey via the specially made for them Client center. 
 Put yourself ahead of competition by the ultimate marketing strategies accomplished by the Merchandizing functionality of @@name.  
 
-## 5. **Team Collaboration**
+## 5. **Team collaboration**
 
 Let your company members work as a unified and inseparable team. 
 Stick teams closer together by working in real time and full sync, despite being anywhere or constantly on the go. 
@@ -35,7 +35,7 @@ Stick teams closer together by working in real time and full sync, despite being
 Take advantage of personal and team calendars, chats, file sharing, and task management. 
 All in a single system and even a single view – on your desktop, on the web, and mobile.  
 
-## 6. **Omni-Company Management**
+## 6. **Omni-company management**
 
 Run your enterprise in a streamlined crystal-clear manner. 
 No matter how complex a structure your business may have and how many companies it may be arranged in, @@name helps you run them as one. 
@@ -43,7 +43,7 @@ Consolidate data and use shared nomenclatures between your legal entities in a s
 Automate document transfer. 
 Create summarized and accurately structured reports on accounting, sales, accounts receivables & payables, and so much more.  
 
-## 7. **Built-in App Suite**
+## 7. **Built-in app suite**
 
 Leverage a 360-degree app suite that covers more than you can think of. 
 Adhere to the ethical and legal codex with GDPR compliance. 
@@ -63,14 +63,14 @@ Painless to set up, and even easier to use afterwards.
 Customize your views to your desire and personal preferences and change them anytime you feel necessary. 
 You can model your visual layout anywhere throughout the platform.  
 
-## 10. **Deep Customization**
+## 10. **Deep customization**
 
 Design your own document models. 
 Make information flow in the system represent and maintain your real business processes and logic. 
 Define your business rules as precisely as bit-level and add calculated attributes to any object in your system. 
 @@name provides more customization options than you can imagine.  
 
-## 11. **Scalable with High Availability**
+## 11. **Scalable with high availability**
 
 @@name has always been meant to grow and evolve together with your business. 
 And this is the only static characteristic of our platform you will ever find. 
@@ -78,7 +78,7 @@ The scalable system adapts to your company irrespective of its number of employe
 @@name platform expands to cover all your companies, customer base, and opportunities your business continually meets. 
 A software serving that kind of business evolution understandably has to be able to bear a lot of workload – and @@name excels in its high availability, 24/7/366.  
 
-## 12. **Enterprise-Grade Software Solution**
+## 12. **Enterprise-grade software solution**
 
 Security and auditing play a huge role in any enterprise-grade company. 
 The platform of @@name covers end-to-end all corporative needs. 

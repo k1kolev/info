@@ -1,6 +1,6 @@
-# @@name Licensing
+# @@name licensing
 
-## Licensing Models by Editions
+## Licensing models by editions
 
 The licensing section provides detailed information about @@name's licensing policy.  
 
@@ -12,7 +12,7 @@ Depending on the selected edition, @@name is licensed by **one of the following 
 
 More information about each type of license can be found by **visiting the dedicated pages from the linked headings** or **using the navigation panel**.  
 
-## Licensing Models for Integrated Websites
+## Licensing models for integrated websites
 
 * **[Integrated Websites Licensing](integrated-websites-licensing.md)** - grants a number of integrated websites to connect and run with the @@name platform.  
 

@@ -1,12 +1,12 @@
 # @@name Express
 
-## Take a Look at Our Express Overview Video
+## Take a look at our Express overview video
 
 Explore functionalities like personal productivity, team collaboration, and our 360-degree CRM to empower your teams and accelerate success:  
 
 [![ERP-net-dashboard-apps-transformed - HD](https://github.com/k1kolev/info/assets/106669250/415418f9-99ce-4a69-ab2b-19e0b5a12d19)](https://www.youtube.com/watch?v=L5uqj5QYDNM&list=PL-2yF7gWGeLH0l9ODfgAK_mHrgP2rOVsT&index=1)  
 
-## Edition Overview
+## Edition overview
 
 **Express** is a scalable business solution with **a universal purpose**. 
 It is meant for businesses that are looking for ways to enhance their teamwork and improve the services they provide to their customers.  
@@ -20,7 +20,7 @@ These properties power **Express** to be a productivity-driven investment that e
 > 
 > **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
 
-## Functionality and Purpose
+## Functionality and purpose
 
 This edition offers a set of widely used, intuitive business tools, all integrated into a single system:  
 
@@ -43,14 +43,14 @@ All these apps and modules work together to **strengthen** your teamwork, greatl
 
 This makes it the perfect choice for businesses that want to unify and centralize their team efforts, CRM processes, and project management in a single place, controlled via the same unified user interface.  
 
-## Application and Benefits for Your Business
+## Application and benefits for your business
 
 **@@name Express** can be used as a standalone (self-sufficient) solution by any company - no matter how large or small.  
 
 It can also serve as an exceptional companion **running alongside** the main ERP system in your organization, unfolding new functionality to your business. 
 In addition, startups and microbusinesses that are yet to be in need of a complete ERP system can also benefit from the simple, user-friendly **Express**.  
 
-## @@name Express Plans Comparison
+## @@name Express plans comparison
 
 **@@name Express** edition is available through the following subscription plans:  
 
@@ -152,11 +152,11 @@ In addition, startups and microbusinesses that are yet to be in need of a comple
 * **AI Chat**: Consult yourself when in doubt and ask the arbitrator when team opinions differ.
 * **AI rules**: Configure custom AI business rules to automate specific tasks and ensure data accuracy.
 
-### Manage Subscriptions
+### Manage subscriptions
 
 * **Subscriptions and Billing Cycles**: Manage what, when, and how much your customers receive with ease and confidence.
 
-### Manage Services
+### Manage services
 
 * **Maintenance and Repair**: Manage and track the services for physical assets.
 * **Service Orders and SLAs**: Streamlined processes for service contracts, service-level agreements (SLAs), and delivery.

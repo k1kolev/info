@@ -1,6 +1,6 @@
 # @@name Enterprise
 
-## Edition Overview
+## Edition overview
 
 **@@name Enterprise** is the corporate-grade solution for the toughest of business needs and demands.  
 
@@ -20,7 +20,7 @@ Engineered to handle extremely large volumes of data, and intensive processing o
 > 
 > **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
 
-## Functionality and Purpose
+## Functionality and purpose
 
 To fully commit to your business and its scale, **Enterprise** offers all modules and apps packaged in a **complete, single solution**.  
 
@@ -28,7 +28,7 @@ To fully commit to your business and its scale, **Enterprise** offers all module
 
 This edition offers also **dedicated** application and database servers for hosting the @@name instance for your business.  
 
-## Application and Benefits for Your Business
+## Application and benefits for your business
 
 Designed to support a corporate-grade business logic with **the most sophisticated workflows and data processing**, the **Enterprise edition** serves the digital backbone for your business.  
 
@@ -37,7 +37,7 @@ Designed to support a corporate-grade business logic with **the most sophisticat
 **Enterprise** provides the computational power and usage capacity purchased with this edition. 
 This ensures your business scales in a **flexible and seamless manner** depending on the capacity your team and your systems need to operate with cost effectiveness, highly optimized performance, and maximum **efficiency**.  
 
-## @@name Enterprise Plans Comparison
+## @@name Enterprise plans comparison
 
 **@@name Enterprise** edition is available through the following subscription plans:  
 

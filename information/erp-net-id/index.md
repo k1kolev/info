@@ -1,4 +1,4 @@
-# Get to Know **@@name ID**
+# Get to know **@@name ID**
 
 ***@@name ID** gives you one unified global personal account for signing in to supported **@@name** services and maintaining a consistent identity across the **@@name** ecosystem.*
 
@@ -15,7 +15,7 @@ Applications that support **@@name ID** sign-in redirect users to **@@name Ident
 
 **@@name ID** helps organizations keep one consistent identity per user across services.
 
-## Use **@@name ID** Across Supported Services
+## Use **@@name ID** across supported services
 
 You can use **@@name ID** with services that support **@@name ID** authentication.
 
@@ -28,7 +28,7 @@ Supported services include:
 * **Your @@name instance** — when **@@name ID** sign-in is enabled on the instance and your instance user's email matches your **@@name ID** email.
 * **Other @@name services** — when they support **@@name ID** authentication.
 
-## Understand What **@@name ID** Does
+## Understand what **@@name ID** does
 
 **@@name ID** provides the sign-in identity that supported **@@name** services use to associate your activity with your personal profile.
 
@@ -41,7 +41,7 @@ Each **@@name ID** account holds:
 
 When you sign in, **@@name Identity** creates an authenticated session and shares your identity claims with the service you're signing in to. The session is managed by **@@name Identity** and the service, not stored as part of the account itself.
 
-## Identify the Benefits for Users and Organizations
+## Identify the benefits for users and organizations
 
 **@@name ID** is most useful when you work with more than one **@@name** service.
 
@@ -67,7 +67,7 @@ When team members register their **@@name ID** with their work email, organizati
 > **@@name ID** is always a personal account. It does not represent organizational membership on its own.
 > Linking users to a specific **@@name** instance, marketplace tenant, or organizational role is handled by each service's own access settings.
 
-## Learn How Access Works After Sign-In
+## Learn how access works after sign-in
 
 After sign-in, each service uses your **@@name ID profile** according to its own access settings, enabled features, and permission rules.
 
@@ -85,18 +85,18 @@ Access can depend on:
 > **@@name ID** supports sign-in and identification.
 > Service access and **@@name** instance permissions are managed according to the relevant service, organization, and administrator settings.
 
-## Summary and Additional Resources
+## Summary and additional resources
 
 **@@name ID** helps you sign in to supported **@@name** services with one global personal account. 
 It is especially useful when you work across multiple **@@name** entry points.
 
-### Next Topics:
+### Next topics:
 
 * **[Create and Use Your @@name ID Through Operator.net](~/information/erp-net-id/register-and-sign-in-to-your-erp-net-id-account.md)**
 * **[Following Best Practices for Your @@name ID Account](~/information/erp-net-id/following-best-practices-for-your-erp-net-id-account.md)**
 * **[Troubleshooting and Account recovery](~/information/erp-net-id/account-recovery.md)**
 
-### Related Services:
+### Related services:
 
 * **[Operator.net](https://operator.net/)**
 * **[@@name Marketplace](https://marketplace.erp.net/)**

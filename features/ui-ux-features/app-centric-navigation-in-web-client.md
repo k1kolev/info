@@ -1,4 +1,4 @@
-# App-Centric Navigation in @@name Web Client
+# App-centric navigation in @@name Web Client
 
 ## Working into complex business areas
 
@@ -14,7 +14,7 @@ This second layer is the **App-Centric Navigation Panel**.
 
 ---
 
-## What the App-Centric Navigation Panel is
+## What the app-centric navigation panel is
 
 The **App-Centric Navigation Panel** is the **left-side navigation panel** that appears next to the App Bar and changes with the selected application.
 
@@ -145,7 +145,7 @@ Together, they create a navigation experience that stays **business-oriented, pr
 
 ---
 
-## See the App-Centric Navigation in action
+## See the app-centric navigation in action
 
 You can explore how the App-Centric Navigation Panel works across different applications in @@name, or try it directly in the Web Client **without registering**.
 

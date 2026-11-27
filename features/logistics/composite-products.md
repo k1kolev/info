@@ -1,4 +1,4 @@
-# Composite Products
+# Composite products
 
 ## Overview
 
@@ -9,14 +9,14 @@ Since these components comprise the final distributed and sold product, their fu
 
 ![composite-products](https://user-images.githubusercontent.com/106669250/193801208-cce6a072-546d-4de6-8bdc-4acaa12c2e4a.jpg)
 
-## Examples of Composite Products
+## Examples of composite products
 
 The **furniture manufacturing and distribution** businesses are just some key examples of industries that **rely heavily on composite products** to run their operations. 
 Furniture and fixture items are typical products which require an ERP-CRM system that is fully capable of **defining**, **managing**, and **selling** such products. 
 
 Many other businesses, like those trading desktop and server configurations, HVAC (heat, ventilation, and air conditioning), and windows and doors mechanisms and systems, necessitate proper business management solutions and strategies just as much.  
 
-## Implementing Composite Products into @@name WMS
+## Implementing composite products into @@name WMS
 
 The Warehouse Management System of @@name provides complete and integrated support for handling and managing composite products. 
 The system provides all necessary means to **fulfill all kinds of orders and tasks** associated with **handling and managing composite products**, accompanied by their related **documentation**.  
@@ -25,7 +25,7 @@ WMS is capable of **breaking down requisitions** for composite products to **gen
 
 **Availabilities for all components** of composite products can be **tracked in real-time** by the help of the built-in **Warehouse Availabilities Report** functionality.  
 
-## Levels of Control for Composite Products in WMS of @@name
+## Levels of control for composite products in WMS of @@name
 
 WMS introduces several **levels of control** which can be set for **proper and controlled** task execution when working with composite products: 
 

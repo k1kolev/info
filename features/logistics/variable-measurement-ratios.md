@@ -1,4 +1,4 @@
-# Catch Weight Products
+# Catch weight products
 
 ## Overview
 
@@ -36,12 +36,12 @@ The fruits naturally reduce their weight due to the drying process.
 The business then packages and sells the dried produce to retailers. 
 Again, this leads to effective differences in the accounting records for the procured and sold quantities.  
 
-## Industries That Typically Deal with Variable Measurement Ratios of Products
+## Industries that typically deal with variable measurement ratios of products
 
 Variable Measurement Ratios, especially Catch Weight, are typical for industries specialized in **process manufacturing**, **dosing**, and **packaging**, such as food and beverage production, steel and aluminium processing, textile manufacturing, and many others. 
 Their products require a **specialized solution** which can take into account **all specific cases and details**.  
 
-## @@name's Solution
+## @@name's solution
 
 The Warehouse Management System of @@name is **designed to fully support** handling products with Catch Weight. 
 The mobile application allows **entering the weight measured** for any piece of product that is subject to warehouse operations.  

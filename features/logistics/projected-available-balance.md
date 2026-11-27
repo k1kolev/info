@@ -1,4 +1,4 @@
-# Projected Available Balance
+# Projected available balance
 
 ## Overview
 
@@ -14,7 +14,7 @@ This is done by implementing and utilizing what is called **Projected available 
 **Projected available balance** is an important concept in inventory management. 
 It represents the inventory balance (product quantities) that is **projected** (planned to have) **into the future** and is **expected to be available** on hand when the respective time comes.  
 
-## The Challenge of Perceptive and Lean Inventory Management
+## The challenge of perceptive and lean inventory management
 
 Inventory keeping is the foundation for any business trading goods and it comes with the related expenditures. 
 This means **balance between supplies and sales** is the one characteristic that gets the say when planning the inventory, as it largely affects how competitive and profitable the organization gets to be.  
@@ -36,7 +36,7 @@ Achieving this **balance** means always **keeping the right amounts** of product
 
 Successful inventory management is a sophisticated process that requires **an insightful approach with an eye to the future**.  
 
-## What Exactly Is Projected Available Balance?
+## What exactly is projected available balance?
 
 Projected available balance is basically **a listing of your planned product amounts** that are calculated for **one or more future periods** and are expected to **be on-hand at that time**, respectively.  
 
@@ -49,7 +49,7 @@ These amounts are called **projected** because they are **estimated into the fut
 
 The reason PAB is so essential is the fact it is used for several critical inventory operations, such as calculating the **Available to promise** product quantities your business can offer, releasing **Master Production Schedule (MPS)**, **making proper decisions** when the need for restocking arises, **balancing out** the manufacturing, warehouse, and delivery loads, and many others.  
 
-## How to Find out Projected Available Balance
+## How to find out projected available balance
 
 PAB is derived from the **current inventory balance** by subtracting **planned outbound store orders** and adding **scheduled receipts of supplies**. 
 It is a **running sum** that starts from the current values and is iteratively calculated for all **consecutive future periods** until calculations **reach the desired period**.  
@@ -76,7 +76,7 @@ all of which apply for a **single given product**.
 > 
 > Although close in meaning and related in implementation, the two terms still express different concepts.  
 
-## PAB Example
+## PAB example
 
 Suppose we run a company that trades hand tools and power tools. 
 Let us take some product, for example, **a cordless drill driver**. 
@@ -110,7 +110,7 @@ You can find more information on how PAB is calculated in @@name on the followin
 
 [**Projected Available Balance - Technical Documentation**](xref:PAB)
 
-## Why PAB Matters in Your Business
+## Why PAB matters in your business
 
 Projected available balance is a **powerful inventory management tool** that can help you gain **better insight** into your inventory. 
 Understanding it can help you **make smarter decisions** when replenishing and spending up your inventory.  
@@ -126,7 +126,7 @@ PAB functionality in @@name, similarly ATP, **operates in real time**, so your b
 If any new orders are planned or supplies are scheduled, they will immediately take effect on PAB and ATP quantities and reports. 
 This way you can always stay tuned with your inventory movements and know what promises to make to your partners, customers, and other parties.  
 
-## Benefits of Understanding and Utilizing PAB Concept
+## Benefits of understanding and utilizing PAB concept
 
 By mastering **Projected available balance** and utilizing it via your @@name platform, your business can go a long way towards:  
 
@@ -136,7 +136,7 @@ By mastering **Projected available balance** and utilizing it via your @@name pl
 * Enhancing the general view of the inventory
 * Lightening and redistributing the load on equipment, people, and others.
 
-## More Information
+## More information
 
 You can find more information on the exact calculation methods and ATP algorithm, the technical implementation and reporting of ATP, as well as the data and documents used in handling ATP quantities in @@name on the following article:  
 

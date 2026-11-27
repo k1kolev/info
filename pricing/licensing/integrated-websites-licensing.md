@@ -1,4 +1,4 @@
-# Integrated Website Licensing
+# Integrated website licensing
 
 ## Overview
 
@@ -11,7 +11,7 @@ These web apps extend the primary functionality of the @@name platform to the co
 > 
 > **[Integrated Websites in @@name](~/features/system/integrated-websites.md)**
 
-## License Terms
+## License terms
 
 Integrated Websites require a license to become operative. 
 This licensing model permits a certain number of built-in websites to be set up and used.  
@@ -20,13 +20,13 @@ Integrated Website licenses take into account only the number of websites runnin
 
 Each license provides a free slot for a website **regardless of its type**.  
 
-## Startable Websites
+## Startable websites
 
 Learn what types of integrated websites are [**currently supported in @@name**](~/features/system/integrated-websites.md).  
 
-## Website License Usage Examples
+## Website license usage examples
 
-### Starting Multiple Instances of The Same Website
+### Starting multiple instances of the same website
 
 You can start more than one website instance of most integrated websites.
 
@@ -46,7 +46,7 @@ Each of the two companies will operate its Client Center, supported by one websi
 > 
 > Businesses are **free to choose the type** of websites they plan to use these slots for.  
 
-### Swapping Integrated Websites
+### Swapping integrated websites
 
 You can even swap your integrated websites on the go.  
 
@@ -64,14 +64,14 @@ Then, you can use the freed-up slot to put another website - in this case, the T
 
 You can also disable the Table API and bring back the Domain API to reverse this action if desired.  
 
-## Explore Integrated Websites In-Depth
+## Explore integrated websites in-depth
 
 Want to learn more about Integrated Websites? 
 Check out our dedicated topic covering what they are, what types are available, and some usage examples:  
 
 > **[Integrated Websites in @@name](~/features/system/integrated-websites.md)**
 
-## More Information About @@name Licensing
+## More information about @@name licensing
 
 Find out how each edition of @@name is licensed and what this means by reading through the topics below:  
 
@@ -80,14 +80,14 @@ Find out how each edition of @@name is licensed and what this means by reading t
 * **[Core-based licensing](core-licensing.md)** - grants a number of *cores*, which are paid with the current subscription. 
 * **[User Types in @@name](user-types.md)** - learn how your @@name users are categorized and what type of users are involved with your business.  
 
-## Technical Information About License Slot Usage
+## Technical information about license slot usage
 
 For a more technical understanding of how sessions occupy and release license slots, refer to the following developer documentation topic:
 
 * **[Sessions Overview](https://docs.erp.net/dev/auth/sessions/overview.html)** - explains the relationship between access tokens, sessions, and license slots, including the typical session lifecycle.
 * **[License Slot Usage](https://docs.erp.net/dev/auth/sessions/license-slot.html)** - explains how interactive and service sessions occupy and release license slots based on device and session activity.
 
-## Contact Us for Assistance
+## Contact us for assistance
 
 Need more help with understanding licensing or want to ask something specific?  
 

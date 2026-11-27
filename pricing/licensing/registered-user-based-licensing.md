@@ -1,4 +1,4 @@
-# Registered User-Based Licensing
+# Registered user-based licensing
 
 ## Overview
 

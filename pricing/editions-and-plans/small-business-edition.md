@@ -1,6 +1,6 @@
 # @@name Small Business
 
-## Edition Overview
+## Edition overview
 
 **Small Business** is a complete, all-around business management solution in the form of a fully functional **ERP-CRM platform**.  
 
@@ -14,7 +14,7 @@ The ERP-CRM solution **@@name Small Business** comes complemented by business in
 > 
 > **[ERP.net Global | Contact Form](https://erp.net/contact-us/)**  
 
-## Functionality and Purpose
+## Functionality and purpose
 
 The **Small Business** edition of **@@name** helps your organization streamline all of its business operations. 
 Thanks to its **extensive functionality** and everything-integrated architecture, this edition is fully capable of covering all the processes, workflows, and data management actions taking place at your company.  
@@ -30,7 +30,7 @@ Thanks to its **extensive functionality** and everything-integrated architecture
 * financial management and analysis
 * uncountably more business details 
 
-## Application and Benefits for Your Business
+## Application and benefits for your business
 
 **@@name Small Business** can easily be implemented into your company from scratch, **personalizing it** to the special needs, the individual workflows, and the established specific practices of your organization in the process.  
 
@@ -44,7 +44,7 @@ This way **@@name** provides proper process and data management for **each legal
 
 From interacting with customers and suppliers, to reliably carrying out internal operations, to business analysis and strategic decision making for a stable future - **@@name Small Business** completely covers the full cycle of business activities for everyone and everything.  
 
-## @@name Small Business Plans Comparison
+## @@name Small Business plans comparison
 
 **@@name Small Business** edition is available through the following subscription plans:  
 

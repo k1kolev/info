@@ -1,4 +1,4 @@
-# Excise Management module
+# Excise management module
 
 ## Overview
 
@@ -76,7 +76,7 @@ This reduces your efforts on data exchange and greatly eases off communication w
 
 Utilizing the **Excise Management module in @@name** helps your company **stay competitive and trouble-free** when managing and selling your alcohol products in a **confident, cost-effective way**.  
 
-## Documentation and Reporting
+## Documentation and reporting
 
 @@name helps you **create and handle** all necessary **administrative documents** and **excise declarations** to facilitate excise tax and product data reporting.  
 
