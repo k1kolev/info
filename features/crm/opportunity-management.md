@@ -1,6 +1,6 @@
-# Opportunity Management in ERP.net
+# Opportunity management in ERP.net
 
-## Turn Potential Business into Sales
+## Turn potential business into sales
 
 Once a potential customer's interest develops into a genuine business opportunity, your sales team enters a new stage of the customer relationship.  
 
@@ -10,7 +10,7 @@ Understanding the potential value of these deals, their likelihood of success, a
 
 **Opportunity Management** in **ERP.net** helps your sales teams organize, evaluate, drive, and track their deals with customers while providing your business with visibility into its prospective sales and revenue.  
 
-## What Is an Opportunity?
+## What is an opportunity?
 
 An **Opportunity**, also referred to as a **Deal** in **ERP.net**, represents a potential sale of products or services to a prospective or existing customer.  
 
@@ -50,13 +50,11 @@ This naturally means the same customer can have multiple opportunities.
 
 For example, a customer interested in purchasing new equipment and the same customer considering a separate maintenance agreement may represent two distinct opportunities, each developing at its own pace.  
 
-## Develop Your Sales Opportunities
+## Capture and develop your business opportunities
 
-### Understand What Your Customers Need
+### Understand what your customers need
 
 Opportunities in ERP.net enable your sales representatives to organize essential information about potential deals as customer requirements become clearer.  
-
-<img width="1754" height="897" alt="download" src="https://github.com/user-attachments/assets/dc55a415-7e27-4b27-98bb-251eda319f99" />
 
 Depending on how far the discussions have progressed, an opportunity can contain information about:  
 
