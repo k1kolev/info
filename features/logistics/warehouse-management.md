@@ -53,7 +53,7 @@ The Warehouse Management System enables warehouse managers and supervisors to **
 Tasks include **receive, move, label, count, inspect, kit, assemble, dispatch**, and many other types.  
 **Warehouse order details** like warehouse zones and locations, products and product variants, lots, serial numbers, logistic units, workers assigned to, and other important attributes are taken into account when **assigning** or **reviewing** tasks.  
 
-## Integral functionality of warehouse management system of @@name
+## Integral functionality of the @@name warehouse management system
 
 Your WMS solution is equipped with many other functionalities of @@name:  
 

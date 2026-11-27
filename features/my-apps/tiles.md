@@ -17,7 +17,7 @@ Having to navigate back and forth to the same types of data time and again, espe
 
 And this is a challenge that **@@name** enables you to instantly tackle with its built-in application **Tiles**.  
 
-## Your data on focus
+## Your data in focus
 
 Rapidly occurring tasks, speaking with customers and partners, and responding to questions and inquiries all share something in common - the necessity to **find what you are looking for fast** and **understand it with confidence**.  
 

@@ -9,7 +9,7 @@ A **single concurrent session** for an @@name instance is an active connection e
 
 This session grants access to the **@@name instance for this user** via this single application or web client on a desktop computer, laptop, or mobile device (a smartphone, tablet, or other).
 
-### Example of a singe concurrent session
+### Example of a single concurrent session
 
 An example of the former will be if you start **a single instance of your desktop application** OR **a single instance of your web client**, and then use it to connect to your @@name instance covered by your subscription plan.  
 

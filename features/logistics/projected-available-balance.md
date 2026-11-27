@@ -49,7 +49,7 @@ These amounts are called **projected** because they are **estimated into the fut
 
 The reason PAB is so essential is the fact it is used for several critical inventory operations, such as calculating the **Available to promise** product quantities your business can offer, releasing **Master Production Schedule (MPS)**, **making proper decisions** when the need for restocking arises, **balancing out** the manufacturing, warehouse, and delivery loads, and many others.  
 
-## How to find out projected available balance
+## How to calculate projected available balance
 
 PAB is derived from the **current inventory balance** by subtracting **planned outbound store orders** and adding **scheduled receipts of supplies**. 
 It is a **running sum** that starts from the current values and is iteratively calculated for all **consecutive future periods** until calculations **reach the desired period**.  
@@ -126,7 +126,7 @@ PAB functionality in @@name, similarly ATP, **operates in real time**, so your b
 If any new orders are planned or supplies are scheduled, they will immediately take effect on PAB and ATP quantities and reports. 
 This way you can always stay tuned with your inventory movements and know what promises to make to your partners, customers, and other parties.  
 
-## Benefits of understanding and utilizing PAB concept
+## Benefits of understanding and utilizing the PAB concept
 
 By mastering **Projected available balance** and utilizing it via your @@name platform, your business can go a long way towards:  
 

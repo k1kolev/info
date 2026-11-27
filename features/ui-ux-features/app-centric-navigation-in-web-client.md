@@ -14,7 +14,7 @@ This second layer is the **App-Centric Navigation Panel**.
 
 ---
 
-## What the app-centric navigation panel is
+## What the App-Centric Navigation Panel is
 
 The **App-Centric Navigation Panel** is the **left-side navigation panel** that appears next to the App Bar and changes with the selected application.
 

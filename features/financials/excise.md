@@ -1,4 +1,4 @@
-# Excise management module
+# Excise Management module
 
 ## Overview
 
