@@ -54,18 +54,21 @@ For example, a customer interested in purchasing new equipment and the same cust
 
 ### Understand what your customers need
 
-Opportunities in ERP.net enable your sales representatives to organize essential information about potential deals as customer requirements become clearer.  
+The commercial details of a potential deal often become clearer as your discussions with the customer progress.  
+
+ERP.net allows your sales representatives to capture information about an opportunity at an early stage and enrich it as they gain a better understanding of the customer's requirements.  
 
 Depending on how far the discussions have progressed, an opportunity can contain information about:  
 
-* The prospective or existing customer. 
-* The business solution the customer is interested in.
-* The marketing campaign from which this deal originated. 
-* Optionally, products and potential purchase quantities. 
-* The anticipated value and timeframe of the deal. 
-* The sales representative responsible for developing the opportunity. 
-* Notes and additional information relevant to the prospective sale.  
+* The prospective or existing **customer**. 
+* The **business solution** the customer is interested in.
+* The **marketing campaign** from which this deal originated. 
+* Preliminary **products** and **potential purchase quantities** (even if a bit early for these). 
+* The anticipated **value** and **timeframe** of the deal. 
+* The **sales representative** responsible for developing the opportunity. 
+* **Notes** and additional information relevant to the prospective sale.  
 
 Your salespeople can develop this information gradually as they gain a better understanding of the customer's needs, expectations, and intentions.  
 
-This allows your team to work on potential deals even before the exact quantities, prices, and commercial terms are ready for a formal offer.  
+This gives your representatives the flexibility to explore new business opportunities without requiring all commercial details and terms to be established upfront.  
+
